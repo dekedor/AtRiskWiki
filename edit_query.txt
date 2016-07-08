@@ -1,0 +1,1 @@
+select pr_type, page_title from page_restrictions inner join page on(page_restrictions.pr_page = page.page_id) where pr_type = "edit" and page_namespace = 0;
