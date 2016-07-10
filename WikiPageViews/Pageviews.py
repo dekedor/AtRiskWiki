@@ -1,6 +1,7 @@
 import requests
 from datetime import date
-from dateutil.rrule import rrule, DAILY
+from dateutil.rrule import rrule, DAILY, MONTHLY
+import re
 
 def GetPageViewsTyped(title, start, end, user_type='all-agents'):
     """
