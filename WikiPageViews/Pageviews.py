@@ -72,3 +72,33 @@ def GetPageViews(title, start, end):
             pageviews[code]['bot'] = 0
         pageviews[code]['all'] = pageviews[code]['user'] + pageviews[code]['spider'] + pageviews[code]['bot']
     return pageviews
+
+def GetPageViewsPreOct2015(title, start, end):
+    """
+    This functions users http://stats.grok.se to get page view statistics.
+    This is necessary to get data before October 2015.
+    Note: sometime after October 2015 http://stats.grok.se stops tracking these statistics.
+    Unlike for data after October 2015, only total views is stored on http://stats.grok.se.
+
+    inputs:
+        title: page title string
+        start: start month (format yyyydd)
+        end: end month (format yyyydd)
+
+    output:
+        pageviews: dictionary with timestamps as keys and number of views on that day as entries
+                   each user type has it's own entry for each day        
+    """
+    start_str = str(start)
+    end_str = str(end)
+    start_date = date(int(start_str[0:4]), int(start_str[4:6]), 1)
+    end_date = date(int(end_str[0:4]), int(end_str[4:6]), 1)
+    pageviews = {}
+    for dt in rrule(MONTHLY, dtstart=start_date, until=end_date):
+        url = 'http://stats.grok.se/json/en/%04d%02d/%s' % (dt.year, dt.month, title)
+        data = requests.get(url).json()
+        for code in data['daily_views']:
+            field = re.sub('-', '', code)
+            pageviews[field] = {}
+            pageviews[field]['all'] = data['daily_views'][code]
+    return pageviews
