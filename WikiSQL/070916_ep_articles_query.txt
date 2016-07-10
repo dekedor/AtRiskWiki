@@ -1,0 +1,7 @@
+select *
+from page inner join page_restrictions on(page_restrictions.pr_page = page.page_id)
+where page_namespace = 0 and page_is_redirect = 0 and pr_type = "edit";
+
+# page_namespace = 0 restricts to articles
+# page_is_redirect = 0 filters redirect pages
+# pr_type = "edit" selects for edit restrictions
