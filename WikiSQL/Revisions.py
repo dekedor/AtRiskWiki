@@ -35,8 +35,6 @@ def GetRevisionTimeStamps(title):
     Querries Tools DB and returns the date and times of all revisions to a particular
     article. Can accept article title or page id.
 
-    This function is WAY faster if given a page id.
-
     input:
         title: page title string or page id
 
@@ -48,8 +46,9 @@ def GetRevisionTimeStamps(title):
     db=pymysql.connect(host='localhost',port=4711,user=username,passwd=password,db='enwiki_p')
     cur = db.cursor()
     if type(title) == str:
+        # page.page_namespace = 0 ensures we are grabbing a main article
         command = "SELECT revision.rev_timestamp FROM revision JOIN page on page.page_id = revision.rev_page \
-        WHERE page.page_title = '%s' ORDER BY revision.rev_timestamp DESC" % title
+        AND page.page_title = '%s' AND page.page_namespace = 0 ORDER BY revision.rev_timestamp DESC" % title
     elif type(title) == int:
         command = "SELECT revision.rev_timestamp FROM revision \
         WHERE revision.rev_page = '%d' ORDER BY revision.rev_timestamp DESC" % title
@@ -72,8 +71,9 @@ def GetPageCreationDate(title):
     password = 'vlRyT64EYIOsSanN' # get from replica.my.cnf
     db=pymysql.connect(host='localhost',port=4711,user=username,passwd=password,db='enwiki_p')
     cur = db.cursor()
+    # page.page_namespace = 0 ensures we are grabbing a main article
     command = "SELECT revision.rev_timestamp FROM revision JOIN page on page.page_id = revision.rev_page \
-    WHERE page.page_title = '%s' ORDER BY revision.rev_timestamp DESC LIMIT 1" % title
+    WHERE page.page_title = '%s' AND page.page_namespace = 0 ORDER BY revision.rev_timestamp DESC LIMIT 1" % title
     cur.execute(command)
     data = cur.fetchall()
     stamp = Timestamp2Datetime(int(data[0][0]))
