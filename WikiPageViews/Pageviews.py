@@ -95,9 +95,10 @@ def GetPageViewsPreOct2015(title, start, end):
     start_date = date(int(start_str[0:4]), int(start_str[4:6]), 1)
     end_date = date(int(end_str[0:4]), int(end_str[4:6]), 1)
     pageviews = {}
+    s = requests.Session()
     for dt in rrule(MONTHLY, dtstart=start_date, until=end_date):
         url = 'http://stats.grok.se/json/en/%04d%02d/%s' % (dt.year, dt.month, title)
-        data = requests.get(url).json()
+        data = s.get(url).json()
         for code in data['daily_views']:
             field = re.sub('-', '', code)
             pageviews[field] = {}
