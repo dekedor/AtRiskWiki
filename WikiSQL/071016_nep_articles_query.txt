@@ -1,0 +1,13 @@
+select *
+from page
+where page_namespace = 0 and page_is_redirect = 0 and page_len > 800 and page_random > 0.4 
+and (page_touched like "201607%" or page_touched like "201606%" or page_touched like "201605%")
+order by page_random
+limit 50000;
+
+#page_namespace = 0 forces articles
+#page_is_redirect = 0 removes redirects
+#page_len > 800 filters out stubs
+#page_random > 0.4 seeds the random selection of articles
+#page_touched like "201607%" selects for articles that have been last altered no earlier than May 2016
+#order by page_random selects a random sample of articles
