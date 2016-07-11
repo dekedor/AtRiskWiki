@@ -74,7 +74,7 @@ def GetPageViews(title, start, end):
         pageviews[code]['all'] = pageviews[code]['user'] + pageviews[code]['spider'] + pageviews[code]['bot']
     return pageviews
 
-def GetPageViewsPreOct2015(title, start, end):
+def GetPageViewsPreOct2015(title, start, end, s=None):
     """
     This functions users http://stats.grok.se to get page view statistics.
     This is necessary to get data before October 2015.
@@ -95,7 +95,8 @@ def GetPageViewsPreOct2015(title, start, end):
     start_date = date(int(start_str[0:4]), int(start_str[4:6]), 1)
     end_date = date(int(end_str[0:4]), int(end_str[4:6]), 1)
     pageviews = {}
-    s = requests.Session()
+    if not s:
+        s = requests.Session()
     for dt in rrule(MONTHLY, dtstart=start_date, until=end_date):
         url = 'http://stats.grok.se/json/en/%04d%02d/%s' % (dt.year, dt.month, title)
         data = s.get(url).json()
