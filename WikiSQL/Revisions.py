@@ -78,3 +78,73 @@ def GetPageCreationDate(title):
     data = cur.fetchall()
     stamp = Timestamp2Datetime(int(data[0][0]))
     return stamp
+
+def GetRevisions(title):
+    """
+    Querries Tools DB and returns the datetimes and whether edit was made by admin or confirmed us of all revisions 
+    to a particular article. Also looks at comments for mentions of reversion or vandalism.
+    Can accept article title or page id.
+
+    input:
+        title: page title string or page id
+
+    output:
+        df: pandas dataframe with three columns
+            -AdminUser: is this user an admin?
+            -ConfirmedUSer: is this user confirmed? (all admins are considered confirmed)
+            -MentionsVandalism: do the comments mention vandalism?
+            -Revert: do the comments say this is a reversion?
+            -Timestamp: datetime of revision
+    """
+    username = 'u15045' # get from replica.my.cnf
+    password = 'vlRyT64EYIOsSanN' # get from replica.my.cnf
+    db=pymysql.connect(host='localhost',port=4711,user=username,passwd=password,db='enwiki_p')
+    cur = db.cursor()
+    if type(title) == str:
+        # page.page_namespace = 0 ensures we are grabbing a main article
+        command = "SELECT revision.rev_timestamp, revision.rev_comment, user_groups.ug_group FROM revision \
+           JOIN page on page.page_id = revision.rev_page AND page.page_title = '%s' \
+           AND page.page_namespace = 0  JOIN user_groups ON revision.rev_user = user_groups.ug_user \
+           ORDER BY revision.rev_timestamp DESC" % title
+    elif type(title) == int:
+        command = "SELECT revision.rev_timestamp, revision.rev_comment, user_groups.ug_group FROM revision \
+           JOIN page on page.page_id = revision.rev_page AND page.page_id = '%s' \
+           AND page.page_namespace = 0  JOIN user_groups ON revision.rev_user = user_groups.ug_user \
+           ORDER BY revision.rev_timestamp DESC" % title
+    cur.execute(command)
+    data = np.array(cur.fetchall())
+    last_stamp = datetime.datetime(1, 1, 1, 0, 0, 0)
+    timestamp = np.array([Timestamp2Datetime(int(item)) for item in data[:,0]])
+    isAdmin = np.array([item in [b'admin', b'sysop'] for item in data[:, 2]])
+    isConfirmed = np.array([item in [b'admin', b'sysop', b'confirmed', b'autoconfirmed', b'extendedconfirmed'] \
+                            for item in data[:, 2]])
+    isRevert = np.array([('revert' in item.decode('utf-8').lower()) or ('rv ' in item.decode('utf-8').lower()) \
+                   for item in data[:, 1]])
+    mentionsVandal = np.array([('vandal' in item.decode('utf-8').lower()) \
+                   for item in data[:, 1]])
+    timestampNoDup = []
+    isAdminNoDup = []
+    isConfirmedNoDup = []
+    isRevertNoDup = []
+    mentionsVandalNoDup = []
+    for stamp, admin, confirmed, revert, vandal in zip(timestamp, isAdmin, isConfirmed, isRevert, mentionsVandal):
+        if stamp == last_stamp:
+            if admin:
+                isAdminNoDup[-1] = admin
+            if confirmed:
+                isConfirmedNoDup[-1] = confirmed
+        else:
+            last_stamp = stamp
+            timestampNoDup.append(stamp)
+            isAdminNoDup.append(admin)
+            isConfirmedNoDup.append(confirmed)
+            isRevertNoDup.append(revert)
+            mentionsVandalNoDup.append(vandal)
+    series = {}
+    series['Timestamp'] = pd.Series(data=timestampNoDup)
+    series['AdminUser'] = pd.Series(data=isAdminNoDup)
+    series['ConfirmedUser'] = pd.Series(data=isConfirmedNoDup)
+    series['Revert'] = pd.Series(data=isRevertNoDup)
+    series['MentionsVandalism'] = pd.Series(data=mentionsVandalNoDup)
+    df = pd.DataFrame(series)
+    return df
