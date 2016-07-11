@@ -10,6 +10,7 @@ After you ssh into there server there will be a file called replica.my.cnf. Your
 import numpy as np
 import pymysql # to get, do pip install PyMySQL
 import datetime
+import pandas as pd
 
 def Timestamp2Datetime(timestamp):
     """
