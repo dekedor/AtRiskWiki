@@ -1,0 +1,108 @@
+========================
+CLUSTER 0: 3872 MEMBERS
+
+Representative articles:
+Perth_Lynx
+Neha_Sharma
+Homer_G._Lindsay_Jr.
+Mujaddid
+IQ_and_Global_Inequality
+Native_American_Music_Awards
+Winners_and_Sinners
+Emmanuel_Adebayor
+Mumbai
+Fascism
+
+Most common terms:
+also: 0.378
+american: 0.362
+first: 0.350
+born: 0.331
+one: 0.311
+includ: 0.300
+state: 0.277
+unit: 0.258
+known: 0.256
+year: 0.255
+========================
+========================
+CLUSTER 1: 43 MEMBERS
+
+Representative articles:
+HIV
+Tuberculosis
+Tinnitus
+Cholera
+Alzheimer's_disease
+Malaria
+Stroke
+Finnish_heritage_disease
+Influenza
+Genital_wart
+
+Most common terms:
+DB_class: 1.000
+caus: 0.953
+includ: 0.907
+peopl: 0.884
+diseas: 0.837
+symptom: 0.814
+may: 0.791
+occur: 0.767
+also: 0.767
+infect: 0.744
+========================
+========================
+CLUSTER 2: 22 MEMBERS
+
+Representative articles:
+America's_Next_Top_Model_(cycle_13)
+Krista_White
+Heather_Kuzmich
+Jade_Cole
+Chantal_Jones
+America's_Next_Top_Model_(cycle_22)
+Celia_Ammerman
+Renee_Alway
+Alyssa_Sutherland
+Denise_Vasi
+
+Most common terms:
+model: 1.000
+DB_class: 1.000
+top: 0.727
+next: 0.727
+cycl: 0.636
+america: 0.636
+born: 0.636
+fashion: 0.636
+american: 0.545
+septemb: 0.364
+========================
+========================
+CLUSTER 3: 17 MEMBERS
+
+Representative articles:
+977
+911
+Ramesses_VII
+1272
+Week
+September_11
+69
+March_7
+Ramesses_X
+Ramesses_XI
+
+Most common terms:
+year: 1.000
+DB_class: 1.000
+day: 0.706
+date: 0.647
+calendar: 0.647
+th: 0.471
+start: 0.412
+gregorian: 0.353
+full: 0.353
+time: 0.353
+========================

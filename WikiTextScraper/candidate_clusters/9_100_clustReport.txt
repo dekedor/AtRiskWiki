@@ -1,0 +1,27 @@
+========================
+CLUSTER 0: 914 MEMBERS
+
+Representative articles:
+Diana_(film)
+Lupe_Fiasco
+The_Wanted
+Drake_(musician)
+Panic!_at_the_Disco
+Hardwired_(film)
+Heartbeat_(G.E.M._album)
+Indraneil_Sengupta
+Roger_Bart
+Hugh_Jackman
+
+Most common terms:
+film: 0.638
+releas: 0.619
+american: 0.557
+first: 0.455
+one: 0.430
+also: 0.427
+produc: 0.407
+includ: 0.404
+album: 0.403
+music: 0.382
+========================

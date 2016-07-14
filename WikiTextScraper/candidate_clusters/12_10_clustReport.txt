@@ -1,0 +1,81 @@
+========================
+CLUSTER 0: 5275 MEMBERS
+
+Representative articles:
+Noel_Cringle
+Night_at_the_Museum
+Ukrah
+Car
+The_Walking_Dead_(TV_series)
+Jordan_Rhodes
+Studio_DC:_Almost_Live
+Wang_Leehom
+Sea_Gate_Police_Department
+Rumble_Roses_XX
+
+Most common terms:
+also: 0.383
+first: 0.317
+american: 0.316
+one: 0.302
+born: 0.300
+includ: 0.296
+state: 0.272
+known: 0.269
+year: 0.241
+unit: 0.240
+========================
+========================
+CLUSTER 1: 14 MEMBERS
+
+Representative articles:
+Energy
+Ocean
+Evaporation
+Flood
+Water_pollution
+Rain
+Water_fluoridation
+Cactus
+Renewable_energy
+Coral_reef
+
+Most common terms:
+DB_class: 1.000
+water: 0.929
+use: 0.786
+also: 0.714
+form: 0.643
+earth: 0.571
+organ: 0.500
+exist: 0.500
+mani: 0.500
+global: 0.500
+========================
+========================
+CLUSTER 2: 13 MEMBERS
+
+Representative articles:
+Mercury_(element)
+Neptune
+Sky
+Atmosphere_of_Earth
+Google_Earth
+Earth
+Solar_eclipse
+Venus
+Moon
+Jupiter
+
+Most common terms:
+DB_class: 1.000
+earth: 0.923
+sun: 0.769
+moon: 0.769
+solar: 0.769
+planet: 0.769
+system: 0.692
+orbit: 0.692
+surfac: 0.692
+natur: 0.615
+========================

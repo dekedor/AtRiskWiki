@@ -1,0 +1,108 @@
+========================
+CLUSTER 0: 40 MEMBERS
+
+Representative articles:
+Alison
+George_Bush
+JB
+Terrible
+Kyle
+Fuck_You
+Baller
+Hack
+Bum
+Me
+
+Most common terms:
+refer: 1.000
+may: 1.000
+also: 0.050
+fuck: 0.025
+georg: 0.025
+anal: 0.025
+cell: 0.025
+period: 0.025
+alex: 0.025
+le: 0.025
+========================
+========================
+CLUSTER 1: 20 MEMBERS
+
+Representative articles:
+List_of_gay,_lesbian_or_bisexual_people:_K
+List_of_gay,_lesbian_or_bisexual_people:_Bi–Bz
+List_of_gay,_lesbian_or_bisexual_people:_H
+List_of_gay,_lesbian_or_bisexual_people:_T–V
+List_of_gay,_lesbian_or_bisexual_people:_Sa–Sc
+List_of_gay,_lesbian_or_bisexual_people:_R
+List_of_gay,_lesbian_or_bisexual_people:_N–O
+List_of_gay,_lesbian_or_bisexual_people:_W–Z
+List_of_gay,_lesbian_or_bisexual_people:_D–E
+List_of_gay,_lesbian_or_bisexual_people:_C
+
+Most common terms:
+major: 1.000
+percent: 1.000
+famou: 1.000
+focus: 1.000
+follow: 1.000
+DB_class: 1.000
+classif: 1.000
+rumor: 1.000
+american: 1.000
+selfdefinit: 1.000
+========================
+========================
+CLUSTER 2: 20 MEMBERS
+
+Representative articles:
+List_of_Billboard_Hot_100_number-one_singles_of_2004
+List_of_Billboard_Hot_100_number-one_singles_of_2001
+List_of_Billboard_Hot_100_number-one_singles_of_1996
+List_of_Billboard_Hot_100_number-one_singles_of_2009
+List_of_Billboard_Hot_100_number-one_singles_of_2012
+List_of_Billboard_Hot_100_number-one_singles_of_2008
+List_of_Billboard_Hot_100_number-one_singles_of_2007
+List_of_Billboard_Hot_100_number-one_singles_of_2010
+List_of_Billboard_Hot_100_number-one_singles_of_2015
+List_of_Billboard_Hot_100_number-one_singles_of_2005
+
+Most common terms:
+unit: 1.000
+week: 1.000
+billboard: 1.000
+numberon: 1.000
+chart: 1.000
+singl: 1.000
+top: 1.000
+DB_class: 1.000
+state: 1.000
+hot: 1.000
+========================
+========================
+CLUSTER 3: 24 MEMBERS
+
+Representative articles:
+Palm_Beach_Currumbin_High_School
+Kent_School_District
+C._K._McClatchy_High_School
+Ottawa-Glandorf_High_School
+Tottington_High_School
+Superior_High_School_(Montana)
+Burlington_High_School_(Kansas)
+The_Cottage_School
+Staples_High_School
+Columbine_High_School
+
+Most common terms:
+DB_class: 1.000
+school: 1.000
+high: 0.958
+locat: 0.750
+student: 0.542
+district: 0.500
+public: 0.417
+state: 0.375
+part: 0.333
+grade: 0.333
+========================

@@ -1,0 +1,54 @@
+========================
+CLUSTER 0: 2670 MEMBERS
+
+Representative articles:
+New_York
+New_Jersey
+The_Biggest_Loser_(season_11)
+Laura_Marano
+Call_of_Duty:_Ghosts
+Underoath
+The_Dervish_House
+7aum_Arivu
+Real_Madrid_C.F.
+List_of_highest-grossing_films
+
+Most common terms:
+american: 0.412
+also: 0.386
+first: 0.381
+born: 0.349
+one: 0.344
+film: 0.316
+releas: 0.306
+includ: 0.305
+unit: 0.277
+year: 0.277
+========================
+========================
+CLUSTER 1: 41 MEMBERS
+
+Representative articles:
+Nick_Clegg
+David_Cameron
+William_Hague
+George_Osborne
+Julia_Gillard
+Tony_Blair
+British_National_Party
+Boris_Johnson
+List_of_Nova_Scotia_CCF/NDP_members
+Jennifer_Campeau
+
+Most common terms:
+parti: 1.000
+DB_class: 1.000
+elect: 0.902
+member: 0.805
+politician: 0.756
+leader: 0.732
+born: 0.707
+govern: 0.585
+polit: 0.585
+first: 0.561
+========================

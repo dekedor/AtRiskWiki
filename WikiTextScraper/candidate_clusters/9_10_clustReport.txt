@@ -1,0 +1,349 @@
+========================
+CLUSTER 0: 3262 MEMBERS
+
+Representative articles:
+Hamilton_University
+Economy_of_Russia
+The_Fox_and_the_Hound
+Castiel_(Supernatural)
+Seth_Curry
+Oakridge_Secondary_School
+English_language
+Greenvalley_Public_School
+God_of_War_(comics)
+Kirk_Herbstreit
+
+Most common terms:
+also: 0.379
+first: 0.367
+american: 0.365
+born: 0.325
+one: 0.321
+includ: 0.299
+state: 0.273
+year: 0.269
+unit: 0.264
+film: 0.251
+========================
+========================
+CLUSTER 1: 20 MEMBERS
+
+Representative articles:
+Afghanistan's_Next_Top_Model
+America's_Next_Top_Model_(cycle_13)
+Alyssa_Sutherland
+America's_Next_Top_Model
+Celia_Ammerman
+Demelza_Reveley
+America's_Next_Top_Model_(cycle_19)
+America's_Next_Top_Model_(cycle_15)
+Jade_Cole
+Chantal_Jones
+
+Most common terms:
+model: 1.000
+DB_class: 1.000
+next: 0.850
+top: 0.800
+america: 0.750
+cycl: 0.750
+fashion: 0.700
+born: 0.600
+american: 0.600
+air: 0.350
+========================
+========================
+CLUSTER 2: 35 MEMBERS
+
+Representative articles:
+Dengue_fever
+Cardiovascular_disease
+Poliomyelitis
+Sexually_transmitted_infection
+Alzheimer's_disease
+Posttraumatic_stress_disorder
+Smallpox
+Gonorrhea
+Parkinson's_disease
+Cholera
+
+Most common terms:
+DB_class: 1.000
+caus: 0.971
+peopl: 0.943
+includ: 0.914
+may: 0.857
+symptom: 0.857
+diseas: 0.857
+infect: 0.829
+also: 0.829
+occur: 0.800
+========================
+========================
+CLUSTER 3: 13 MEMBERS
+
+Representative articles:
+Tubber,_Ireland
+Tubber,_County_Clare
+Newry,_Pennsylvania
+Sacramento_County_Jail
+County_Armagh
+West_Bend,_Wisconsin
+Falcarragh
+List_of_Irish_counties_by_area
+Bajót
+Rutland
+
+Most common terms:
+counti: 1.000
+DB_class: 1.000
+ireland: 0.615
+popul: 0.462
+area: 0.462
+northern: 0.462
+town: 0.385
+parish: 0.308
+censu: 0.308
+villag: 0.231
+========================
+========================
+CLUSTER 4: 14 MEMBERS
+
+Representative articles:
+List_of_Palestinian_rocket_attacks_on_Israel,_2008
+List_of_Palestinian_rocket_attacks_on_Israel,_2001
+List_of_Palestinian_rocket_attacks_on_Israel,_2012
+Lists_of_Palestinian_rocket_attacks_on_Israel
+List_of_Palestinian_rocket_attacks_on_Israel,_2014
+List_of_Palestinian_rocket_attacks_on_Israel,_2007
+2014_Israel–Gaza_conflict
+List_of_Palestinian_rocket_attacks_on_Israel,_2011
+List_of_Palestinian_rocket_attacks_on_Israel,_2009
+List_of_Palestinian_rocket_attacks_on_Israel,_2013
+
+Most common terms:
+rocket: 1.000
+mortar: 1.000
+palestinian: 1.000
+attack: 1.000
+israel: 1.000
+DB_class: 1.000
+list: 0.929
+strip: 0.857
+gaza: 0.857
+fire: 0.643
+========================
+========================
+CLUSTER 5: 12 MEMBERS
+
+Representative articles:
+WGUL
+DWRX
+List_of_Internet_radio_stations
+KVIE
+WZBH
+WLTF
+WQUN
+WICL
+WRFF
+DWYS
+
+Most common terms:
+DB_class: 1.000
+station: 1.000
+radio: 0.917
+broadcast: 0.833
+own: 0.750
+licens: 0.667
+format: 0.667
+serv: 0.583
+studio: 0.583
+locat: 0.500
+========================
+========================
+CLUSTER 6: 10 MEMBERS
+
+Representative articles:
+Windows_8
+Operating_system
+Rooting_(Android_OS)
+Excretory_system
+Microsoft
+Nervous_system
+Comparison_of_Google_Nexus_tablets
+Circulatory_system
+Windows_7
+Muscular_system
+
+Most common terms:
+system: 1.000
+DB_class: 1.000
+also: 0.700
+includ: 0.600
+use: 0.600
+oper: 0.600
+mobil: 0.500
+maintain: 0.500
+devic: 0.500
+android: 0.500
+========================
+========================
+CLUSTER 7: 9 MEMBERS
+
+Representative articles:
+Inca_Empire
+Historiography_of_the_fall_of_the_Western_Roman_Empire
+Safavid_dynasty
+Tuʻi_Tonga_Empire
+Timur
+Genghis_Khan
+Mughal_Empire
+Sasanian_Empire
+Justinian_I
+
+Most common terms:
+empir: 1.000
+DB_class: 1.000
+western: 0.778
+also: 0.778
+histor: 0.667
+known: 0.667
+rule: 0.667
+centuri: 0.667
+state: 0.556
+south: 0.556
+========================
+========================
+CLUSTER 8: 10 MEMBERS
+
+Representative articles:
+Green
+Red
+Blueshift
+Red_hair
+Red_mist
+Blond
+Eye_color
+Ruby
+Shades_of_red
+Color
+
+Most common terms:
+DB_class: 1.000
+color: 0.900
+red: 0.800
+light: 0.800
+blue: 0.600
+visibl: 0.500
+associ: 0.500
+call: 0.500
+also: 0.500
+commonli: 0.400
+========================
+========================
+CLUSTER 9: 15 MEMBERS
+
+Representative articles:
+Origin_of_the_domestic_dog
+Chesapeake_Bay_Retriever
+English_Mastiff
+German_Pinscher
+Pyrenean_Mastiff
+Golden_Retriever
+Guard_dog
+Pug
+Jennings_Dog
+Spanish_Mastiff
+
+Most common terms:
+DB_class: 1.000
+dog: 1.000
+breed: 0.867
+origin: 0.600
+centuri: 0.467
+popular: 0.400
+mastiff: 0.400
+coat: 0.400
+th: 0.333
+also: 0.333
+========================
+========================
+CLUSTER 10: 14 MEMBERS
+
+Representative articles:
+Magnesium
+Ununtrium
+Chlorine
+Calcium
+Titanium
+Tungsten
+Ununoctium
+Metal
+Cummingtonite
+Iron
+
+Most common terms:
+chemic: 1.000
+element: 1.000
+DB_class: 1.000
+number: 0.857
+atom: 0.857
+compound: 0.714
+symbol: 0.714
+group: 0.714
+use: 0.714
+metal: 0.714
+========================
+========================
+CLUSTER 11: 9 MEMBERS
+
+Representative articles:
+Donald_Trump_Jr.
+Ivanka_Trump
+Donald_Trump_presidential_campaign,_2016
+Melania_Trump
+Fred_Trump
+Donald_Trump_(disambiguation)
+Eric_Trump
+Donald_Trump
+Frederick_Trump
+
+Most common terms:
+trump: 1.000
+DB_class: 1.000
+american: 1.000
+donald: 1.000
+born: 0.778
+businessman: 0.778
+develop: 0.667
+state: 0.556
+real: 0.556
+estat: 0.556
+========================
+========================
+CLUSTER 12: 14 MEMBERS
+
+Representative articles:
+Terry_Bean
+Bianca_Jagger
+Human_rights
+Humanism
+Human_rights_in_Ukraine
+Nguyễn_Văn_Đài
+LGBT_rights_by_country_or_territory
+Civil_rights_movements
+Digital_rights
+Women's_rights
+
+Most common terms:
+DB_class: 1.000
+human: 0.929
+right: 0.857
+law: 0.500
+includ: 0.500
+intern: 0.500
+movement: 0.500
+organ: 0.429
+civil: 0.429
+polit: 0.429
+========================

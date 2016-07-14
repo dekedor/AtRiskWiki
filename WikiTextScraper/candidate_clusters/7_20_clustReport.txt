@@ -1,0 +1,216 @@
+========================
+CLUSTER 0: 879 MEMBERS
+
+Representative articles:
+Gambling
+Twenty:20_(film)
+Charles_Laughton
+Vanessa_Hudgens
+Marina_and_the_Diamonds
+Mammootty
+Priyanka_Chopra
+Fantasia_(1940_film)
+Metallica
+Valiant_(film)
+
+Most common terms:
+releas: 0.601
+film: 0.518
+american: 0.457
+first: 0.452
+one: 0.429
+also: 0.414
+includ: 0.386
+produc: 0.371
+award: 0.348
+album: 0.341
+========================
+========================
+CLUSTER 1: 134 MEMBERS
+
+Representative articles:
+Dimitri_Payet
+Didier_Drogba
+Conor_Sammon
+APOEL_FC
+A.C._Milan
+FIFA_World_Cup
+Álvaro_Morata
+Ashley_Cole
+Premier_League
+Samuel_Eto'o
+
+Most common terms:
+DB_class: 1.000
+footbal: 0.955
+club: 0.903
+leagu: 0.881
+team: 0.866
+play: 0.836
+cup: 0.769
+season: 0.716
+profession: 0.709
+first: 0.701
+========================
+========================
+CLUSTER 2: 95 MEMBERS
+
+Representative articles:
+Draymond_Green
+Andre_Iguodala
+Festus_Ezeli
+Dwight_Howard
+Marreese_Speights
+D._J._Mbenga
+JaVale_McGee
+New_York_Knicks
+John_Wall_(basketball)
+Muggsy_Bogues
+
+Most common terms:
+DB_class: 1.000
+basketbal: 0.979
+nba: 0.968
+profession: 0.947
+player: 0.937
+nation: 0.916
+play: 0.916
+associ: 0.895
+born: 0.884
+american: 0.758
+========================
+========================
+CLUSTER 3: 63 MEMBERS
+
+Representative articles:
+The_Biggest_Loser_Australia:_Singles
+The_Real_World:_Hollywood
+The_Biggest_Loser_Pinoy_Edition:_Doubles
+The_Biggest_Loser_Australia:_The_Next_Generation
+The_Biggest_Loser_UK_(series_3)
+Dancing_with_the_Stars_(U.S._season_9)
+Bad_Girls_Club_(season_9)
+The_Biggest_Loser_Australia:_Families
+The_Biggest_Loser_(season_11)
+The_X_Factor_(Australian_TV_series)
+
+Most common terms:
+DB_class: 1.000
+season: 0.952
+realiti: 0.698
+seri: 0.667
+televis: 0.667
+premier: 0.635
+loser: 0.556
+biggest: 0.556
+first: 0.508
+show: 0.444
+========================
+========================
+CLUSTER 4: 98 MEMBERS
+
+Representative articles:
+New_York_University_Tandon_School_of_Engineering
+Corona_del_Mar_High_School
+ISF_International_School_Frankfurt_Rhein-Main
+Corpus_Christi_Catholic_College
+Wellington_Point_State_High_School
+Tupper_Lake_Central_School_District
+The_Fallibroome_Academy
+Anderson_Secondary_School
+St._Joseph_by_the_Sea_High_School
+Superior_High_School_(Montana)
+
+Most common terms:
+DB_class: 1.000
+school: 1.000
+high: 0.602
+student: 0.551
+locat: 0.490
+year: 0.337
+secondari: 0.316
+public: 0.296
+educ: 0.276
+state: 0.276
+========================
+========================
+CLUSTER 5: 23 MEMBERS
+
+Representative articles:
+List_of_gay,_lesbian_or_bisexual_people:_D–E
+List_of_gay,_lesbian_or_bisexual_people:_M
+List_of_gay,_lesbian_or_bisexual_people:_A
+Lesbian
+List_of_gay,_lesbian_or_bisexual_people:_C
+List_of_gay,_lesbian_or_bisexual_people:_K
+List_of_gay,_lesbian_or_bisexual_people:_I–J
+List_of_gay,_lesbian_or_bisexual_people:_T–V
+List_of_gay,_lesbian_or_bisexual_people:_F
+List_of_gay,_lesbian_or_bisexual_people:_Sd–Si
+
+Most common terms:
+ident: 1.000
+sexual: 1.000
+homosexu: 1.000
+bisexu: 1.000
+use: 1.000
+DB_class: 1.000
+term: 1.000
+orient: 1.000
+centuri: 1.000
+toward: 0.957
+========================
+========================
+CLUSTER 6: 32 MEMBERS
+
+Representative articles:
+Samoa_Joe
+Dean_Ambrose
+Roman_Reigns
+A.J._Styles
+The_Ultimate_Warrior
+Seth_Rollins
+John_Cena
+Chris_Benoit
+WWE
+Dave_Bautista
+
+Most common terms:
+profession: 1.000
+wrestl: 1.000
+world: 1.000
+DB_class: 1.000
+wwe: 0.969
+championship: 0.938
+wrestler: 0.906
+american: 0.812
+champion: 0.781
+born: 0.781
+========================
+========================
+CLUSTER 7: 21 MEMBERS
+
+Representative articles:
+Ohio
+Federal_government_of_the_United_States
+Jim_Inhofe
+Nineteenth_Amendment_to_the_United_States_Constitution
+United_States
+Member_state_of_the_European_Union
+Florida
+California
+List_of_sovereign_states
+Thirteenth_Amendment_to_the_United_States_Constitution
+
+Most common terms:
+DB_class: 1.000
+state: 1.000
+unit: 0.905
+us: 0.571
+first: 0.524
+popul: 0.476
+nation: 0.476
+govern: 0.476
+also: 0.476
+territori: 0.429
+========================

@@ -1,0 +1,216 @@
+========================
+CLUSTER 0: 40 MEMBERS
+
+Representative articles:
+Bitch
+Mang
+Scum
+Faget
+Trash
+Blah
+Kyle
+Hacker
+Loser
+Alex_Jones
+
+Most common terms:
+refer: 1.000
+may: 1.000
+also: 0.050
+fuck: 0.025
+georg: 0.025
+anal: 0.025
+cell: 0.025
+period: 0.025
+alex: 0.025
+le: 0.025
+========================
+========================
+CLUSTER 1: 20 MEMBERS
+
+Representative articles:
+List_of_gay,_lesbian_or_bisexual_people:_H
+List_of_gay,_lesbian_or_bisexual_people:_Ba–Bh
+List_of_gay,_lesbian_or_bisexual_people:_R
+List_of_gay,_lesbian_or_bisexual_people:_M
+List_of_gay,_lesbian_or_bisexual_people:_Sd–Si
+List_of_gay,_lesbian_or_bisexual_people:_I–J
+List_of_gay,_lesbian_or_bisexual_people:_P–Q
+List_of_gay,_lesbian_or_bisexual_people:_N–O
+List_of_gay,_lesbian_or_bisexual_people:_F
+List_of_gay,_lesbian_or_bisexual_people:_A
+
+Most common terms:
+major: 1.000
+percent: 1.000
+famou: 1.000
+focus: 1.000
+follow: 1.000
+DB_class: 1.000
+classif: 1.000
+rumor: 1.000
+american: 1.000
+selfdefinit: 1.000
+========================
+========================
+CLUSTER 2: 30 MEMBERS
+
+Representative articles:
+Thornton_High_School_(Colorado)
+The_Cottage_School
+Tapton_School
+Rochester_Lourdes_High_School
+Oakridge_Secondary_School
+First_Flight_High_School
+Guy–Perkins_High_School
+Ottawa-Glandorf_High_School
+Sponne_School
+C._K._McClatchy_High_School
+
+Most common terms:
+DB_class: 1.000
+school: 1.000
+high: 0.833
+locat: 0.700
+student: 0.533
+district: 0.433
+public: 0.367
+state: 0.367
+grade: 0.300
+year: 0.300
+========================
+========================
+CLUSTER 3: 23 MEMBERS
+
+Representative articles:
+List_of_Billboard_Hot_100_number-one_singles_of_1999
+List_of_Billboard_Hot_100_number-one_singles_of_2009
+List_of_Billboard_Hot_100_number-one_singles_of_2008
+List_of_Billboard_Hot_100_number-one_singles_of_2013
+List_of_Billboard_Hot_100_number-one_singles_of_2004
+List_of_Billboard_Hot_100_number-one_singles_of_2000
+List_of_Billboard_Hot_100_number-one_singles_of_2015
+List_of_Billboard_Hot_100_number-one_singles_of_2005
+List_of_Billboard_Hot_100_number-one_singles_of_1998
+List_of_Billboard_Hot_100_number-one_singles_of_2003
+
+Most common terms:
+unit: 1.000
+billboard: 1.000
+chart: 1.000
+singl: 1.000
+DB_class: 1.000
+state: 1.000
+hot: 1.000
+magazin: 0.957
+numberon: 0.957
+rank: 0.957
+========================
+========================
+CLUSTER 4: 12 MEMBERS
+
+Representative articles:
+Kamen_Rider_Black_(character)
+Kamen_Rider_OOO_(character)
+Kamen_Rider_2
+Kamen_Rider_X
+Kamen_Rider_ZO
+Kamen_Rider_Black_RX
+Riderman
+Kamen_Rider_Black
+Kamen_Rider_Stronger_(character)
+List_of_Kamen_Rider_Black_characters
+
+Most common terms:
+kamen: 1.000
+DB_class: 1.000
+seri: 1.000
+rider: 1.000
+charact: 0.833
+televis: 0.833
+raid: 0.750
+tokusatsu: 0.667
+japanes: 0.667
+protagonist: 0.583
+========================
+========================
+CLUSTER 5: 22 MEMBERS
+
+Representative articles:
+50_Cent_discography
+Britney_Spears_discography
+Rihanna_discography
+Adele_discography
+Madonna_albums_discography
+Jennifer_Lopez_discography
+Unpredictable_(Jamie_Foxx_album)
+Alexandra_Burke_discography
+Christina_Aguilera_discography
+Duran_Duran_discography
+
+Most common terms:
+releas: 1.000
+DB_class: 1.000
+album: 1.000
+one: 0.955
+singl: 0.955
+number: 0.909
+us: 0.909
+two: 0.909
+record: 0.909
+top: 0.909
+========================
+========================
+CLUSTER 6: 10 MEMBERS
+
+Representative articles:
+Born_to_Raise_Hell_(film)
+Linewatch
+The_Contractor_(2007_film)
+Assassination_Games
+Six_Bullets_(2012_film)
+Diamond_Dogs_(film)
+The_Order_(2001_film)
+Red_Scorpion
+Maximum_Risk
+Game_of_Death_(2010_film)
+
+Most common terms:
+star: 1.000
+direct: 1.000
+releas: 1.000
+film: 1.000
+DB_class: 1.000
+american: 1.000
+state: 0.900
+action: 0.900
+unit: 0.900
+van: 0.400
+========================
+========================
+CLUSTER 7: 11 MEMBERS
+
+Representative articles:
+Festus_Ezeli
+D'Angelo_Russell
+Arron_Afflalo
+Marreese_Speights
+Deron_Williams
+Kyrie_Irving
+Klay_Thompson
+Jimmy_Butler_(basketball)
+Harrison_Barnes
+Kawhi_Leonard
+
+Most common terms:
+overal: 1.000
+draft: 1.000
+basketbal: 1.000
+born: 1.000
+nation: 1.000
+associ: 1.000
+player: 1.000
+DB_class: 1.000
+nba: 1.000
+play: 1.000
+========================

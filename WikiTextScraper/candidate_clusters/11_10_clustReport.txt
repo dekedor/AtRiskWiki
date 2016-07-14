@@ -1,0 +1,105 @@
+========================
+CLUSTER 0: 4766 MEMBERS
+
+Representative articles:
+Colin_Kaepernick
+Eleanor_Roosevelt
+Meena_Kumari
+Lexi_Belle
+Vidya_Balan
+Super_Smash_Bros.
+Brian_H._Hook
+Sheila_Jackson_Lee
+Drug
+Mikhail_Gorbachev
+
+Most common terms:
+also: 0.384
+first: 0.329
+american: 0.329
+born: 0.308
+one: 0.304
+includ: 0.300
+state: 0.272
+known: 0.267
+year: 0.247
+unit: 0.246
+========================
+========================
+CLUSTER 1: 11 MEMBERS
+
+Representative articles:
+Water_fluoridation
+Rain
+Water
+Water-fuelled_car
+Water_pollution
+Flood
+Ocean
+Cactus
+Evaporation
+Water_fluoridation_controversy
+
+Most common terms:
+DB_class: 1.000
+water: 1.000
+also: 0.636
+use: 0.636
+form: 0.545
+may: 0.545
+live: 0.455
+known: 0.455
+occur: 0.455
+mani: 0.455
+========================
+========================
+CLUSTER 2: 9 MEMBERS
+
+Representative articles:
+Uranus
+Moon
+Earth
+Venus
+Jupiter
+Mercury_(planet)
+Neptune
+Solar_System
+Sky
+
+Most common terms:
+earth: 1.000
+sun: 1.000
+moon: 1.000
+DB_class: 1.000
+planet: 1.000
+solar: 0.889
+system: 0.889
+orbit: 0.889
+time: 0.778
+atmospher: 0.778
+========================
+========================
+CLUSTER 3: 8 MEMBERS
+
+Representative articles:
+List_of_aircraft_of_the_Malaysian_Armed_Forces
+Azerbaijani_Armed_Forces
+Islamic_Republic_of_Iran_Air_Force
+Rudolf_Anderson
+Nicole_Malachowski
+Brooks_City-Base
+Cameroon_Air_Force
+2004_French–Ivorian_clashes
+
+Most common terms:
+forc: 1.000
+DB_class: 1.000
+air: 0.875
+aircraft: 0.625
+unit: 0.500
+arm: 0.500
+servic: 0.500
+state: 0.500
+militari: 0.375
+oper: 0.375
+========================

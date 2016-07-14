@@ -1,0 +1,54 @@
+========================
+CLUSTER 0: 24 MEMBERS
+
+Representative articles:
+Agata
+Loge
+Baller
+Swag
+Alison
+Hooker
+WTF
+Antics
+Cowtown
+Yolo
+
+Most common terms:
+refer: 1.000
+may: 1.000
+fastest: 0.000
+fast: 0.000
+farm: 0.000
+far: 0.000
+farmer: 0.000
+fascist: 0.000
+fat: 0.000
+fashion: 0.000
+========================
+========================
+CLUSTER 1: 20 MEMBERS
+
+Representative articles:
+List_of_gay,_lesbian_or_bisexual_people:_F
+List_of_gay,_lesbian_or_bisexual_people:_K
+List_of_gay,_lesbian_or_bisexual_people:_D–E
+List_of_gay,_lesbian_or_bisexual_people:_C
+List_of_gay,_lesbian_or_bisexual_people:_Sj–Sz
+List_of_gay,_lesbian_or_bisexual_people:_P–Q
+List_of_gay,_lesbian_or_bisexual_people:_L
+List_of_gay,_lesbian_or_bisexual_people:_I–J
+List_of_gay,_lesbian_or_bisexual_people
+List_of_gay,_lesbian_or_bisexual_people:_Bi–Bz
+
+Most common terms:
+major: 1.000
+percent: 1.000
+famou: 1.000
+focus: 1.000
+follow: 1.000
+DB_class: 1.000
+classif: 1.000
+rumor: 1.000
+american: 1.000
+selfdefinit: 1.000
+========================

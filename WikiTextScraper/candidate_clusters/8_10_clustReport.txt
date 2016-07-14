@@ -1,0 +1,511 @@
+========================
+CLUSTER 0: 2145 MEMBERS
+
+Representative articles:
+Super_Smash_Bros.
+O._J._Mayo
+2014_FIFA_World_Cup
+Prince_(musician)
+Brady_Hoke
+Republic_(album)
+Stem_cell
+Halo:_Reach
+Mary_Helen_Bowers
+You_Spin_Me_Round_(Like_a_Record)
+
+Most common terms:
+american: 0.393
+first: 0.391
+also: 0.379
+one: 0.350
+releas: 0.335
+born: 0.328
+film: 0.324
+includ: 0.298
+year: 0.291
+two: 0.279
+========================
+========================
+CLUSTER 1: 227 MEMBERS
+
+Representative articles:
+Mexicans
+George_Runner
+Texas
+Alison_McGovern
+Lynton_Crosby
+Dennis_Kucinich
+Aliyah
+Sir_John_Mellor,_2nd_Baronet
+Mahmoud_Abbas
+Pakistan_Tehreek-e-Insaf
+
+Most common terms:
+DB_class: 1.000
+state: 0.775
+unit: 0.692
+govern: 0.485
+nation: 0.463
+first: 0.445
+war: 0.441
+also: 0.432
+parti: 0.423
+elect: 0.410
+========================
+========================
+CLUSTER 2: 27 MEMBERS
+
+Representative articles:
+Systemic_lupus_erythematosus
+Urinary_tract_infection
+Hemorrhoid
+Lyme_disease
+Alzheimer's_disease
+Herpes_simplex
+Hepatitis_C
+Pneumonia
+Cardiovascular_disease
+List_of_HIV-positive_people
+
+Most common terms:
+caus: 1.000
+DB_class: 1.000
+includ: 0.963
+peopl: 0.926
+diseas: 0.926
+treatment: 0.852
+symptom: 0.852
+infect: 0.852
+may: 0.852
+also: 0.815
+========================
+========================
+CLUSTER 3: 22 MEMBERS
+
+Representative articles:
+List_of_gay,_lesbian_or_bisexual_people:_R
+Homosexuality
+Lesbian
+List_of_gay,_lesbian_or_bisexual_people:_L
+List_of_gay,_lesbian_or_bisexual_people:_N–O
+List_of_gay,_lesbian_or_bisexual_people:_F
+List_of_gay,_lesbian_or_bisexual_people:_T–V
+List_of_gay,_lesbian_or_bisexual_people:_Ba–Bh
+List_of_gay,_lesbian_or_bisexual_people:_W–Z
+List_of_gay,_lesbian_or_bisexual_people:_Sa–Sc
+
+Most common terms:
+ident: 1.000
+sexual: 1.000
+homosexu: 1.000
+bisexu: 1.000
+due: 1.000
+lesbian: 1.000
+use: 1.000
+DB_class: 1.000
+term: 1.000
+orient: 1.000
+========================
+========================
+CLUSTER 4: 27 MEMBERS
+
+Representative articles:
+C
+Ancient_Greek_religion
+Greece
+Greeks
+Milena_Apostolaki
+Erebus
+Gamma
+Chi_(letter)
+Alpha
+Upsilon
+
+Most common terms:
+DB_class: 1.000
+greek: 0.963
+also: 0.630
+letter: 0.556
+alphabet: 0.519
+use: 0.519
+ancient: 0.481
+modern: 0.481
+origin: 0.481
+latin: 0.407
+========================
+========================
+CLUSTER 5: 14 MEMBERS
+
+Representative articles:
+Lists_of_Palestinian_rocket_attacks_on_Israel
+List_of_Palestinian_rocket_attacks_on_Israel,_2001
+List_of_Palestinian_rocket_attacks_on_Israel,_2009
+List_of_Palestinian_rocket_attacks_on_Israel,_2015
+List_of_Palestinian_rocket_attacks_on_Israel,_2010
+List_of_Palestinian_rocket_attacks_on_Israel,_2014
+List_of_Palestinian_rocket_attacks_on_Israel,_2011
+List_of_Palestinian_rocket_attacks_on_Israel,_2007
+List_of_Palestinian_rocket_attacks_on_Israel,_2016
+List_of_Palestinian_rocket_attacks_on_Israel,_2013
+
+Most common terms:
+rocket: 1.000
+mortar: 1.000
+palestinian: 1.000
+attack: 1.000
+israel: 1.000
+DB_class: 1.000
+list: 0.929
+strip: 0.857
+gaza: 0.857
+fire: 0.643
+========================
+========================
+CLUSTER 6: 41 MEMBERS
+
+Representative articles:
+Evander_Holyfield
+Dave_Bautista
+Damien_Sandow
+Dean_Ambrose
+World_Tag_Team_Championship_(WWE)
+Money_in_the_Bank_(2016)
+List_of_current_champions_in_TNA_Wrestling
+Roman_Reigns
+Michael_Bisping
+John_Cena
+
+Most common terms:
+DB_class: 1.000
+profession: 0.976
+championship: 0.927
+wrestl: 0.902
+wwe: 0.878
+world: 0.854
+wrestler: 0.829
+born: 0.780
+american: 0.780
+champion: 0.756
+========================
+========================
+CLUSTER 7: 21 MEMBERS
+
+Representative articles:
+Krista_White
+Jade_Cole
+Chantal_Jones
+Demelza_Reveley
+Heather_Kuzmich
+America's_Next_Top_Model
+Celia_Ammerman
+America's_Next_Top_Model_(cycle_22)
+Mariko_Okubo
+Mawra_Hocane
+
+Most common terms:
+DB_class: 1.000
+model: 1.000
+next: 0.810
+top: 0.762
+america: 0.714
+cycl: 0.714
+born: 0.619
+fashion: 0.619
+american: 0.524
+septemb: 0.381
+========================
+========================
+CLUSTER 8: 11 MEMBERS
+
+Representative articles:
+WTOP-FM
+WZBH
+WICL
+List_of_Internet_radio_stations
+Southsound_Radio
+WGUL
+WRFF
+DWYS
+DWRX
+WLTF
+
+Most common terms:
+radio: 1.000
+DB_class: 1.000
+station: 1.000
+broadcast: 0.909
+own: 0.727
+licens: 0.727
+format: 0.727
+serv: 0.636
+music: 0.545
+studio: 0.545
+========================
+========================
+CLUSTER 9: 19 MEMBERS
+
+Representative articles:
+Cricket
+Sourav_Ganguly
+Gautam_Gambhir
+History_of_cricket
+List_of_Test_cricket_records
+Ishant_Sharma
+Virender_Sehwag
+Rahul_Dravid
+S._Sreesanth
+Shahid_Afridi
+
+Most common terms:
+DB_class: 1.000
+cricket: 0.947
+intern: 0.842
+test: 0.842
+one: 0.789
+play: 0.789
+team: 0.789
+also: 0.737
+indian: 0.737
+second: 0.684
+========================
+========================
+CLUSTER 10: 26 MEMBERS
+
+Representative articles:
+Project_Chanology
+Doctrine_of_Exchange
+Homer_G._Lindsay_Jr.
+R_v_Church_of_Scientology_of_Toronto
+Scientology_and_sexual_orientation
+Operation_Snow_White
+Scientology_as_a_business
+Apostolic_Lutheran_Church_of_America
+Mark_Rathbun
+Manmin_Central_Church
+
+Most common terms:
+church: 1.000
+DB_class: 1.000
+scientolog: 0.692
+member: 0.577
+one: 0.500
+includ: 0.462
+state: 0.462
+organ: 0.423
+scientologist: 0.423
+also: 0.423
+========================
+========================
+CLUSTER 11: 12 MEMBERS
+
+Representative articles:
+Brahmanbaria_District
+Mansar,_Pakistan
+Notak_Bhakkar
+5th_Queens
+Sumaira_Malik
+Shahpur,_Punjab
+Fatehpur_Thakiala
+Chakwal_District
+Bhera
+Malhoo
+
+Most common terms:
+district: 1.000
+DB_class: 1.000
+pakistan: 0.833
+provinc: 0.667
+punjab: 0.583
+urdu: 0.417
+known: 0.333
+citi: 0.250
+town: 0.250
+locat: 0.250
+========================
+========================
+CLUSTER 12: 12 MEMBERS
+
+Representative articles:
+D.O._(singer)
+Kai_(singer)
+Chen_(singer)
+Park_Chanyeol
+BamBam_(singer)
+Kim_Jae-joong
+Luhan_(singer)
+Park_Yoo-chun
+Byun_Baek-hyun
+Heo_Ga-yoon
+
+Most common terms:
+south: 1.000
+born: 1.000
+DB_class: 1.000
+group: 0.917
+singer: 0.917
+member: 0.917
+korean: 0.917
+known: 0.833
+actor: 0.750
+boy: 0.750
+========================
+========================
+CLUSTER 13: 10 MEMBERS
+
+Representative articles:
+UFC_on_Fuel_TV:_Franklin_vs._Le
+UFC_128
+UFC_Fight_Night:_Barnett_vs._Nelson
+Anderson_Silva
+UFC_27
+UFC_100
+UFC_200
+UFC_67
+UFC_108
+UFC_127
+
+Most common terms:
+martial: 1.000
+DB_class: 1.000
+mix: 1.000
+ufc: 1.000
+art: 0.900
+fight: 0.900
+held: 0.900
+event: 0.900
+ultim: 0.800
+championship: 0.800
+========================
+========================
+CLUSTER 14: 10 MEMBERS
+
+Representative articles:
+Carbon
+Chlorine
+Ununoctium
+Magnesium
+Titanium
+Periodic_table
+Tungsten
+Ununtrium
+Chemical_element
+Metal
+
+Most common terms:
+chemic: 1.000
+element: 1.000
+DB_class: 1.000
+number: 0.900
+atom: 0.900
+tabl: 0.900
+compound: 0.800
+period: 0.800
+group: 0.800
+metal: 0.800
+========================
+========================
+CLUSTER 15: 13 MEMBERS
+
+Representative articles:
+List_of_people_from_Andhra_Pradesh
+List_of_people_from_Karnataka
+List_of_Carnatic_instrumentalists
+List_of_bisexual_people_(A–F)
+List_of_people_from_Madhya_Pradesh
+List_of_people_from_Uttarakhand
+List_of_bisexual_people_(T–Z)
+List_of_bisexual_people_(N–S)
+List_of_people_from_Rajasthan
+List_of_people_with_heterochromia
+
+Most common terms:
+DB_class: 1.000
+list: 1.000
+peopl: 0.923
+notabl: 0.692
+india: 0.615
+famou: 0.615
+includ: 0.462
+bisexu: 0.308
+identifi: 0.308
+pradesh: 0.154
+========================
+========================
+CLUSTER 16: 10 MEMBERS
+
+Representative articles:
+Patrice_Wilson
+Violetta_(telenovela)
+List_of_new-age_music_artists
+Music_of_Dominica
+Carnatic_music
+Music
+Music_of_the_Lesser_Antilles
+Frédéric_Chopin
+Igor_Krutoy
+The_101_Dalmatians_Musical
+
+Most common terms:
+music: 1.000
+DB_class: 1.000
+perform: 0.700
+includ: 0.600
+musician: 0.500
+popular: 0.500
+tradit: 0.500
+form: 0.500
+style: 0.500
+also: 0.500
+========================
+========================
+CLUSTER 17: 8 MEMBERS
+
+Representative articles:
+Mediacorp_Channel_8
+Cartoon_Network
+Mediacorp_HD5
+Treehouse_TV
+Discovery_Channel
+Mediacorp_Channel_U
+List_of_programs_broadcast_by_Disney_Channel
+Clan_(TV_channel)
+
+Most common terms:
+channel: 1.000
+DB_class: 1.000
+televis: 1.000
+program: 0.750
+broadcast: 0.500
+cabl: 0.500
+avail: 0.500
+formerli: 0.500
+own: 0.500
+known: 0.375
+========================
+========================
+CLUSTER 18: 10 MEMBERS
+
+Representative articles:
+Donald_Trump_Jr.
+Ivanka_Trump
+Donald_Trump_presidential_campaign,_2000
+Donald_Trump
+Donald_Trump_presidential_campaign,_2016
+Fred_Trump
+Melania_Trump
+Donald_Trump_(disambiguation)
+Frederick_Trump
+Eric_Trump
+
+Most common terms:
+trump: 1.000
+DB_class: 1.000
+donald: 1.000
+american: 0.900
+born: 0.700
+businessman: 0.700
+develop: 0.600
+real: 0.600
+estat: 0.600
+unit: 0.500
+========================

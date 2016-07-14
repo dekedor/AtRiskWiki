@@ -1,0 +1,378 @@
+========================
+CLUSTER 0: 46 MEMBERS
+
+Representative articles:
+Me
+Terrible
+Antics
+Anal
+Alison
+Swag
+Period
+Loge
+Shrek_(disambiguation)
+Cell
+
+Most common terms:
+refer: 1.000
+may: 1.000
+also: 0.130
+fuck: 0.043
+gener: 0.043
+varieti: 0.022
+hacker: 0.022
+mean: 0.022
+period: 0.022
+form: 0.022
+========================
+========================
+CLUSTER 1: 64 MEMBERS
+
+Representative articles:
+Klay_Thompson
+D'Angelo_Russell
+Al_Jefferson
+JaVale_McGee
+Boris_Diaw
+Gerald_Henderson,_Jr.
+Solomon_Hill_(basketball)
+Kawhi_Leonard
+Dwyane_Wade
+Andre_Iguodala
+
+Most common terms:
+basketbal: 1.000
+player: 1.000
+DB_class: 1.000
+nba: 1.000
+nation: 0.984
+associ: 0.984
+profession: 0.969
+born: 0.953
+play: 0.938
+american: 0.766
+========================
+========================
+CLUSTER 2: 127 MEMBERS
+
+Representative articles:
+Artpop
+List_of_Billboard_Hot_100_number-one_singles_of_2007
+List_of_Billboard_Hot_100_number-one_singles_of_2006
+Miley_Cyrus_discography
+Jessie_J
+Wiz_Khalifa
+Korn
+Lil_Wayne_albums_discography
+Little_Mix
+List_of_Billboard_200_number-one_albums_of_2013
+
+Most common terms:
+DB_class: 1.000
+singl: 0.913
+chart: 0.803
+album: 0.803
+first: 0.780
+one: 0.780
+releas: 0.772
+number: 0.756
+record: 0.756
+billboard: 0.756
+========================
+========================
+CLUSTER 3: 53 MEMBERS
+
+Representative articles:
+Perry_Hall_High_School
+St._Vincent–St._Mary_High_School
+Kirkcaldy_High_School
+Tupper_Lake_Central_School_District
+Terenure_College
+Blue_Valley_West_High_School
+Rochester_Lourdes_High_School
+First_Flight_High_School
+Sponne_School
+Iona_Preparatory_School
+
+Most common terms:
+DB_class: 1.000
+school: 1.000
+high: 0.736
+student: 0.566
+locat: 0.566
+public: 0.358
+district: 0.321
+state: 0.321
+year: 0.321
+secondari: 0.283
+========================
+========================
+CLUSTER 4: 37 MEMBERS
+
+Representative articles:
+Sonic_the_Hedgehog_(character)
+Video_game
+List_of_Sonic_the_Hedgehog_video_games
+Call_of_Duty_4:_Modern_Warfare
+Street_Fighter_V
+Banjo-Tooie
+Game
+Luigi
+Bubsy
+Super_Mario_Sunshine
+
+Most common terms:
+DB_class: 1.000
+game: 1.000
+video: 0.865
+develop: 0.811
+releas: 0.757
+seri: 0.730
+publish: 0.568
+one: 0.514
+million: 0.514
+first: 0.486
+========================
+========================
+CLUSTER 5: 20 MEMBERS
+
+Representative articles:
+List_of_gay,_lesbian_or_bisexual_people:_D–E
+List_of_gay,_lesbian_or_bisexual_people:_F
+List_of_gay,_lesbian_or_bisexual_people:_P–Q
+List_of_gay,_lesbian_or_bisexual_people:_Sj–Sz
+List_of_gay,_lesbian_or_bisexual_people:_R
+List_of_gay,_lesbian_or_bisexual_people:_M
+List_of_gay,_lesbian_or_bisexual_people:_Ba–Bh
+List_of_gay,_lesbian_or_bisexual_people:_L
+List_of_gay,_lesbian_or_bisexual_people:_W–Z
+List_of_gay,_lesbian_or_bisexual_people:_C
+
+Most common terms:
+major: 1.000
+percent: 1.000
+famou: 1.000
+focus: 1.000
+follow: 1.000
+DB_class: 1.000
+classif: 1.000
+rumor: 1.000
+american: 1.000
+selfdefinit: 1.000
+========================
+========================
+CLUSTER 6: 17 MEMBERS
+
+Representative articles:
+Kamen_Rider_Black_RX
+Kamen_Rider_ZO
+List_of_Kamen_Rider_Agito_characters
+List_of_Kamen_Rider:_Dragon_Knight_characters
+Kamen_Rider_Ryuki:_Episode_Final
+Kamen_Rider_Stronger_(character)
+Kamen_Rider_Black
+List_of_Kamen_Rider_Black_characters
+Kamen_Rider_Black_(character)
+Kamen_Rider_X
+
+Most common terms:
+kamen: 1.000
+DB_class: 1.000
+rider: 1.000
+seri: 0.941
+charact: 0.824
+televis: 0.706
+raid: 0.647
+japanes: 0.647
+tokusatsu: 0.529
+fiction: 0.412
+========================
+========================
+CLUSTER 7: 13 MEMBERS
+
+Representative articles:
+List_of_Palestinian_rocket_attacks_on_Israel,_2016
+List_of_Palestinian_rocket_attacks_on_Israel,_2015
+List_of_Palestinian_rocket_attacks_on_Israel,_2010
+List_of_Palestinian_rocket_attacks_on_Israel,_2009
+List_of_Palestinian_rocket_attacks_on_Israel,_2012
+List_of_Palestinian_rocket_attacks_on_Israel,_2013
+List_of_Palestinian_rocket_attacks_on_Israel,_2014
+Lists_of_Palestinian_rocket_attacks_on_Israel
+List_of_Palestinian_rocket_attacks_on_Israel,_2007
+List_of_Palestinian_rocket_attacks_on_Israel,_2011
+
+Most common terms:
+mortar: 1.000
+rocket: 1.000
+DB_class: 1.000
+israel: 1.000
+attack: 1.000
+palestinian: 1.000
+list: 0.923
+strip: 0.923
+gaza: 0.923
+fire: 0.692
+========================
+========================
+CLUSTER 8: 92 MEMBERS
+
+Representative articles:
+Fan_(film)
+Ellen_Page
+Karan_Johar
+Shahid_Kapoor
+The_Contractor_(2007_film)
+The_Expendables_(2010_film)
+Ghostbusters_(2016_film)
+Six_Bullets_(2012_film)
+Saif_Ali_Khan
+Kevin_Spacey
+
+Most common terms:
+film: 1.000
+DB_class: 1.000
+star: 0.663
+direct: 0.620
+role: 0.565
+releas: 0.543
+indian: 0.500
+best: 0.424
+award: 0.424
+produc: 0.413
+========================
+========================
+CLUSTER 9: 31 MEMBERS
+
+Representative articles:
+Bolt_(2008_film)
+The_Aristocats
+Planes_(film)
+Fantasia_(1940_film)
+List_of_Walt_Disney_Pictures_films
+Treasure_Planet
+Wallace_&_Gromit:_The_Curse_of_the_Were-Rabbit
+The_Fox_and_the_Hound_2
+Home_on_the_Range_(2004_film)
+The_Jungle_Book_(1967_film)
+
+Most common terms:
+produc: 1.000
+anim: 1.000
+film: 1.000
+DB_class: 1.000
+releas: 0.968
+disney: 0.903
+featur: 0.871
+walt: 0.871
+american: 0.839
+classic: 0.742
+========================
+========================
+CLUSTER 10: 10 MEMBERS
+
+Representative articles:
+The_Biggest_Loser_Australia:_Challenge_Australia
+The_Biggest_Loser_Asia_(season_2)
+The_Biggest_Winner_Arab_(season_1)
+The_Biggest_Loser_(season_1)
+The_Biggest_Loser_Asia
+The_Biggest_Loser_Brunei:_The_Spirit_of_Life
+The_Biggest_Winner_Arab_(season_2)
+The_Biggest_Loser_Brunei_(season_1)
+The_Biggest_Loser_Australia:_Singles
+The_Biggest_Loser_Australia:_The_Next_Generation
+
+Most common terms:
+loser: 1.000
+biggest: 1.000
+season: 1.000
+DB_class: 1.000
+realiti: 0.900
+seri: 0.900
+televis: 0.900
+version: 0.800
+nbc: 0.800
+second: 0.600
+========================
+========================
+CLUSTER 11: 42 MEMBERS
+
+Representative articles:
+Harry_Kane
+Daniel_Sturridge
+Crook_Town_A.F.C.
+Samir_Nasri
+Premier_League
+UEFA_Champions_League
+FC_Barcelona
+Blackburn_Rovers_F.C.
+Real_Madrid_C.F.
+PFC_CSKA_Sofia
+
+Most common terms:
+club: 1.000
+leagu: 1.000
+footbal: 1.000
+DB_class: 1.000
+cup: 0.905
+team: 0.881
+profession: 0.881
+uefa: 0.786
+play: 0.786
+season: 0.762
+========================
+========================
+CLUSTER 12: 13 MEMBERS
+
+Representative articles:
+Kalya
+Ro'i
+Almog
+Giv'at_Ze'ev
+Beit_HaArava
+Rosh_Tzurim
+Modi'in_Illit
+Kfar_Etzion
+Beit_El
+Neve_Ativ
+
+Most common terms:
+disput: 1.000
+settlement: 1.000
+commun: 1.000
+intern: 1.000
+govern: 1.000
+consid: 1.000
+illeg: 1.000
+DB_class: 1.000
+hebrew: 1.000
+isra: 1.000
+========================
+========================
+CLUSTER 13: 15 MEMBERS
+
+Representative articles:
+Seth_Rollins
+Chris_Benoit
+Randy_Orton
+A.J._Styles
+CM_Punk
+WWE_Championship
+World_Tag_Team_Championship_(WWE)
+Triple_H
+Dave_Bautista
+Alberto_Del_Rio
+
+Most common terms:
+profession: 1.000
+wwe: 1.000
+world: 1.000
+championship: 1.000
+wrestl: 1.000
+DB_class: 1.000
+heavyweight: 0.933
+name: 0.867
+wrestler: 0.867
+champion: 0.800
+========================

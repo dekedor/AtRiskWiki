@@ -1,0 +1,198 @@
+========================
+CLUSTER 0: 34 MEMBERS
+
+Representative articles:
+Faget
+Cell
+Hooker
+Yolo
+Booty
+Blah
+Agata
+Wilbur
+Swag
+Loge
+
+Most common terms:
+refer: 1.000
+may: 1.000
+fuck: 0.029
+loser: 0.029
+anal: 0.029
+hack: 0.029
+cell: 0.029
+period: 0.029
+insult: 0.029
+hacker: 0.029
+========================
+========================
+CLUSTER 1: 20 MEMBERS
+
+Representative articles:
+List_of_gay,_lesbian_or_bisexual_people:_W–Z
+List_of_gay,_lesbian_or_bisexual_people:_N–O
+List_of_gay,_lesbian_or_bisexual_people:_Sd–Si
+List_of_gay,_lesbian_or_bisexual_people:_Bi–Bz
+List_of_gay,_lesbian_or_bisexual_people:_M
+List_of_gay,_lesbian_or_bisexual_people:_Ba–Bh
+List_of_gay,_lesbian_or_bisexual_people:_T–V
+List_of_gay,_lesbian_or_bisexual_people:_P–Q
+List_of_gay,_lesbian_or_bisexual_people:_K
+List_of_gay,_lesbian_or_bisexual_people:_C
+
+Most common terms:
+major: 1.000
+percent: 1.000
+famou: 1.000
+focus: 1.000
+follow: 1.000
+DB_class: 1.000
+classif: 1.000
+rumor: 1.000
+american: 1.000
+selfdefinit: 1.000
+========================
+========================
+CLUSTER 2: 5 MEMBERS
+
+Representative articles:
+2002–03_United_States_network_television_schedule_(Saturday_morning)
+1996–97_United_States_network_television_schedule_(Saturday_morning)
+2005–06_United_States_network_television_schedule_(Saturday_morning)
+2001–02_United_States_network_television_schedule_(Saturday_morning)
+2007–08_United_States_network_television_schedule_(Saturday_morning)
+
+Most common terms:
+saturday: 1.000
+unit: 1.000
+bold: 1.000
+begin: 1.000
+end: 1.000
+DB_class: 1.000
+spring: 1.000
+time: 1.000
+state: 1.000
+four: 1.000
+========================
+========================
+CLUSTER 3: 9 MEMBERS
+
+Representative articles:
+Kamen_Rider_V3_(character)
+Kamen_Rider_2
+Kamen_Rider_Stronger_(character)
+List_of_Kamen_Rider_Black_characters
+Kamen_Rider_1
+Kamen_Rider_Black
+Kamen_Rider_OOO_(character)
+Kamen_Rider_Black_(character)
+Kamen_Rider_ZO
+
+Most common terms:
+kamen: 1.000
+DB_class: 1.000
+seri: 1.000
+rider: 1.000
+charact: 0.889
+televis: 0.778
+raid: 0.778
+protagonist: 0.667
+sequel: 0.556
+movi: 0.556
+========================
+========================
+CLUSTER 4: 8 MEMBERS
+
+Representative articles:
+List_of_Billboard_Hot_100_number-one_singles_of_2005
+List_of_Billboard_Hot_100_number-one_singles_of_2001
+List_of_Billboard_Hot_100_number-one_singles_of_2003
+List_of_Billboard_Hot_100_number-one_singles_of_2008
+List_of_Billboard_Hot_100_number-one_singles_of_2011
+List_of_Billboard_Hot_100_number-one_singles_of_2007
+List_of_Billboard_Hot_100_number-one_singles_of_2002
+List_of_Billboard_Hot_100_number-one_singles_of_2006
+
+Most common terms:
+number: 1.000
+chart: 1.000
+weekli: 1.000
+collect: 1.000
+singer: 1.000
+soundscan: 1.000
+first: 1.000
+singl: 1.000
+DB_class: 1.000
+numberon: 1.000
+========================
+========================
+CLUSTER 5: 6 MEMBERS
+
+Representative articles:
+Chen_(singer)
+Kai_(singer)
+Oh_Se-hun_(singer)
+D.O._(singer)
+Byun_Baek-hyun
+Park_Chanyeol
+
+Most common terms:
+korean: 1.000
+member: 1.000
+south: 1.000
+group: 1.000
+actor: 1.000
+singer: 1.000
+boy: 1.000
+DB_class: 1.000
+born: 1.000
+better: 0.833
+========================
+========================
+CLUSTER 6: 8 MEMBERS
+
+Representative articles:
+Beit_HaArava
+Almog
+Rosh_Tzurim
+Kfar_Etzion
+Ro'i
+Kalya
+Argaman
+Gitit_(moshav)
+
+Most common terms:
+disput: 1.000
+settlement: 1.000
+DB_class: 1.000
+commun: 1.000
+govern: 1.000
+consid: 1.000
+illeg: 1.000
+bank: 1.000
+hebrew: 1.000
+isra: 1.000
+========================
+========================
+CLUSTER 7: 6 MEMBERS
+
+Representative articles:
+Burlington_High_School_(Kansas)
+Superior_High_School_(Montana)
+Guy–Perkins_High_School
+Falmouth_High_School_(Massachusetts)
+C._K._McClatchy_High_School
+First_Flight_High_School
+
+Most common terms:
+DB_class: 1.000
+high: 1.000
+locat: 1.000
+school: 1.000
+district: 0.667
+grade: 0.667
+serv: 0.500
+public: 0.500
+student: 0.500
+usa: 0.333
+========================

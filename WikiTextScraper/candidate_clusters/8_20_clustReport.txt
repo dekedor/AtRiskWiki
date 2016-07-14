@@ -1,0 +1,216 @@
+========================
+CLUSTER 0: 1226 MEMBERS
+
+Representative articles:
+Joe_Jonas
+List_of_awards_and_nominations_received_by_Seth_MacFarlane
+Open_Season_2
+Keanu_Reeves
+Marvel_Cinematic_Universe
+Mischa_Barton
+List_of_High_School_Musical_characters
+List_of_Billboard_Hot_100_top_10_singles_in_2005
+Neil_Patrick_Harris
+Meet_the_Robinsons
+
+Most common terms:
+releas: 0.519
+film: 0.469
+american: 0.420
+also: 0.391
+first: 0.390
+one: 0.381
+includ: 0.352
+produc: 0.315
+award: 0.313
+music: 0.302
+========================
+========================
+CLUSTER 1: 469 MEMBERS
+
+Representative articles:
+List_of_Rugrats_characters
+The_Biggest_Loser_Pinoy_Edition
+Skyler_Page
+Samuel_Umtiti
+Jamie_Vardy
+Doraemon
+Yao_Ming
+Perry_Ellis_(basketball)
+Chris_Bosh
+Bad_Girls_Club_(season_4)
+
+Most common terms:
+DB_class: 1.000
+play: 0.627
+season: 0.576
+team: 0.561
+first: 0.522
+born: 0.512
+nation: 0.510
+profession: 0.499
+footbal: 0.461
+leagu: 0.429
+========================
+========================
+CLUSTER 2: 23 MEMBERS
+
+Representative articles:
+List_of_gay,_lesbian_or_bisexual_people:_L
+Lesbian
+List_of_gay,_lesbian_or_bisexual_people:_Sd–Si
+List_of_gay,_lesbian_or_bisexual_people:_T–V
+Bisexuality
+List_of_gay,_lesbian_or_bisexual_people:_I–J
+List_of_gay,_lesbian_or_bisexual_people:_A
+List_of_gay,_lesbian_or_bisexual_people:_P–Q
+List_of_gay,_lesbian_or_bisexual_people:_F
+List_of_gay,_lesbian_or_bisexual_people:_C
+
+Most common terms:
+ident: 1.000
+sexual: 1.000
+homosexu: 1.000
+bisexu: 1.000
+use: 1.000
+DB_class: 1.000
+term: 1.000
+orient: 1.000
+centuri: 1.000
+toward: 0.957
+========================
+========================
+CLUSTER 3: 40 MEMBERS
+
+Representative articles:
+Randy_Orton
+Mark_Coleman
+Michael_Bisping
+Stephanie_McMahon
+Roman_Reigns
+Mark_Henry
+WWE
+Yokozuna_(wrestler)
+CM_Punk
+Alberto_Del_Rio
+
+Most common terms:
+DB_class: 1.000
+profession: 0.975
+championship: 0.950
+wrestl: 0.900
+wwe: 0.875
+world: 0.875
+wrestler: 0.825
+born: 0.800
+champion: 0.775
+american: 0.775
+========================
+========================
+CLUSTER 4: 22 MEMBERS
+
+Representative articles:
+Alzheimer's_disease
+Sexually_transmitted_infection
+Malaria
+Cholera
+Tuberculosis
+Multiple_sclerosis
+Streptococcal_pharyngitis
+Chlamydia_infection
+Common_cold
+Pneumonia
+
+Most common terms:
+caus: 1.000
+peopl: 1.000
+DB_class: 1.000
+includ: 0.955
+symptom: 0.955
+may: 0.955
+diseas: 0.955
+treatment: 0.909
+infect: 0.864
+develop: 0.864
+========================
+========================
+CLUSTER 5: 19 MEMBERS
+
+Representative articles:
+Hercules_Mulligan
+Joey_Tribbiani
+Travers_Island,_New_York
+Mary_Helen_Bowers
+New_York
+David_Koch
+New_Zealand
+New_York_Mets
+Law_enforcement_in_New_York_City
+Allan_R._Bomhard
+
+Most common terms:
+DB_class: 1.000
+new: 1.000
+citi: 0.947
+york: 0.895
+unit: 0.579
+state: 0.579
+one: 0.474
+american: 0.474
+includ: 0.421
+also: 0.368
+========================
+========================
+CLUSTER 6: 36 MEMBERS
+
+Representative articles:
+Hillary_Clinton_email_controversy
+Ohio
+Florida
+Roe_v._Wade
+List_of_U.S._states_and_territories_by_population
+Sikkim
+State_of_Palestine
+Communist_state
+United_States
+United_States_Constitution
+
+Most common terms:
+DB_class: 1.000
+state: 1.000
+unit: 0.861
+nation: 0.500
+also: 0.500
+govern: 0.472
+us: 0.472
+includ: 0.472
+first: 0.389
+th: 0.389
+========================
+========================
+CLUSTER 7: 20 MEMBERS
+
+Representative articles:
+Harold_Wilson
+Tony_Blair
+Pakistan_Tehreek-e-Insaf
+Socialist_Party_of_Ontario
+National_Front_(France)
+List_of_political_parties_in_India
+Rajendra_Mahato
+Mohammad_Asghar
+Stephen_Harper
+Labour_In_for_Britain
+
+Most common terms:
+parti: 1.000
+DB_class: 1.000
+elect: 0.800
+polit: 0.700
+member: 0.650
+govern: 0.650
+first: 0.600
+leader: 0.500
+gener: 0.500
+nation: 0.500
+========================

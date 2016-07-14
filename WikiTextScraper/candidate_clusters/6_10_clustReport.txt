@@ -1,0 +1,513 @@
+========================
+CLUSTER 0: 14 MEMBERS
+
+Representative articles:
+Modi'in_Illit
+Rosh_Tzurim
+Beit_El
+Neve_Ativ
+Almog
+Giv'at_Ze'ev
+Ro'i
+Ariel_(city)
+Gitit_(moshav)
+Beit_HaArava
+
+Most common terms:
+disput: 1.000
+settlement: 1.000
+govern: 1.000
+commun: 1.000
+intern: 1.000
+consid: 1.000
+west: 1.000
+illeg: 1.000
+isra: 1.000
+hebrew: 0.929
+========================
+========================
+CLUSTER 1: 403 MEMBERS
+
+Representative articles:
+Armeena_Khan
+Vidya_Balan
+Avatar_(2009_film)
+Kickboxer:_Vengeance
+Hugh_Jackman
+The_Great_Mouse_Detective
+Paper_Towns_(film)
+Grand_Theft_Auto_V
+Call_of_Duty_4:_Modern_Warfare
+Barsha_Priyadarshini
+
+Most common terms:
+DB_class: 1.000
+film: 0.700
+releas: 0.474
+star: 0.390
+direct: 0.385
+also: 0.372
+produc: 0.367
+american: 0.350
+seri: 0.347
+first: 0.337
+========================
+========================
+CLUSTER 2: 104 MEMBERS
+
+Representative articles:
+S.S._Lazio
+Rafael_Benítez
+Dimitri_Payet
+UEFA_coefficient
+Lionel_Messi
+Celtic_F.C.
+Jamie_Vardy
+Ronaldo
+2014_Afghan_Premier_League
+Rio_Ferdinand
+
+Most common terms:
+DB_class: 1.000
+footbal: 0.981
+club: 0.971
+leagu: 0.933
+team: 0.865
+play: 0.827
+cup: 0.817
+first: 0.740
+profession: 0.731
+season: 0.712
+========================
+========================
+CLUSTER 3: 257 MEMBERS
+
+Representative articles:
+List_of_Billboard_Hot_100_number-one_singles_of_2001
+Wazmo_Nariz
+Young_Thug
+Korn
+Drake_(musician)
+My_World_(EP)
+Born_This_Way_(album)
+Eminem
+Republic_(album)
+Mariah_Carey
+
+Most common terms:
+DB_class: 1.000
+album: 0.868
+releas: 0.837
+singl: 0.790
+record: 0.755
+first: 0.720
+one: 0.693
+billboard: 0.654
+debut: 0.650
+music: 0.646
+========================
+========================
+CLUSTER 4: 83 MEMBERS
+
+Representative articles:
+Blake_Griffin
+Magic_Johnson
+O._J._Mayo
+D._J._Mbenga
+Festus_Ezeli
+Brandon_Rush
+Chris_Bosh
+Paul_George
+Highest-paid_NBA_players_by_season
+Draymond_Green
+
+Most common terms:
+DB_class: 1.000
+basketbal: 0.988
+nba: 0.988
+player: 0.976
+profession: 0.952
+nation: 0.952
+associ: 0.928
+play: 0.928
+born: 0.916
+american: 0.747
+========================
+========================
+CLUSTER 5: 17 MEMBERS
+
+Representative articles:
+Kamen_Rider_Black_RX
+List_of_Kamen_Rider:_Dragon_Knight_characters
+Kamen_Rider_1
+Kamen_Rider_Ryuki:_Episode_Final
+Riderman
+Kamen_Rider_V3_(character)
+List_of_Kamen_Rider_Agito_characters
+Mirror_Monster
+Kamen_Rider_ZX
+Kamen_Rider_ZO
+
+Most common terms:
+kamen: 1.000
+DB_class: 1.000
+rider: 1.000
+seri: 0.941
+charact: 0.824
+televis: 0.706
+raid: 0.647
+japanes: 0.647
+tokusatsu: 0.529
+fiction: 0.412
+========================
+========================
+CLUSTER 6: 55 MEMBERS
+
+Representative articles:
+The_Biggest_Loser_Australia:_Challenge_Australia
+Bad_Girls_Club
+The_Biggest_Loser_(season_14)
+The_Voice_(U.S._TV_series)
+The_Biggest_Loser_Australia:_Singles
+Bad_Girls_Club_(season_12)
+RuPaul's_Drag_Race_(season_8)
+The_Biggest_Loser_Asia
+Bad_Girls_Club_(season_2)
+Biggest_Loser_Jeetega
+
+Most common terms:
+DB_class: 1.000
+season: 0.945
+realiti: 0.709
+seri: 0.673
+premier: 0.655
+televis: 0.655
+loser: 0.564
+biggest: 0.564
+first: 0.509
+contest: 0.436
+========================
+========================
+CLUSTER 7: 81 MEMBERS
+
+Representative articles:
+Bishop_Perowne_Church_of_England_College
+Maris_Stella_High_School
+C._K._McClatchy_High_School
+Thornton_Fractional_North_High_School
+Schule_Schloss_Salem
+Sydney_Church_of_England_Grammar_School
+Rochester_Lourdes_High_School
+Aiglon_College
+Model_Farms_High_School
+Latymer_Upper_School
+
+Most common terms:
+DB_class: 1.000
+school: 1.000
+high: 0.617
+student: 0.580
+locat: 0.494
+year: 0.358
+secondari: 0.321
+public: 0.321
+state: 0.296
+educ: 0.272
+========================
+========================
+CLUSTER 8: 23 MEMBERS
+
+Representative articles:
+List_of_gay,_lesbian_or_bisexual_people:_K
+List_of_gay,_lesbian_or_bisexual_people:_F
+List_of_gay,_lesbian_or_bisexual_people:_W–Z
+List_of_gay,_lesbian_or_bisexual_people:_D–E
+List_of_gay,_lesbian_or_bisexual_people:_H
+List_of_gay,_lesbian_or_bisexual_people:_Sd–Si
+List_of_gay,_lesbian_or_bisexual_people:_L
+Lesbian
+List_of_gay,_lesbian_or_bisexual_people:_T–V
+List_of_gay,_lesbian_or_bisexual_people:_I–J
+
+Most common terms:
+ident: 1.000
+sexual: 1.000
+homosexu: 1.000
+bisexu: 1.000
+use: 1.000
+DB_class: 1.000
+term: 1.000
+orient: 1.000
+centuri: 1.000
+toward: 0.957
+========================
+========================
+CLUSTER 9: 14 MEMBERS
+
+Representative articles:
+Lists_of_Palestinian_rocket_attacks_on_Israel
+List_of_Palestinian_rocket_attacks_on_Israel,_2009
+List_of_Palestinian_rocket_attacks_on_Israel,_2007
+List_of_Palestinian_rocket_attacks_on_Israel,_2002–06
+List_of_Palestinian_rocket_attacks_on_Israel,_2008
+List_of_Palestinian_rocket_attacks_on_Israel,_2001
+2014_Israel–Gaza_conflict
+List_of_Palestinian_rocket_attacks_on_Israel,_2011
+List_of_Palestinian_rocket_attacks_on_Israel,_2014
+List_of_Palestinian_rocket_attacks_on_Israel,_2010
+
+Most common terms:
+rocket: 1.000
+mortar: 1.000
+palestinian: 1.000
+attack: 1.000
+israel: 1.000
+DB_class: 1.000
+list: 0.929
+strip: 0.857
+gaza: 0.857
+fire: 0.643
+========================
+========================
+CLUSTER 10: 11 MEMBERS
+
+Representative articles:
+Teyona_Anderson
+Melrose_Bickerstaff
+Demelza_Reveley
+Krista_White
+Jade_Cole
+Heather_Kuzmich
+America's_Next_Top_Model_(cycle_13)
+Celia_Ammerman
+Whitney_Thompson
+Chantal_Jones
+
+Most common terms:
+cycl: 1.000
+top: 1.000
+DB_class: 1.000
+next: 1.000
+model: 1.000
+america: 0.909
+fashion: 0.909
+born: 0.818
+american: 0.818
+known: 0.455
+========================
+========================
+CLUSTER 11: 10 MEMBERS
+
+Representative articles:
+GeForce_10_series
+GeForce_100_series
+GeForce_600_series
+GeForce_8_series
+GeForce_200_series
+GeForce_800M_series
+GeForce_9_series
+GeForce_300_series
+GeForce_400_series
+GeForce_500_series
+
+Most common terms:
+geforc: 1.000
+unit: 1.000
+process: 1.000
+graphic: 1.000
+DB_class: 1.000
+seri: 1.000
+nvidia: 1.000
+microarchitectur: 0.900
+gener: 0.600
+famili: 0.600
+========================
+========================
+CLUSTER 12: 12 MEMBERS
+
+Representative articles:
+Gregorian_calendar
+1738
+July_30
+1272
+977
+List_of_the_verified_oldest_men
+March_7
+911
+Islamic_calendar
+September_11
+
+Most common terms:
+calendar: 1.000
+year: 1.000
+DB_class: 1.000
+day: 0.583
+gregorian: 0.583
+start: 0.583
+leap: 0.500
+th: 0.500
+date: 0.500
+common: 0.500
+========================
+========================
+CLUSTER 13: 12 MEMBERS
+
+Representative articles:
+Phi
+Alpha
+Greek_alphabet
+Koppa_(letter)
+Psi_(letter)
+Chi_(letter)
+Gamma
+Digamma
+Greeks
+Sho_(letter)
+
+Most common terms:
+greek: 1.000
+DB_class: 1.000
+alphabet: 0.917
+letter: 0.917
+modern: 0.750
+numer: 0.667
+also: 0.667
+valu: 0.583
+use: 0.583
+origin: 0.583
+========================
+========================
+CLUSTER 14: 26 MEMBERS
+
+Representative articles:
+Damien_Sandow
+Sheamus
+Hulk_Hogan
+Dave_Bautista
+Randy_Orton
+Brock_Lesnar
+Triple_H
+Chris_Jericho
+WWE_Championship
+Dean_Ambrose
+
+Most common terms:
+profession: 1.000
+championship: 1.000
+wrestl: 1.000
+DB_class: 1.000
+wwe: 0.962
+world: 0.962
+wrestler: 0.923
+champion: 0.885
+born: 0.846
+heavyweight: 0.846
+========================
+========================
+CLUSTER 15: 14 MEMBERS
+
+Representative articles:
+2007_Kids'_Choice_Awards
+2010_Kids'_Choice_Awards
+2011_Kids'_Choice_Awards
+2002_Kids'_Choice_Awards
+2016_Kids'_Choice_Awards
+2004_Kids'_Choice_Awards
+2012_Kids'_Choice_Awards
+2008_Kids'_Choice_Awards
+2009_Kids'_Choice_Awards
+Nickelodeon_Kids'_Choice_Awards
+
+Most common terms:
+choic: 1.000
+host: 1.000
+nickelodeon: 1.000
+DB_class: 1.000
+award: 1.000
+kid: 1.000
+held: 0.929
+annual: 0.857
+show: 0.786
+california: 0.643
+========================
+========================
+CLUSTER 16: 10 MEMBERS
+
+Representative articles:
+Ohio
+California
+U.S._state
+Communist_state
+Texas
+United_States_Senate_election_in_Oregon,_2016
+United_States_Constitution
+Federal_government_of_the_United_States
+United_States_and_state_terrorism
+List_of_sovereign_states
+
+Most common terms:
+DB_class: 1.000
+state: 1.000
+unit: 0.900
+us: 0.700
+govern: 0.700
+nation: 0.600
+use: 0.600
+term: 0.600
+repres: 0.600
+includ: 0.500
+========================
+========================
+CLUSTER 17: 10 MEMBERS
+
+Representative articles:
+Eli_Manning
+Peyton_Manning
+Colin_Kaepernick
+Aaron_Rodgers
+Matt_Cassel
+Ben_Roethlisberger
+Brett_Favre
+New_England_Patriots
+John_Elway
+Tom_Brady
+
+Most common terms:
+nation: 1.000
+quarterback: 1.000
+bowl: 1.000
+nfl: 1.000
+season: 1.000
+first: 1.000
+leagu: 1.000
+footbal: 1.000
+DB_class: 1.000
+american: 1.000
+========================
+========================
+CLUSTER 18: 11 MEMBERS
+
+Representative articles:
+Non-penetrative_sex
+Fellatio
+Oral_sex
+Sex_offender
+Anal_sex
+Cunnilingus
+Sodomy
+Sexual_intercourse
+Sex_position
+Orgasm
+
+Most common terms:
+sexual: 1.000
+sex: 1.000
+DB_class: 1.000
+activ: 0.909
+also: 0.909
+may: 0.818
+peopl: 0.727
+person: 0.727
+oral: 0.727
+anal: 0.727
+========================

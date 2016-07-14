@@ -1,0 +1,108 @@
+========================
+CLUSTER 0: 1196 MEMBERS
+
+Representative articles:
+Megan_Fox
+Grudge_Match_(film)
+Star_Wars
+Shekhar_Chatterjee
+Bum
+Tyga
+Wake_Me_Up_When_September_Ends
+Daniel_Radcliffe
+A_Perfect_Getaway
+List_of_songs_in_Rock_Band
+
+Most common terms:
+releas: 0.560
+film: 0.524
+american: 0.470
+also: 0.406
+first: 0.406
+one: 0.386
+includ: 0.365
+produc: 0.341
+album: 0.327
+born: 0.322
+========================
+========================
+CLUSTER 1: 292 MEMBERS
+
+Representative articles:
+Louis_van_Gaal
+Gary_Neville
+Víctor_Ibarbo
+Carmelo_Anthony
+National_Basketball_Association
+Thierry_Henry
+Boris_Diaw
+2016–17_UEFA_Europa_League
+2018_FIFA_World_Cup
+Stephan_El_Shaarawy
+
+Most common terms:
+DB_class: 1.000
+play: 0.863
+team: 0.777
+profession: 0.747
+nation: 0.712
+born: 0.702
+leagu: 0.623
+player: 0.616
+footbal: 0.603
+first: 0.568
+========================
+========================
+CLUSTER 2: 108 MEMBERS
+
+Representative articles:
+Deer_Lakes_School_District
+Chevalier_College
+Latymer_Upper_School
+Blue_Valley_West_High_School
+Maris_Stella_High_School
+Davidson_High_School_(New_South_Wales)
+The_Fallibroome_Academy
+Bishop_Bell_School
+Smt._Shanti_Devi_School_of_Nursing
+Maine_School_of_Science_and_Mathematics
+
+Most common terms:
+DB_class: 1.000
+school: 1.000
+high: 0.546
+student: 0.509
+locat: 0.491
+secondari: 0.333
+public: 0.306
+year: 0.306
+educ: 0.287
+state: 0.278
+========================
+========================
+CLUSTER 3: 47 MEMBERS
+
+Representative articles:
+Navya..Naye_Dhadkan_Naye_Sawaal
+List_of_Ed,_Edd_n_Eddy_episodes
+So_Awkward
+So_Random!
+List_of_The_Mighty_B!_characters
+Mixels
+Ben_10:_Alien_Force
+Count_Duckula
+Sakura_Haruno
+Squidward_Tentacles
+
+Most common terms:
+seri: 1.000
+DB_class: 1.000
+televis: 0.809
+episod: 0.660
+anim: 0.638
+creat: 0.638
+american: 0.617
+air: 0.617
+first: 0.574
+premier: 0.511
+========================

@@ -1,0 +1,81 @@
+========================
+CLUSTER 0: 1144 MEMBERS
+
+Representative articles:
+Captain_America:_Civil_War
+Hollywood_Undead
+Will_Smith
+Crime_Story_(film)
+The_Last_Stand_(2013_film)
+Little_Bad_Girl
+Gotye
+You_Me_at_Six
+Perizaad_Zorabian
+Akon
+
+Most common terms:
+releas: 0.573
+film: 0.569
+american: 0.505
+first: 0.419
+also: 0.407
+one: 0.393
+includ: 0.373
+produc: 0.370
+album: 0.358
+born: 0.352
+========================
+========================
+CLUSTER 1: 184 MEMBERS
+
+Representative articles:
+A.C._Milan
+Neville_Southall
+FIFA_World_Cup
+2018_FIFA_World_Cup
+Diego_Costa
+Gary_Neville
+2010_FIFA_World_Cup
+Arsenal_F.C.
+Javier_Hernández
+Southern_Premier_Soccer_League
+
+Most common terms:
+DB_class: 1.000
+footbal: 0.897
+team: 0.870
+play: 0.853
+club: 0.821
+leagu: 0.783
+cup: 0.707
+profession: 0.685
+born: 0.636
+first: 0.636
+========================
+========================
+CLUSTER 2: 109 MEMBERS
+
+Representative articles:
+Chevalier_College
+Year-round_school_in_the_United_States
+Vermont_Secondary_College
+Middlewich_High_School
+Española_Valley_High_School
+Emanuel_School
+Prestwick_Academy
+Bishop_Perowne_Church_of_England_College
+Ottawa-Glandorf_High_School
+Fairfield_College
+
+Most common terms:
+DB_class: 1.000
+school: 1.000
+high: 0.550
+student: 0.505
+locat: 0.495
+secondari: 0.321
+year: 0.312
+public: 0.303
+educ: 0.294
+state: 0.275
+========================

@@ -1,0 +1,4834 @@
+========================
+CLUSTER 0: 4369 MEMBERS
+
+Representative articles:
+About_a_Girl_(Sugababes_song)
+Fat_Mike
+Eevee
+Anime
+Turkish–Armenian_War
+Jodie_Sweetin
+Georgia_(country)
+Premier_League
+Cesar_Montano
+The_Hunger_Games_(novel)
+
+Most common terms:
+also: 0.388
+first: 0.338
+american: 0.327
+one: 0.314
+includ: 0.305
+born: 0.299
+state: 0.278
+known: 0.258
+unit: 0.254
+year: 0.252
+========================
+========================
+CLUSTER 1: 3 MEMBERS
+
+Representative articles:
+Caitlyn_Jenner
+Kendall_Jenner
+Kylie_Jenner
+
+Most common terms:
+appear: 1.000
+person: 1.000
+born: 1.000
+televis: 1.000
+realiti: 1.000
+jenner: 1.000
+DB_class: 1.000
+known: 1.000
+american: 1.000
+model: 1.000
+========================
+========================
+CLUSTER 2: 3 MEMBERS
+
+Representative articles:
+Eye_of_Horus
+Eye_of_Ra
+Ra
+
+Most common terms:
+ancient: 1.000
+egyptian: 1.000
+god: 1.000
+horu: 1.000
+ra: 1.000
+goddess: 1.000
+DB_class: 1.000
+eye: 1.000
+pharaoh: 0.667
+sun: 0.667
+========================
+========================
+CLUSTER 3: 21 MEMBERS
+
+Representative articles:
+Jo_Ann_Castle
+Bulgars
+Rajagopalaswamy_Temple,_Mannargudi
+Oxford_Castle
+Kutrigurs
+BAPS_Shri_Swaminarayan_Mandir_London
+Internal_Macedonian_Revolutionary_Organization
+Jim_Jones
+Utigurs
+Ninja
+
+Most common terms:
+DB_class: 1.000
+th: 0.762
+centuri: 0.762
+empir: 0.381
+first: 0.381
+also: 0.381
+templ: 0.333
+built: 0.333
+later: 0.333
+import: 0.286
+========================
+========================
+CLUSTER 4: 7 MEMBERS
+
+Representative articles:
+Colonel_Sanders
+Five_Guys
+Chicken_fingers
+McDonald's
+Chicken_nugget
+KFC
+Fried_chicken
+
+Most common terms:
+food: 1.000
+fast: 1.000
+fri: 1.000
+DB_class: 1.000
+restaur: 0.857
+chicken: 0.857
+unit: 0.857
+state: 0.857
+chain: 0.714
+serv: 0.714
+========================
+========================
+CLUSTER 5: 6 MEMBERS
+
+Representative articles:
+Frog
+Pepe_the_Frog
+Meme
+Dat_Boi
+Doge_(meme)
+Internet_meme
+
+Most common terms:
+DB_class: 1.000
+meme: 0.833
+origin: 0.833
+one: 0.667
+becom: 0.667
+internet: 0.667
+gener: 0.500
+consid: 0.500
+may: 0.500
+call: 0.500
+========================
+========================
+CLUSTER 6: 10 MEMBERS
+
+Representative articles:
+Global_warming
+List_of_scientists_opposing_the_mainstream_scientific_assessment_of_global_warming
+Chemical_change
+Climate_change_denial
+Chemical_reaction
+Physical_change
+Attribution_of_recent_climate_change
+Effects_of_global_warming
+Politics_of_global_warming
+Climate_change
+
+Most common terms:
+DB_class: 1.000
+chang: 0.900
+warm: 0.700
+activ: 0.700
+global: 0.700
+includ: 0.700
+ga: 0.700
+gener: 0.600
+human: 0.600
+use: 0.600
+========================
+========================
+CLUSTER 7: 2 MEMBERS
+
+Representative articles:
+Cancer
+Max_Gerson
+
+Most common terms:
+therapi: 1.000
+benefit: 1.000
+diseas: 1.000
+DB_class: 1.000
+treatment: 1.000
+cancer: 1.000
+case: 1.000
+develop: 1.000
+diagnosi: 0.500
+detect: 0.500
+========================
+========================
+CLUSTER 8: 2 MEMBERS
+
+Representative articles:
+Furry_fandom
+Anthropomorphism
+
+Most common terms:
+peopl: 1.000
+anim: 1.000
+characterist: 1.000
+attribut: 1.000
+human: 1.000
+also: 1.000
+DB_class: 1.000
+anthropomorph: 1.000
+charact: 1.000
+like: 0.500
+========================
+========================
+CLUSTER 9: 3 MEMBERS
+
+Representative articles:
+Search_engine_optimization
+List_of_search_engines
+Bing
+
+Most common terms:
+includ: 1.000
+web: 1.000
+list: 1.000
+DB_class: 1.000
+engin: 1.000
+search: 1.000
+anoth: 0.667
+custom: 0.667
+work: 0.667
+video: 0.667
+========================
+========================
+CLUSTER 10: 7 MEMBERS
+
+Representative articles:
+Mount_Vesuvius
+Volcano
+Lava
+Mauna_Loa
+Plate_tectonics
+Basalt
+Stratovolcano
+
+Most common terms:
+DB_class: 1.000
+volcan: 0.857
+form: 0.857
+also: 0.857
+erupt: 0.714
+volcano: 0.714
+lava: 0.714
+one: 0.571
+km: 0.571
+surfac: 0.571
+========================
+========================
+CLUSTER 11: 2 MEMBERS
+
+Representative articles:
+Bullying
+Bully_(disambiguation)
+
+Most common terms:
+other: 1.000
+aggress: 1.000
+refer: 1.000
+bulli: 1.000
+may: 1.000
+also: 1.000
+DB_class: 1.000
+forc: 1.000
+behavior: 1.000
+use: 1.000
+========================
+========================
+CLUSTER 12: 6 MEMBERS
+
+Representative articles:
+Moss
+Fruit
+Plant
+Weed
+Strawberry
+Watermelon
+
+Most common terms:
+plant: 1.000
+also: 1.000
+DB_class: 1.000
+seed: 0.833
+mani: 0.833
+speci: 0.667
+flower: 0.667
+known: 0.667
+fruit: 0.667
+call: 0.667
+========================
+========================
+CLUSTER 13: 3 MEMBERS
+
+Representative articles:
+Whitby
+Redditch
+Grimsby
+
+Most common terms:
+popul: 1.000
+local: 1.000
+industri: 1.000
+england: 1.000
+centr: 1.000
+fish: 1.000
+manufactur: 1.000
+DB_class: 1.000
+centuri: 1.000
+town: 1.000
+========================
+========================
+CLUSTER 14: 5 MEMBERS
+
+Representative articles:
+Whale
+Sperm_whale
+Killer_whale
+Narwhal
+Blue_whale
+
+Most common terms:
+intern: 1.000
+mammal: 1.000
+whale: 1.000
+DB_class: 1.000
+iucn: 1.000
+ocean: 1.000
+group: 0.800
+two: 0.800
+predat: 0.800
+found: 0.800
+========================
+========================
+CLUSTER 15: 3 MEMBERS
+
+Representative articles:
+Goldbug_(Transformers)
+Optimus_Prime
+Nemesis_Prime
+
+Most common terms:
+name: 1.000
+transform: 1.000
+depict: 1.000
+DB_class: 1.000
+charact: 1.000
+fiction: 1.000
+sever: 0.667
+prime: 0.667
+storylin: 0.333
+variou: 0.333
+========================
+========================
+CLUSTER 16: 2 MEMBERS
+
+Representative articles:
+Swaminarayan
+Pramukh_Swami_Maharaj
+
+Most common terms:
+gujarat: 1.000
+india: 1.000
+follow: 1.000
+swaminarayan: 1.000
+also: 1.000
+DB_class: 1.000
+hindu: 1.000
+initi: 1.000
+appoint: 1.000
+guru: 1.000
+========================
+========================
+CLUSTER 17: 2 MEMBERS
+
+Representative articles:
+Herbert_Sandler
+Marion_Sandler
+
+Most common terms:
+financi: 1.000
+bank: 1.000
+former: 1.000
+save: 1.000
+golden: 1.000
+world: 1.000
+west: 1.000
+DB_class: 1.000
+corpor: 1.000
+school: 0.500
+========================
+========================
+CLUSTER 18: 2 MEMBERS
+
+Representative articles:
+My_Little_Pony
+My_Little_Pony:_Friendship_Is_Magic
+
+Most common terms:
+produc: 1.000
+poni: 1.000
+featurelength: 1.000
+featur: 1.000
+refer: 1.000
+film: 1.000
+seri: 1.000
+follow: 1.000
+DB_class: 1.000
+toy: 1.000
+========================
+========================
+CLUSTER 19: 4 MEMBERS
+
+Representative articles:
+Gummy_bear
+Polar_bear
+Bear
+Grizzly_bear
+
+Most common terms:
+bear: 1.000
+DB_class: 1.000
+brown: 0.750
+intern: 0.500
+carnivor: 0.500
+form: 0.500
+remain: 0.500
+northern: 0.500
+live: 0.500
+north: 0.500
+========================
+========================
+CLUSTER 20: 2 MEMBERS
+
+Representative articles:
+Baked_potato
+Potato
+
+Most common terms:
+part: 1.000
+popular: 1.000
+varieti: 1.000
+skin: 1.000
+potato: 1.000
+may: 1.000
+DB_class: 1.000
+leav: 1.000
+clean: 0.500
+slow: 0.500
+========================
+========================
+CLUSTER 21: 2 MEMBERS
+
+Representative articles:
+Western_Sahara
+Morocco
+
+Most common terms:
+peac: 1.000
+member: 1.000
+includ: 1.000
+leagu: 1.000
+govern: 1.000
+far: 1.000
+DB_class: 1.000
+claim: 1.000
+spain: 1.000
+african: 1.000
+========================
+========================
+CLUSTER 22: 3 MEMBERS
+
+Representative articles:
+Hanging_Gardens_of_Babylon
+Mesopotamia
+Babylon
+
+Most common terms:
+assyrian: 1.000
+one: 1.000
+babylon: 1.000
+iraq: 1.000
+rule: 1.000
+first: 1.000
+DB_class: 1.000
+bc: 1.000
+babylonian: 1.000
+centuri: 1.000
+========================
+========================
+CLUSTER 23: 3 MEMBERS
+
+Representative articles:
+OS_X
+IOS
+IOS_version_history
+
+Most common terms:
+releas: 1.000
+system: 1.000
+appl: 1.000
+inc: 1.000
+oper: 1.000
+sinc: 1.000
+DB_class: 1.000
+io: 1.000
+ipod: 1.000
+ipad: 1.000
+========================
+========================
+CLUSTER 24: 2 MEMBERS
+
+Representative articles:
+Sahara
+Gobi_Desert
+
+Most common terms:
+bound: 1.000
+DB_class: 1.000
+region: 1.000
+mountain: 1.000
+plain: 1.000
+west: 1.000
+desert: 1.000
+ocean: 1.000
+sever: 1.000
+north: 1.000
+========================
+========================
+CLUSTER 25: 5 MEMBERS
+
+Representative articles:
+Wiki-PR_editing_of_Wikipedia
+Larry_Sanger
+Wikipedia
+Vandalism_on_Wikipedia
+Reliability_of_Wikipedia
+
+Most common terms:
+wikipedia: 1.000
+DB_class: 1.000
+includ: 0.800
+user: 0.800
+articl: 0.800
+edit: 0.800
+use: 0.600
+similar: 0.600
+editor: 0.600
+american: 0.600
+========================
+========================
+CLUSTER 26: 7 MEMBERS
+
+Representative articles:
+Reproduction
+Genetically_modified_organism
+Genetically_modified_food_controversies
+Vani_Hari
+North_American_Man/Boy_Love_Association
+Sex
+Food
+
+Most common terms:
+DB_class: 1.000
+organ: 0.857
+involv: 0.571
+associ: 0.571
+mani: 0.571
+genet: 0.571
+food: 0.571
+sexual: 0.429
+peopl: 0.429
+new: 0.429
+========================
+========================
+CLUSTER 27: 2 MEMBERS
+
+Representative articles:
+List_of_countries_by_GDP_(PPP)
+List_of_countries_by_GDP_(PPP)_per_capita
+
+Most common terms:
+within: 1.000
+includ: 1.000
+articl: 1.000
+pariti: 1.000
+servic: 1.000
+DB_class: 1.000
+per: 1.000
+power: 1.000
+gross: 1.000
+year: 1.000
+========================
+========================
+CLUSTER 28: 4 MEMBERS
+
+Representative articles:
+Sunlight
+Incandescent_light_bulb
+Light
+Speed_of_light
+
+Most common terms:
+visibl: 1.000
+light: 1.000
+use: 1.000
+DB_class: 1.000
+per: 1.000
+earth: 0.750
+effect: 0.750
+radiat: 0.750
+sourc: 0.750
+direct: 0.750
+========================
+========================
+CLUSTER 29: 2 MEMBERS
+
+Representative articles:
+Angelo_Persichilli
+Christie_Blatchford
+
+Most common terms:
+journalist: 1.000
+newspap: 1.000
+born: 1.000
+DB_class: 1.000
+canadian: 1.000
+broadcast: 0.500
+emigr: 0.500
+canada: 0.500
+editor: 0.500
+italian: 0.500
+========================
+========================
+CLUSTER 30: 3 MEMBERS
+
+Representative articles:
+Gastornis
+Chimpanzee
+Orangutan
+
+Most common terms:
+consid: 1.000
+caus: 1.000
+howev: 1.000
+genu: 1.000
+studi: 1.000
+classifi: 1.000
+DB_class: 1.000
+speci: 1.000
+current: 1.000
+found: 1.000
+========================
+========================
+CLUSTER 31: 2 MEMBERS
+
+Representative articles:
+N-II_(rocket)
+H-I
+
+Most common terms:
+delta: 1.000
+rocket: 1.000
+nine: 1.000
+hi: 1.000
+launch: 1.000
+stage: 1.000
+upper: 1.000
+DB_class: 1.000
+us: 1.000
+use: 1.000
+========================
+========================
+CLUSTER 32: 4 MEMBERS
+
+Representative articles:
+Pony
+Stallion
+Horse
+Horse_worship
+
+Most common terms:
+anim: 1.000
+hors: 1.000
+DB_class: 1.000
+base: 0.750
+particularli: 0.750
+mani: 0.750
+train: 0.750
+use: 0.750
+term: 0.750
+also: 0.750
+========================
+========================
+CLUSTER 33: 5 MEMBERS
+
+Representative articles:
+Lewis_Hamilton
+Fernando_Alonso
+Jim_Clark
+Eddie_Irvine
+1998_San_Marino_Grand_Prix
+
+Most common terms:
+one: 1.000
+formula: 1.000
+DB_class: 1.000
+race: 1.000
+driver: 0.800
+season: 0.800
+championship: 0.800
+world: 0.800
+motor: 0.600
+finish: 0.600
+========================
+========================
+CLUSTER 34: 2 MEMBERS
+
+Representative articles:
+Sock
+Toe_socks
+
+Most common terms:
+avail: 1.000
+also: 1.000
+DB_class: 1.000
+sock: 1.000
+addit: 0.500
+time: 0.500
+cold: 0.500
+first: 0.500
+predomin: 0.500
+fashion: 0.500
+========================
+========================
+CLUSTER 35: 2 MEMBERS
+
+Representative articles:
+IPad
+IPad_Pro
+
+Most common terms:
+version: 1.000
+comput: 1.000
+appl: 1.000
+tablet: 1.000
+screen: 1.000
+display: 1.000
+camera: 1.000
+DB_class: 1.000
+septemb: 1.000
+size: 1.000
+========================
+========================
+CLUSTER 36: 2 MEMBERS
+
+Representative articles:
+Personal_protective_equipment
+Safety
+
+Most common terms:
+condit: 1.000
+safeti: 1.000
+protect: 1.000
+risk: 1.000
+control: 1.000
+accept: 1.000
+level: 1.000
+DB_class: 1.000
+safe: 1.000
+hazard: 1.000
+========================
+========================
+CLUSTER 37: 2 MEMBERS
+
+Representative articles:
+Wendy_Williams
+William_the_Conqueror
+
+Most common terms:
+name: 1.000
+book: 1.000
+william: 1.000
+DB_class: 1.000
+author: 1.000
+sever: 1.000
+broadcast: 0.500
+support: 0.500
+neighbour: 0.500
+new: 0.500
+========================
+========================
+CLUSTER 38: 2 MEMBERS
+
+Representative articles:
+Performance_rights_organisation
+Copyright
+
+Most common terms:
+perform: 1.000
+public: 1.000
+gener: 1.000
+music: 1.000
+usual: 1.000
+use: 1.000
+DB_class: 1.000
+medium: 1.000
+legal: 1.000
+includ: 1.000
+========================
+========================
+CLUSTER 39: 8 MEMBERS
+
+Representative articles:
+Jet_engine
+Regulation_and_licensure_in_engineering
+Coandă-1910
+Gottlieb_Daimler
+Airplane
+Chrysler_B_engine
+Wright_brothers
+James_Watt
+
+Most common terms:
+DB_class: 1.000
+engin: 1.000
+use: 0.875
+design: 0.750
+work: 0.625
+invent: 0.625
+industri: 0.625
+develop: 0.625
+power: 0.625
+flight: 0.500
+========================
+========================
+CLUSTER 40: 2 MEMBERS
+
+Representative articles:
+Barelvi
+Bhakti_movement
+
+Most common terms:
+south: 1.000
+refer: 1.000
+later: 1.000
+origin: 1.000
+DB_class: 1.000
+movement: 1.000
+north: 1.000
+social: 0.500
+classic: 0.500
+school: 0.500
+========================
+========================
+CLUSTER 41: 3 MEMBERS
+
+Representative articles:
+Periyar_(river)
+River_Esk,_North_Yorkshire
+List_of_rivers_by_length
+
+Most common terms:
+river: 1.000
+DB_class: 1.000
+name: 0.667
+cours: 0.667
+longest: 0.667
+north: 0.667
+discharg: 0.333
+region: 0.333
+around: 0.333
+use: 0.333
+========================
+========================
+CLUSTER 42: 5 MEMBERS
+
+Representative articles:
+Kurds
+Kurdish_languages
+Kurdistan
+Masoud_Barzani
+Bahoz_Erdal
+
+Most common terms:
+kurdistan: 1.000
+kurdish: 1.000
+DB_class: 1.000
+region: 0.800
+also: 0.800
+kurd: 0.600
+nationalist: 0.600
+form: 0.600
+northern: 0.600
+northwestern: 0.600
+========================
+========================
+CLUSTER 43: 2 MEMBERS
+
+Representative articles:
+Helicopter
+AgustaWestland_AW139
+
+Most common terms:
+one: 1.000
+design: 1.000
+includ: 1.000
+becom: 1.000
+helicopt: 1.000
+product: 1.000
+DB_class: 1.000
+develop: 1.000
+origin: 1.000
+applic: 0.500
+========================
+========================
+CLUSTER 44: 2 MEMBERS
+
+Representative articles:
+Black_sheep
+Sheep
+
+Most common terms:
+member: 1.000
+typic: 1.000
+group: 1.000
+deriv: 1.000
+tradit: 1.000
+sheep: 1.000
+DB_class: 1.000
+term: 1.000
+english: 1.000
+especi: 1.000
+========================
+========================
+CLUSTER 45: 2 MEMBERS
+
+Representative articles:
+Equipment_of_the_Malaysian_Army
+Equipment_of_the_Bangladesh_Army
+
+Most common terms:
+aircraft: 1.000
+vehicl: 1.000
+armi: 1.000
+DB_class: 1.000
+equip: 1.000
+list: 0.500
+small: 0.500
+cloth: 0.500
+use: 0.500
+weapon: 0.500
+========================
+========================
+CLUSTER 46: 3 MEMBERS
+
+Representative articles:
+Race_(human_categorization)
+Aryan_race
+Irano-Afghan_race
+
+Most common terms:
+DB_class: 1.000
+race: 1.000
+popul: 0.667
+racial: 0.667
+physic: 0.667
+depend: 0.667
+common: 0.667
+belong: 0.667
+distinct: 0.667
+concept: 0.667
+========================
+========================
+CLUSTER 47: 3 MEMBERS
+
+Representative articles:
+SM_Southmall
+SM_Supermalls
+List_of_shopping_malls_in_India
+
+Most common terms:
+DB_class: 1.000
+mall: 1.000
+shop: 1.000
+locat: 1.000
+philippin: 0.667
+open: 0.667
+sm: 0.667
+area: 0.667
+gross: 0.667
+own: 0.667
+========================
+========================
+CLUSTER 48: 2 MEMBERS
+
+Representative articles:
+Growth_hormone
+Bioidentical_hormone_replacement_therapy
+
+Most common terms:
+produc: 1.000
+effort: 1.000
+natur: 1.000
+approv: 1.000
+target: 1.000
+import: 1.000
+blood: 1.000
+DB_class: 1.000
+test: 1.000
+clinic: 1.000
+========================
+========================
+CLUSTER 49: 4 MEMBERS
+
+Representative articles:
+Tiger
+Caspian_tiger
+Bengal_tiger
+Siberian_tiger
+
+Most common terms:
+DB_class: 1.000
+subspeci: 1.000
+individu: 1.000
+tiger: 1.000
+wild: 1.000
+conserv: 0.750
+th: 0.750
+rang: 0.750
+asia: 0.750
+bengal: 0.750
+========================
+========================
+CLUSTER 50: 3 MEMBERS
+
+Representative articles:
+G2A
+Gas_chamber
+Bunsen_burner
+
+Most common terms:
+ga: 1.000
+DB_class: 1.000
+use: 0.667
+commonli: 0.667
+name: 0.333
+croatia: 0.333
+anim: 0.333
+protect: 0.333
+kill: 0.333
+also: 0.333
+========================
+========================
+CLUSTER 51: 11 MEMBERS
+
+Representative articles:
+Shades_of_red
+Ruby
+Red_Wing_Pottery
+Red_mist
+Color
+Blueshift
+Blond
+Red_hair
+Green
+Eye_color
+
+Most common terms:
+DB_class: 1.000
+color: 0.818
+red: 0.818
+light: 0.727
+blue: 0.545
+visibl: 0.455
+associ: 0.455
+call: 0.455
+also: 0.455
+two: 0.364
+========================
+========================
+CLUSTER 52: 2 MEMBERS
+
+Representative articles:
+Apraxia_of_speech
+Dysarthria
+
+Most common terms:
+plan: 1.000
+DB_class: 1.000
+disord: 1.000
+injuri: 1.000
+loss: 1.000
+result: 1.000
+progress: 1.000
+also: 1.000
+languag: 1.000
+usual: 1.000
+========================
+========================
+CLUSTER 53: 5 MEMBERS
+
+Representative articles:
+Maximus_Inc.
+WEX_Inc.
+Primerica
+List_of_online_payment_service_providers
+Dialogic_Inc.
+
+Most common terms:
+compani: 1.000
+DB_class: 1.000
+servic: 1.000
+provid: 0.800
+unit: 0.600
+canada: 0.600
+inc: 0.600
+state: 0.600
+base: 0.400
+insur: 0.400
+========================
+========================
+CLUSTER 54: 2 MEMBERS
+
+Representative articles:
+Twitter
+Instagram
+
+Most common terms:
+million: 1.000
+activ: 1.000
+network: 1.000
+billion: 1.000
+twitter: 1.000
+user: 1.000
+also: 1.000
+DB_class: 1.000
+mobil: 1.000
+app: 1.000
+========================
+========================
+CLUSTER 55: 2 MEMBERS
+
+Representative articles:
+Anand_Mahindra
+Jindal_Group
+
+Most common terms:
+largest: 1.000
+indian: 1.000
+india: 1.000
+forb: 1.000
+ltd: 1.000
+steel: 1.000
+group: 1.000
+DB_class: 1.000
+power: 1.000
+found: 1.000
+========================
+========================
+CLUSTER 56: 3 MEMBERS
+
+Representative articles:
+Slavery
+Islam_and_slavery
+Islamic_views_on_slavery
+
+Most common terms:
+slave: 1.000
+may: 1.000
+DB_class: 1.000
+trade: 1.000
+slaveri: 1.000
+howev: 0.667
+world: 0.667
+human: 0.667
+mani: 0.667
+practic: 0.667
+========================
+========================
+CLUSTER 57: 2 MEMBERS
+
+Representative articles:
+Jaguar_Cars
+Land_Rover
+
+Most common terms:
+would: 1.000
+vehicl: 1.000
+open: 1.000
+car: 1.000
+name: 1.000
+manufactur: 1.000
+DB_class: 1.000
+engin: 1.000
+academ: 1.000
+model: 1.000
+========================
+========================
+CLUSTER 58: 5 MEMBERS
+
+Representative articles:
+Origami
+Paper_plane
+Toilet
+Toilet_paper
+Thesis_statement
+
+Most common terms:
+DB_class: 1.000
+paper: 0.800
+also: 0.800
+modern: 0.600
+design: 0.600
+mean: 0.600
+may: 0.600
+usual: 0.600
+use: 0.600
+develop: 0.600
+========================
+========================
+CLUSTER 59: 2 MEMBERS
+
+Representative articles:
+Black_Egyptian_hypothesis
+Ancient_Egyptian_race_controversy
+
+Most common terms:
+color: 1.000
+cultur: 1.000
+second: 1.000
+th: 1.000
+question: 1.000
+sinc: 1.000
+DB_class: 1.000
+centuri: 1.000
+race: 1.000
+model: 1.000
+========================
+========================
+CLUSTER 60: 2 MEMBERS
+
+Representative articles:
+Dick_Strawbridge
+Dick
+
+Most common terms:
+refer: 1.000
+DB_class: 1.000
+richard: 1.000
+dick: 1.000
+soccer: 0.500
+colonel: 0.500
+slang: 0.500
+colorado: 0.500
+may: 0.500
+band: 0.500
+========================
+========================
+CLUSTER 61: 2 MEMBERS
+
+Representative articles:
+Oxfordian_theory_of_Shakespeare_authorship
+William_Shakespeare
+
+Most common terms:
+th: 1.000
+popular: 1.000
+howev: 1.000
+earli: 1.000
+writer: 1.000
+consid: 1.000
+poet: 1.000
+mani: 1.000
+DB_class: 1.000
+poem: 1.000
+========================
+========================
+CLUSTER 62: 2 MEMBERS
+
+Representative articles:
+Apple_Inc.
+Steve_Jobs
+
+Most common terms:
+includ: 1.000
+tablet: 1.000
+inc: 1.000
+technolog: 1.000
+market: 1.000
+high: 1.000
+DB_class: 1.000
+mac: 1.000
+music: 1.000
+found: 1.000
+========================
+========================
+CLUSTER 63: 3 MEMBERS
+
+Representative articles:
+John_Vincent_Atanasoff
+Computer
+Konrad_Zuse
+
+Most common terms:
+machin: 1.000
+comput: 1.000
+first: 1.000
+DB_class: 1.000
+one: 0.667
+calcul: 0.667
+call: 0.667
+ii: 0.667
+modern: 0.667
+war: 0.667
+========================
+========================
+CLUSTER 64: 4 MEMBERS
+
+Representative articles:
+Mickey_Mouse
+Goofy
+Minnie_Mouse
+Pete_(Disney)
+
+Most common terms:
+friend: 1.000
+featur: 1.000
+comic: 1.000
+walt: 1.000
+cartoon: 1.000
+creat: 1.000
+DB_class: 1.000
+mickey: 1.000
+disney: 1.000
+appear: 1.000
+========================
+========================
+CLUSTER 65: 3 MEMBERS
+
+Representative articles:
+Through_arch_bridge
+Tied-arch_bridge
+Truss_bridge
+
+Most common terms:
+bridg: 1.000
+DB_class: 1.000
+tension: 1.000
+construct: 0.667
+materi: 0.667
+type: 0.667
+load: 0.667
+top: 0.667
+arch: 0.667
+compress: 0.667
+========================
+========================
+CLUSTER 66: 2 MEMBERS
+
+Representative articles:
+Black_History_Month
+Pickled_cucumber
+
+Most common terms:
+unit: 1.000
+kingdom: 1.000
+canada: 1.000
+known: 1.000
+DB_class: 1.000
+state: 1.000
+either: 0.500
+period: 0.500
+left: 0.500
+histori: 0.500
+========================
+========================
+CLUSTER 67: 3 MEMBERS
+
+Representative articles:
+Fiat_S.p.A.
+Jeep
+Chrysler
+
+Most common terms:
+automobil: 1.000
+brand: 1.000
+number: 1.000
+group: 1.000
+chrysler: 1.000
+also: 1.000
+DB_class: 1.000
+fiat: 1.000
+acquir: 1.000
+vehicl: 1.000
+========================
+========================
+CLUSTER 68: 7 MEMBERS
+
+Representative articles:
+Internet
+IP_address
+History_of_the_Internet
+Internet2
+Koobface
+List_of_countries_by_Internet_connection_speeds
+Merseyrail
+
+Most common terms:
+network: 1.000
+DB_class: 1.000
+use: 0.857
+comput: 0.714
+access: 0.714
+servic: 0.714
+internet: 0.714
+technolog: 0.571
+local: 0.571
+develop: 0.571
+========================
+========================
+CLUSTER 69: 3 MEMBERS
+
+Representative articles:
+Electric_current
+Hydroelectricity
+Electricity
+
+Most common terms:
+gener: 1.000
+flow: 1.000
+DB_class: 1.000
+use: 1.000
+electr: 1.000
+particl: 0.667
+move: 0.667
+electron: 0.667
+per: 0.667
+magnet: 0.667
+========================
+========================
+CLUSTER 70: 5 MEMBERS
+
+Representative articles:
+Sanju_Pass
+Mountain
+Mount_Hermon
+K2
+Rocky_Mountains
+
+Most common terms:
+DB_class: 1.000
+mountain: 1.000
+ft: 0.800
+known: 0.800
+peak: 0.800
+rang: 0.800
+summit: 0.600
+level: 0.600
+mount: 0.600
+sea: 0.600
+========================
+========================
+CLUSTER 71: 4 MEMBERS
+
+Representative articles:
+Jim_Lovell
+Apollo_13
+Neil_Armstrong
+Apollo_11
+
+Most common terms:
+pilot: 1.000
+apollo: 1.000
+land: 1.000
+modul: 1.000
+lunar: 1.000
+moon: 1.000
+DB_class: 1.000
+space: 1.000
+command: 1.000
+mission: 1.000
+========================
+========================
+CLUSTER 72: 2 MEMBERS
+
+Representative articles:
+Lord_of_the_Flies
+Black_Beauty
+
+Most common terms:
+read: 1.000
+one: 1.000
+novel: 1.000
+big: 1.000
+welfar: 1.000
+survey: 1.000
+DB_class: 1.000
+list: 1.000
+success: 1.000
+book: 1.000
+========================
+========================
+CLUSTER 73: 2 MEMBERS
+
+Representative articles:
+Toast
+Muffin
+
+Most common terms:
+breakfast: 1.000
+food: 1.000
+eaten: 1.000
+serv: 1.000
+butter: 1.000
+bread: 1.000
+accompani: 1.000
+top: 1.000
+DB_class: 1.000
+bake: 1.000
+========================
+========================
+CLUSTER 74: 5 MEMBERS
+
+Representative articles:
+Marianne_Matichuk
+Moncton_City_Council
+Norm_Kelly
+Toronto_mayoral_election,_2014
+Michael_Applebaum
+
+Most common terms:
+mayor: 1.000
+citi: 1.000
+DB_class: 1.000
+municip: 0.800
+council: 0.800
+councillor: 0.800
+elect: 0.800
+ontario: 0.600
+ward: 0.600
+politician: 0.600
+========================
+========================
+CLUSTER 75: 2 MEMBERS
+
+Representative articles:
+Mysandbox
+Intentionally_blank_page
+
+Most common terms:
+page: 1.000
+DB_class: 1.000
+paper: 0.500
+blank: 0.500
+serv: 0.500
+latin: 0.500
+may: 0.500
+work: 0.500
+seriou: 0.500
+might: 0.500
+========================
+========================
+CLUSTER 76: 3 MEMBERS
+
+Representative articles:
+Robert_Shaw_(theatre_director)
+J._T._Buck
+Sophie_Hunter
+
+Most common terms:
+director: 1.000
+theatr: 1.000
+play: 1.000
+music: 1.000
+DB_class: 1.000
+new: 1.000
+born: 1.000
+english: 0.667
+project: 0.667
+festiv: 0.667
+========================
+========================
+CLUSTER 77: 2 MEMBERS
+
+Representative articles:
+Catfish
+Moth
+
+Most common terms:
+speci: 1.000
+order: 1.000
+group: 1.000
+also: 1.000
+DB_class: 1.000
+mani: 1.000
+even: 0.500
+commerci: 0.500
+commonli: 0.500
+materi: 0.500
+========================
+========================
+CLUSTER 78: 2 MEMBERS
+
+Representative articles:
+Starmedia
+Fernando_Espuelas
+
+Most common terms:
+lead: 1.000
+ceo: 1.000
+leader: 1.000
+latin: 1.000
+oper: 1.000
+starmedia: 1.000
+launch: 1.000
+DB_class: 1.000
+case: 1.000
+speaker: 1.000
+========================
+========================
+CLUSTER 79: 3 MEMBERS
+
+Representative articles:
+Tropical_rainforest
+Rainforest
+Amazon_rainforest
+
+Most common terms:
+tropic: 1.000
+forest: 1.000
+world: 1.000
+also: 1.000
+DB_class: 1.000
+rainforest: 1.000
+within: 0.667
+largest: 0.667
+zone: 0.667
+includ: 0.667
+========================
+========================
+CLUSTER 80: 3 MEMBERS
+
+Representative articles:
+Bald_eagle
+Golden_eagle
+White-bellied_sea_eagle
+
+Most common terms:
+speci: 1.000
+DB_class: 1.000
+year: 1.000
+rang: 1.000
+eagl: 1.000
+tail: 1.000
+bird: 1.000
+white: 1.000
+brown: 1.000
+two: 1.000
+========================
+========================
+CLUSTER 81: 2 MEMBERS
+
+Representative articles:
+Tourette_syndrome
+Treatment_of_Tourette_syndrome
+
+Most common terms:
+tourett: 1.000
+condit: 1.000
+explan: 1.000
+onset: 1.000
+disord: 1.000
+associ: 1.000
+may: 1.000
+symptom: 1.000
+DB_class: 1.000
+medic: 1.000
+========================
+========================
+CLUSTER 82: 2 MEMBERS
+
+Representative articles:
+Vikramaditya_VI
+Veera_Ballala_II
+
+Most common terms:
+western: 1.000
+administr: 1.000
+kingdom: 1.000
+among: 1.000
+queen: 1.000
+dynasti: 1.000
+support: 1.000
+notabl: 1.000
+DB_class: 1.000
+ce: 1.000
+========================
+========================
+CLUSTER 83: 5 MEMBERS
+
+Representative articles:
+Betta
+Fly_fishing
+Fish
+Salmonidae
+Tuna
+
+Most common terms:
+speci: 1.000
+fish: 1.000
+DB_class: 1.000
+water: 0.800
+temperatur: 0.600
+freshwat: 0.600
+includ: 0.600
+small: 0.600
+larg: 0.600
+predat: 0.600
+========================
+========================
+CLUSTER 84: 2 MEMBERS
+
+Representative articles:
+Constellation_Brands
+Accolade_Wines
+
+Most common terms:
+brand: 1.000
+wine: 1.000
+compani: 1.000
+DB_class: 1.000
+new: 1.000
+beer: 1.000
+trade: 1.000
+environment: 0.500
+drink: 0.500
+includ: 0.500
+========================
+========================
+CLUSTER 85: 2 MEMBERS
+
+Representative articles:
+Pie
+Apple_pie
+
+Most common terms:
+fill: 1.000
+serv: 1.000
+pie: 1.000
+crust: 1.000
+pastri: 1.000
+top: 1.000
+DB_class: 1.000
+use: 1.000
+ingredi: 1.000
+size: 0.500
+========================
+========================
+CLUSTER 86: 3 MEMBERS
+
+Representative articles:
+Online_shopping
+EBay
+ResellerRatings
+
+Most common terms:
+onlin: 1.000
+busi: 1.000
+use: 1.000
+DB_class: 1.000
+buy: 1.000
+good: 0.667
+shop: 0.667
+seller: 0.667
+servic: 0.667
+retail: 0.667
+========================
+========================
+CLUSTER 87: 5 MEMBERS
+
+Representative articles:
+Elizabeth_II
+Charles,_Prince_of_Wales
+Queen_Elizabeth_The_Queen_Mother
+Elizabeth_I_of_England
+Elizabethan_era
+
+Most common terms:
+elizabeth: 1.000
+support: 1.000
+queen: 1.000
+DB_class: 1.000
+royal: 0.800
+age: 0.800
+ii: 0.800
+kingdom: 0.800
+vi: 0.800
+war: 0.800
+========================
+========================
+CLUSTER 88: 4 MEMBERS
+
+Representative articles:
+People
+Kyrgyz_people
+Asian_people
+Turkic_peoples
+
+Most common terms:
+peopl: 1.000
+group: 1.000
+DB_class: 1.000
+ethnic: 1.000
+turkic: 0.500
+collect: 0.500
+eastern: 0.500
+live: 0.500
+asia: 0.500
+categor: 0.250
+========================
+========================
+CLUSTER 89: 3 MEMBERS
+
+Representative articles:
+Lizard
+Anaconda
+Snake
+
+Most common terms:
+speci: 1.000
+snake: 1.000
+DB_class: 1.000
+evolv: 0.667
+contin: 0.667
+overlap: 0.667
+except: 0.667
+larger: 0.667
+small: 0.667
+one: 0.667
+========================
+========================
+CLUSTER 90: 2 MEMBERS
+
+Representative articles:
+Trojan_War
+Paris_(mythology)
+
+Most common terms:
+sparta: 1.000
+ancient: 1.000
+known: 1.000
+greek: 1.000
+later: 1.000
+troy: 1.000
+pari: 1.000
+helen: 1.000
+DB_class: 1.000
+king: 1.000
+========================
+========================
+CLUSTER 91: 2 MEMBERS
+
+Representative articles:
+Skateboarding
+Jereme_Rogers
+
+Most common terms:
+skateboard: 1.000
+DB_class: 1.000
+sport: 0.500
+involv: 0.500
+aggress: 0.500
+born: 0.500
+billion: 0.500
+roger: 0.500
+also: 0.500
+rap: 0.500
+========================
+========================
+CLUSTER 92: 4 MEMBERS
+
+Representative articles:
+Swiss_cheese
+Hamburger
+Cheeseburger
+Cheese
+
+Most common terms:
+chees: 1.000
+DB_class: 1.000
+includ: 0.750
+type: 0.750
+may: 0.750
+mani: 0.750
+term: 0.750
+use: 0.750
+cook: 0.750
+allow: 0.500
+========================
+========================
+CLUSTER 93: 3 MEMBERS
+
+Representative articles:
+Kura–Araxes_culture
+Mesoamerica
+Maya_civilization
+
+Most common terms:
+empir: 1.000
+area: 1.000
+rise: 1.000
+civil: 1.000
+DB_class: 1.000
+bc: 1.000
+earliest: 1.000
+defin: 0.667
+period: 0.667
+date: 0.667
+========================
+========================
+CLUSTER 94: 2 MEMBERS
+
+Representative articles:
+List_of_The_Cosby_Show_characters
+Bill_Cosby
+
+Most common terms:
+cosbi: 1.000
+show: 1.000
+televis: 1.000
+sitcom: 1.000
+famili: 1.000
+star: 1.000
+DB_class: 1.000
+season: 1.000
+american: 1.000
+bill: 1.000
+========================
+========================
+CLUSTER 95: 2 MEMBERS
+
+Representative articles:
+Guy_Fawkes
+Guy_Fawkes_Night
+
+Most common terms:
+lord: 1.000
+english: 1.000
+old: 1.000
+eventu: 1.000
+firework: 1.000
+DB_class: 1.000
+later: 1.000
+explos: 1.000
+plot: 1.000
+king: 1.000
+========================
+========================
+CLUSTER 96: 2 MEMBERS
+
+Representative articles:
+Brenda_Shaffer
+Michael_Bérubé
+
+Most common terms:
+intern: 1.000
+book: 1.000
+literatur: 1.000
+associ: 1.000
+also: 1.000
+DB_class: 1.000
+research: 1.000
+american: 1.000
+cultur: 1.000
+council: 1.000
+========================
+========================
+CLUSTER 97: 6 MEMBERS
+
+Representative articles:
+List_of_busiest_airports_by_passenger_traffic
+Kuala_Lumpur_International_Airport
+Ninoy_Aquino_International_Airport
+List_of_the_busiest_airports_in_Australia
+Heathrow_Airport
+Mangalore_Airport
+
+Most common terms:
+airport: 1.000
+traffic: 1.000
+DB_class: 1.000
+passeng: 1.000
+intern: 0.833
+citi: 0.667
+total: 0.667
+kilometr: 0.500
+oper: 0.500
+handl: 0.500
+========================
+========================
+CLUSTER 98: 2 MEMBERS
+
+Representative articles:
+Escort_agency
+Call_girl
+
+Most common terms:
+agenc: 1.000
+involv: 1.000
+may: 1.000
+escort: 1.000
+client: 1.000
+usual: 1.000
+must: 1.000
+DB_class: 1.000
+servic: 1.000
+room: 0.500
+========================
+========================
+CLUSTER 99: 2 MEMBERS
+
+Representative articles:
+Harper_Lee
+To_Kill_a_Mockingbird
+
+Most common terms:
+harper: 1.000
+famili: 1.000
+success: 1.000
+modern: 1.000
+old: 1.000
+classic: 1.000
+DB_class: 1.000
+class: 1.000
+race: 1.000
+charact: 1.000
+========================
+========================
+CLUSTER 100: 2 MEMBERS
+
+Representative articles:
+Singapore
+Vivian_Balakrishnan
+
+Most common terms:
+becam: 1.000
+centr: 1.000
+industri: 1.000
+foreign: 1.000
+action: 1.000
+singapor: 1.000
+DB_class: 1.000
+affair: 1.000
+includ: 1.000
+resourc: 1.000
+========================
+========================
+CLUSTER 101: 6 MEMBERS
+
+Representative articles:
+History_of_chess
+Chess
+Xiangqi
+Yelena_Dembo
+Rules_of_chess
+Susan_Polgar
+
+Most common terms:
+DB_class: 1.000
+chess: 1.000
+player: 0.833
+also: 0.833
+intern: 0.667
+first: 0.667
+play: 0.667
+piec: 0.667
+world: 0.667
+game: 0.667
+========================
+========================
+CLUSTER 102: 2 MEMBERS
+
+Representative articles:
+Electron_configuration
+Atom
+
+Most common terms:
+bond: 1.000
+atom: 1.000
+molecul: 1.000
+associ: 1.000
+element: 1.000
+quantum: 1.000
+DB_class: 1.000
+exampl: 1.000
+physic: 1.000
+explain: 1.000
+========================
+========================
+CLUSTER 103: 2 MEMBERS
+
+Representative articles:
+Central_Intelligence_Agency
+Federal_Bureau_of_Investigation
+
+Most common terms:
+secur: 1.000
+feder: 1.000
+foreign: 1.000
+focu: 1.000
+focus: 1.000
+oversea: 1.000
+DB_class: 1.000
+cia: 1.000
+state: 1.000
+central: 1.000
+========================
+========================
+CLUSTER 104: 3 MEMBERS
+
+Representative articles:
+Crips
+Sureños
+Bloods
+
+Most common terms:
+rivalri: 1.000
+unit: 1.000
+gang: 1.000
+set: 1.000
+DB_class: 1.000
+state: 1.000
+among: 0.667
+loos: 0.667
+angel: 0.667
+anoth: 0.667
+========================
+========================
+CLUSTER 105: 2 MEMBERS
+
+Representative articles:
+Creampie_(sexual_act)
+Felching
+
+Most common terms:
+sexual: 1.000
+vagina: 1.000
+DB_class: 1.000
+known: 1.000
+anu: 1.000
+partner: 1.000
+act: 1.000
+one: 0.500
+involv: 0.500
+use: 0.500
+========================
+========================
+CLUSTER 106: 2 MEMBERS
+
+Representative articles:
+Paul_the_Apostle
+Rand_Paul
+
+Most common terms:
+life: 1.000
+univers: 1.000
+son: 1.000
+paul: 1.000
+DB_class: 1.000
+practic: 1.000
+began: 1.000
+sinc: 0.500
+simpli: 0.500
+state: 0.500
+========================
+========================
+CLUSTER 107: 4 MEMBERS
+
+Representative articles:
+SubRip
+Libjpeg
+Libpng
+Software_release_life_cycle
+
+Most common terms:
+softwar: 1.000
+DB_class: 1.000
+free: 0.750
+wide: 0.750
+releas: 0.750
+use: 0.750
+data: 0.500
+handl: 0.500
+function: 0.500
+origin: 0.500
+========================
+========================
+CLUSTER 108: 4 MEMBERS
+
+Representative articles:
+John_Riccitiello
+Andy_Warhol
+Ely_Sakhai
+Art
+
+Most common terms:
+art: 1.000
+DB_class: 1.000
+distinguish: 0.500
+oper: 0.500
+film: 0.500
+music: 0.500
+visual: 0.500
+unit: 0.500
+paint: 0.500
+well: 0.500
+========================
+========================
+CLUSTER 109: 2 MEMBERS
+
+Representative articles:
+List_of_Gibson_players
+List_of_Epiphone_players
+
+Most common terms:
+instrument: 1.000
+contribut: 1.000
+guitar: 1.000
+made: 1.000
+perform: 1.000
+uniqu: 1.000
+import: 1.000
+notabl: 1.000
+DB_class: 1.000
+list: 1.000
+========================
+========================
+CLUSTER 110: 2 MEMBERS
+
+Representative articles:
+Aryabhata
+Sanaya_Irani
+
+Most common terms:
+major: 1.000
+indian: 1.000
+first: 1.000
+DB_class: 1.000
+miley: 0.500
+work: 0.500
+mathemat: 0.500
+sanskrit: 0.500
+subsequ: 0.500
+includ: 0.500
+========================
+========================
+CLUSTER 111: 3 MEMBERS
+
+Representative articles:
+Phil_Lester
+Dan_Howell
+Dan_and_Phil
+
+Most common terms:
+phil: 1.000
+present: 1.000
+british: 1.000
+show: 1.000
+host: 1.000
+sunday: 1.000
+DB_class: 1.000
+septemb: 1.000
+bbc: 1.000
+internet: 1.000
+========================
+========================
+CLUSTER 112: 2 MEMBERS
+
+Representative articles:
+Winnie-the-Pooh_(book)
+Roo
+
+Most common terms:
+friend: 1.000
+chapter: 1.000
+book: 1.000
+forest: 1.000
+first: 1.000
+call: 1.000
+DB_class: 1.000
+kangaroo: 1.000
+owl: 1.000
+charact: 1.000
+========================
+========================
+CLUSTER 113: 2 MEMBERS
+
+Representative articles:
+Robin_Li
+Li_Hongzhi
+
+Most common terms:
+unit: 1.000
+li: 1.000
+china: 1.000
+includ: 1.000
+may: 1.000
+pinyin: 1.000
+chines: 1.000
+DB_class: 1.000
+state: 1.000
+popular: 0.500
+========================
+========================
+CLUSTER 114: 2 MEMBERS
+
+Representative articles:
+Emma_Harrison
+Sarah_Monahan
+
+Most common terms:
+best: 1.000
+known: 1.000
+role: 1.000
+DB_class: 1.000
+actress: 1.000
+australian: 1.000
+away: 0.500
+neighbour: 0.500
+kelli: 0.500
+sarah: 0.500
+========================
+========================
+CLUSTER 115: 2 MEMBERS
+
+Representative articles:
+Banc_De_Binary
+Binary_option
+
+Most common terms:
+call: 1.000
+custom: 1.000
+commiss: 1.000
+asset: 1.000
+exchang: 1.000
+stock: 1.000
+DB_class: 1.000
+secur: 1.000
+price: 1.000
+regul: 1.000
+========================
+========================
+CLUSTER 116: 2 MEMBERS
+
+Representative articles:
+Pia_Kjærsgaard
+Danes
+
+Most common terms:
+danish: 1.000
+peopl: 1.000
+movement: 1.000
+immigr: 1.000
+sinc: 1.000
+DB_class: 1.000
+denmark: 1.000
+promis: 0.500
+royal: 0.500
+vike: 0.500
+========================
+========================
+CLUSTER 117: 3 MEMBERS
+
+Representative articles:
+Cuba
+Fidel_Castro
+Che_Guevara
+
+Most common terms:
+america: 1.000
+crisi: 1.000
+led: 1.000
+castro: 1.000
+mexico: 1.000
+govern: 1.000
+DB_class: 1.000
+polit: 1.000
+missil: 1.000
+social: 1.000
+========================
+========================
+CLUSTER 118: 2 MEMBERS
+
+Representative articles:
+List_of_serial_killers_by_number_of_victims
+List_of_serial_killers_by_country
+
+Most common terms:
+killer: 1.000
+murder: 1.000
+serial: 1.000
+DB_class: 1.000
+list: 1.000
+complex: 0.500
+separ: 0.500
+convict: 0.500
+concern: 0.500
+crime: 0.500
+========================
+========================
+CLUSTER 119: 3 MEMBERS
+
+Representative articles:
+Cupcake
+Jaffa_Cakes
+Cake
+
+Most common terms:
+cake: 1.000
+DB_class: 1.000
+also: 1.000
+one: 0.667
+serv: 0.667
+larger: 0.667
+common: 0.667
+may: 0.667
+small: 0.667
+ice: 0.667
+========================
+========================
+CLUSTER 120: 3 MEMBERS
+
+Representative articles:
+Candy
+Sugar
+Ramzan_Sugar_Mills
+
+Most common terms:
+sugar: 1.000
+DB_class: 1.000
+establish: 0.667
+peopl: 0.667
+sweet: 0.667
+cours: 0.667
+may: 0.667
+mani: 0.667
+also: 0.667
+substitut: 0.667
+========================
+========================
+CLUSTER 121: 7 MEMBERS
+
+Representative articles:
+Porsche
+Car
+Maserati
+Lamborghini
+Bugatti
+3200_series_(Chicago_"L")
+Chevrolet_Volt
+
+Most common terms:
+includ: 1.000
+car: 1.000
+DB_class: 1.000
+manufactur: 0.857
+model: 0.714
+sport: 0.571
+vehicl: 0.571
+own: 0.571
+product: 0.571
+compani: 0.571
+========================
+========================
+CLUSTER 122: 2 MEMBERS
+
+Representative articles:
+Coral_reef
+Great_Barrier_Reef
+
+Most common terms:
+warm: 1.000
+built: 1.000
+protect: 1.000
+known: 1.000
+group: 1.000
+fish: 1.000
+support: 1.000
+divers: 1.000
+DB_class: 1.000
+chang: 1.000
+========================
+========================
+CLUSTER 123: 2 MEMBERS
+
+Representative articles:
+Diabetes_mellitus_type_2
+Diabetes_mellitus
+
+Most common terms:
+lack: 1.000
+urin: 1.000
+state: 1.000
+import: 1.000
+mani: 1.000
+begin: 1.000
+oral: 1.000
+DB_class: 1.000
+sugar: 1.000
+failur: 1.000
+========================
+========================
+CLUSTER 124: 2 MEMBERS
+
+Representative articles:
+Life_on_Mars
+Mars
+
+Most common terms:
+habit: 1.000
+earth: 1.000
+opportun: 1.000
+rover: 1.000
+includ: 1.000
+water: 1.000
+DB_class: 1.000
+two: 1.000
+planet: 1.000
+well: 1.000
+========================
+========================
+CLUSTER 125: 4 MEMBERS
+
+Representative articles:
+Human_penis_size
+Human_penis
+Micropenis
+Penis
+
+Most common terms:
+occur: 1.000
+peni: 1.000
+DB_class: 1.000
+human: 0.750
+size: 0.750
+male: 0.750
+erect: 0.750
+term: 0.750
+cm: 0.750
+length: 0.750
+========================
+========================
+CLUSTER 126: 2 MEMBERS
+
+Representative articles:
+List_of_Nobel_laureates
+Alfred_Nobel
+
+Most common terms:
+prize: 1.000
+nobel: 1.000
+swedish: 1.000
+alfr: 1.000
+DB_class: 1.000
+establish: 1.000
+element: 0.500
+econom: 0.500
+role: 0.500
+sale: 0.500
+========================
+========================
+CLUSTER 127: 3 MEMBERS
+
+Representative articles:
+Arab's_Gulf
+Arabian_Gulf
+Persian_Gulf
+
+Most common terms:
+name: 1.000
+histor: 1.000
+arabian: 1.000
+known: 1.000
+arab: 1.000
+DB_class: 1.000
+gulf: 1.000
+larg: 1.000
+sea: 1.000
+geolog: 0.667
+========================
+========================
+CLUSTER 128: 6 MEMBERS
+
+Representative articles:
+Yggdrasil
+Savanna
+Avocado
+Forest
+Tree
+Taiga
+
+Most common terms:
+tree: 1.000
+DB_class: 1.000
+world: 0.833
+also: 0.833
+tropic: 0.667
+forest: 0.667
+includ: 0.667
+speci: 0.500
+plant: 0.500
+land: 0.500
+========================
+========================
+CLUSTER 129: 3 MEMBERS
+
+Representative articles:
+Donkey
+African_wild_ass
+Ass
+
+Most common terms:
+ass: 1.000
+donkey: 1.000
+DB_class: 1.000
+wild: 1.000
+ancestor: 0.667
+famili: 0.667
+human: 0.667
+member: 0.667
+live: 0.667
+place: 0.667
+========================
+========================
+CLUSTER 130: 2 MEMBERS
+
+Representative articles:
+IPhone_5
+IPhone
+
+Most common terms:
+sold: 1.000
+time: 1.000
+tim: 1.000
+releas: 1.000
+inc: 1.000
+design: 1.000
+camera: 1.000
+DB_class: 1.000
+smartphon: 1.000
+model: 1.000
+========================
+========================
+CLUSTER 131: 3 MEMBERS
+
+Representative articles:
+List_of_tallest_buildings_in_Pakistan
+List_of_tallest_buildings_and_structures_in_South_Asia
+List_of_tallest_buildings_in_Karachi
+
+Most common terms:
+build: 1.000
+DB_class: 1.000
+list: 1.000
+tallest: 1.000
+height: 0.667
+tower: 0.667
+karachi: 0.667
+locat: 0.667
+rank: 0.667
+indian: 0.333
+========================
+========================
+CLUSTER 132: 3 MEMBERS
+
+Representative articles:
+CN_Tower
+Leaning_Tower_of_Pisa
+Eiffel_Tower
+
+Most common terms:
+ft: 1.000
+one: 1.000
+tower: 1.000
+structur: 1.000
+DB_class: 1.000
+base: 0.667
+two: 0.667
+million: 0.667
+height: 0.667
+side: 0.667
+========================
+========================
+CLUSTER 133: 2 MEMBERS
+
+Representative articles:
+Howard_Beach,_Queens
+East_Flatbush,_Brooklyn
+
+Most common terms:
+part: 1.000
+east: 1.000
+board: 1.000
+area: 1.000
+th: 1.000
+citi: 1.000
+neighborhood: 1.000
+DB_class: 1.000
+new: 1.000
+borough: 1.000
+========================
+========================
+CLUSTER 134: 5 MEMBERS
+
+Representative articles:
+Vanniyar
+Caste_system_in_India
+Chamar
+Ahir
+Kumhar
+
+Most common terms:
+india: 1.000
+known: 1.000
+DB_class: 1.000
+commun: 1.000
+found: 0.800
+cast: 0.800
+name: 0.600
+schedul: 0.600
+also: 0.600
+state: 0.600
+========================
+========================
+CLUSTER 135: 3 MEMBERS
+
+Representative articles:
+Maisie_Smith
+Stephanie_Davis_(actress)
+Natalie_Cassidy
+
+Most common terms:
+soap: 1.000
+english: 1.000
+play: 1.000
+born: 1.000
+actress: 1.000
+DB_class: 1.000
+appear: 1.000
+bbc: 1.000
+big: 0.667
+seri: 0.667
+========================
+========================
+CLUSTER 136: 6 MEMBERS
+
+Representative articles:
+Tajik_language
+Shahnameh
+Persian_people
+Rumi
+Khalilullah_Khalili
+Nizami_Ganjavi
+
+Most common terms:
+iran: 1.000
+persian: 1.000
+DB_class: 1.000
+also: 0.833
+centuri: 0.833
+poet: 0.667
+influenc: 0.667
+languag: 0.667
+region: 0.667
+afghanistan: 0.667
+========================
+========================
+CLUSTER 137: 2 MEMBERS
+
+Representative articles:
+Cougar
+Jaguar
+
+Most common terms:
+popul: 1.000
+human: 1.000
+hunt: 1.000
+th: 1.000
+rang: 1.000
+lion: 1.000
+live: 1.000
+DB_class: 1.000
+close: 1.000
+american: 1.000
+========================
+========================
+CLUSTER 138: 2 MEMBERS
+
+Representative articles:
+Tumblr
+Blog
+
+Most common terms:
+allow: 1.000
+DB_class: 1.000
+blog: 1.000
+network: 1.000
+blogger: 1.000
+mani: 1.000
+also: 1.000
+featur: 1.000
+social: 1.000
+visitor: 1.000
+========================
+========================
+CLUSTER 139: 2 MEMBERS
+
+Representative articles:
+Jerk
+Circle_jerk
+
+Most common terms:
+song: 1.000
+refer: 1.000
+jerk: 1.000
+may: 1.000
+band: 1.000
+DB_class: 1.000
+motion: 0.500
+episod: 0.500
+chamber: 0.500
+punk: 0.500
+========================
+========================
+CLUSTER 140: 2 MEMBERS
+
+Representative articles:
+Journal_of_Scientific_Exploration
+Wulfenia_(journal)
+
+Most common terms:
+publish: 1.000
+establish: 1.000
+scientif: 1.000
+journal: 1.000
+DB_class: 1.000
+philosoph: 0.500
+societi: 0.500
+topic: 0.500
+stephen: 0.500
+nevertheless: 0.500
+========================
+========================
+CLUSTER 141: 2 MEMBERS
+
+Representative articles:
+Beer_style
+Beer
+
+Most common terms:
+although: 1.000
+includ: 1.000
+product: 1.000
+tradit: 1.000
+around: 1.000
+may: 1.000
+use: 1.000
+DB_class: 1.000
+method: 1.000
+hop: 1.000
+========================
+========================
+CLUSTER 142: 2 MEMBERS
+
+Representative articles:
+Printing_press
+Johannes_Gutenberg
+
+Most common terms:
+make: 1.000
+emerg: 1.000
+languag: 1.000
+upon: 1.000
+bulk: 1.000
+element: 1.000
+DB_class: 1.000
+elit: 1.000
+arriv: 1.000
+press: 1.000
+========================
+========================
+CLUSTER 143: 2 MEMBERS
+
+Representative articles:
+List_of_Nike_sponsorships
+Nike,_Inc.
+
+Most common terms:
+oregon: 1.000
+among: 1.000
+design: 1.000
+athlet: 1.000
+sponsor: 1.000
+mani: 1.000
+DB_class: 1.000
+jordan: 1.000
+team: 1.000
+offici: 1.000
+========================
+========================
+CLUSTER 144: 2 MEMBERS
+
+Representative articles:
+Black_Veil_Brides
+Tony_Särkkä
+
+Most common terms:
+black: 1.000
+well: 1.000
+guitar: 1.000
+stage: 1.000
+drum: 1.000
+DB_class: 1.000
+bass: 1.000
+band: 1.000
+metal: 1.000
+vocal: 1.000
+========================
+========================
+CLUSTER 145: 2 MEMBERS
+
+Representative articles:
+List_of_emo_artists
+Emo
+
+Most common terms:
+world: 1.000
+unit: 1.000
+journalist: 1.000
+includ: 1.000
+emot: 1.000
+act: 1.000
+real: 1.000
+artist: 1.000
+DB_class: 1.000
+contemporari: 1.000
+========================
+========================
+CLUSTER 146: 2 MEMBERS
+
+Representative articles:
+Fair_Game_(Scientology)
+Noisy_investigation
+
+Most common terms:
+target: 1.000
+game: 1.000
+hubbard: 1.000
+scientolog: 1.000
+also: 1.000
+DB_class: 1.000
+investig: 1.000
+enemi: 1.000
+critic: 1.000
+practic: 1.000
+========================
+========================
+CLUSTER 147: 2 MEMBERS
+
+Representative articles:
+Black_magic
+Magic
+
+Most common terms:
+supernatur: 1.000
+refer: 1.000
+magic: 1.000
+use: 1.000
+DB_class: 1.000
+defin: 0.500
+tradit: 0.500
+element: 0.500
+usual: 0.500
+definit: 0.500
+========================
+========================
+CLUSTER 148: 2 MEMBERS
+
+Representative articles:
+Lion
+American_lion
+
+Most common terms:
+famili: 1.000
+wide: 1.000
+north: 1.000
+year: 1.000
+larg: 1.000
+african: 1.000
+DB_class: 1.000
+cave: 1.000
+one: 1.000
+cat: 1.000
+========================
+========================
+CLUSTER 149: 2 MEMBERS
+
+Representative articles:
+Penguin
+Emperor_penguin
+
+Most common terms:
+penguin: 1.000
+weigh: 1.000
+wing: 1.000
+DB_class: 1.000
+emperor: 1.000
+lb: 1.000
+feed: 1.000
+white: 1.000
+antarctica: 1.000
+adapt: 1.000
+========================
+========================
+CLUSTER 150: 2 MEMBERS
+
+Representative articles:
+LÉ_Samuel_Beckett_(P61)
+Samuel_Beckett-class_offshore_patrol_vessel
+
+Most common terms:
+novemb: 1.000
+name: 1.000
+commiss: 1.000
+vessel: 1.000
+naval: 1.000
+may: 1.000
+DB_class: 1.000
+servic: 1.000
+irish: 1.000
+samuel: 1.000
+========================
+========================
+CLUSTER 151: 2 MEMBERS
+
+Representative articles:
+Men_who_have_sex_with_men
+Man
+
+Most common terms:
+sexual: 1.000
+sex: 1.000
+men: 1.000
+male: 1.000
+regardless: 1.000
+also: 1.000
+DB_class: 1.000
+term: 1.000
+use: 1.000
+identifi: 1.000
+========================
+========================
+CLUSTER 152: 2 MEMBERS
+
+Representative articles:
+Mahfiruz_Hatice_Sultan
+Halime_Sultan
+
+Most common terms:
+sultan: 1.000
+mother: 1.000
+februari: 1.000
+ottoman: 1.000
+valid: 1.000
+DB_class: 1.000
+novemb: 0.500
+ii: 0.500
+larg: 0.500
+act: 0.500
+========================
+========================
+CLUSTER 153: 2 MEMBERS
+
+Representative articles:
+Bam_Margera
+Jason_Acuña
+
+Most common terms:
+profession: 1.000
+person: 1.000
+stunt: 1.000
+televis: 1.000
+perform: 1.000
+skateboard: 1.000
+DB_class: 1.000
+mtv: 1.000
+american: 1.000
+born: 1.000
+========================
+========================
+CLUSTER 154: 2 MEMBERS
+
+Representative articles:
+Shiner_(band)
+Chris_Steineger
+
+Most common terms:
+kansa: 1.000
+citi: 1.000
+DB_class: 1.000
+american: 1.000
+level: 0.500
+washington: 0.500
+israel: 0.500
+market: 0.500
+energi: 0.500
+contemporari: 0.500
+========================
+========================
+CLUSTER 155: 2 MEMBERS
+
+Representative articles:
+Asaduddin_Owaisi
+Shatrughan_Sinha
+
+Most common terms:
+indian: 1.000
+member: 1.000
+politician: 1.000
+may: 1.000
+born: 1.000
+th: 1.000
+sabha: 1.000
+DB_class: 1.000
+apart: 0.500
+mp: 0.500
+========================
+========================
+CLUSTER 156: 4 MEMBERS
+
+Representative articles:
+Cat_Creek
+Cat
+Cat_Creek,_Montana
+Cat_Creek_Oil_Field
+
+Most common terms:
+commun: 1.000
+DB_class: 1.000
+cat: 1.000
+counti: 0.750
+creek: 0.750
+locat: 0.750
+montana: 0.750
+petroleum: 0.750
+state: 0.750
+eastern: 0.500
+========================
+========================
+CLUSTER 157: 3 MEMBERS
+
+Representative articles:
+Pig_Beach
+Pig
+Guinea_pig
+
+Most common terms:
+pig: 1.000
+DB_class: 1.000
+ancestor: 0.667
+famili: 0.667
+known: 0.667
+mani: 0.667
+anim: 0.667
+research: 0.667
+wild: 0.667
+larg: 0.667
+========================
+========================
+CLUSTER 158: 2 MEMBERS
+
+Representative articles:
+Subway_Challenge
+Tube_Challenge
+
+Most common terms:
+london: 1.000
+time: 1.000
+system: 1.000
+transport: 1.000
+record: 1.000
+world: 1.000
+use: 1.000
+DB_class: 1.000
+form: 1.000
+guin: 1.000
+========================
+========================
+CLUSTER 159: 2 MEMBERS
+
+Representative articles:
+Alcoholism
+Alcohol
+
+Most common terms:
+organ: 1.000
+highest: 1.000
+group: 1.000
+present: 1.000
+gener: 1.000
+particularli: 1.000
+also: 1.000
+DB_class: 1.000
+term: 1.000
+alcohol: 1.000
+========================
+========================
+CLUSTER 160: 2 MEMBERS
+
+Representative articles:
+Bob_the_Builder
+Bob
+
+Most common terms:
+bob: 1.000
+DB_class: 1.000
+construct: 0.500
+episod: 0.500
+potter: 0.500
+confirm: 0.500
+uk: 0.500
+may: 0.500
+conflict: 0.500
+equip: 0.500
+========================
+========================
+CLUSTER 161: 2 MEMBERS
+
+Representative articles:
+Mugger_crocodile
+Crocodile
+
+Most common terms:
+appear: 1.000
+bird: 1.000
+area: 1.000
+size: 1.000
+mammal: 1.000
+close: 1.000
+DB_class: 1.000
+reptil: 1.000
+possess: 1.000
+extant: 1.000
+========================
+========================
+CLUSTER 162: 2 MEMBERS
+
+Representative articles:
+Ripe_Digital_Entertainment
+Steven_Hirsch
+
+Most common terms:
+compani: 1.000
+entertain: 1.000
+DB_class: 1.000
+found: 1.000
+adult: 0.500
+steven: 0.500
+demand: 0.500
+ryan: 0.500
+founder: 0.500
+platform: 0.500
+========================
+========================
+CLUSTER 163: 3 MEMBERS
+
+Representative articles:
+Buuz
+Khorkhog
+Mongolian_cuisine
+
+Most common terms:
+dish: 1.000
+mongolian: 1.000
+also: 1.000
+DB_class: 1.000
+meat: 1.000
+cuisin: 1.000
+tradit: 0.667
+anim: 0.333
+due: 0.333
+capit: 0.333
+========================
+========================
+CLUSTER 164: 2 MEMBERS
+
+Representative articles:
+Giant_panda
+Red_panda
+
+Most common terms:
+popul: 1.000
+speci: 1.000
+countri: 1.000
+estim: 1.000
+china: 1.000
+DB_class: 1.000
+larg: 1.000
+endang: 1.000
+wild: 1.000
+panda: 1.000
+========================
+========================
+CLUSTER 165: 2 MEMBERS
+
+Representative articles:
+Cadillac_XTS
+Cadillac
+
+Most common terms:
+addit: 1.000
+vehicl: 1.000
+china: 1.000
+product: 1.000
+cadillac: 1.000
+DB_class: 1.000
+engin: 1.000
+unit: 1.000
+state: 1.000
+luxuri: 1.000
+========================
+========================
+CLUSTER 166: 2 MEMBERS
+
+Representative articles:
+Lorna_Fitzgerald
+Jessica_Clark_(actress)
+
+Most common terms:
+born: 1.000
+british: 1.000
+april: 1.000
+DB_class: 1.000
+actress: 1.000
+kati: 0.500
+date: 0.500
+notabl: 0.500
+live: 0.500
+clark: 0.500
+========================
+========================
+CLUSTER 167: 2 MEMBERS
+
+Representative articles:
+Spaghetti
+Pasta
+
+Most common terms:
+varieti: 1.000
+like: 1.000
+italian: 1.000
+pronunci: 1.000
+thin: 1.000
+long: 1.000
+DB_class: 1.000
+stapl: 1.000
+dish: 1.000
+pasta: 1.000
+========================
+========================
+CLUSTER 168: 2 MEMBERS
+
+Representative articles:
+Hair_loss
+Weight_loss
+
+Most common terms:
+caus: 1.000
+refer: 1.000
+total: 1.000
+loss: 1.000
+occur: 1.000
+due: 1.000
+DB_class: 1.000
+diseas: 1.000
+bodi: 1.000
+connect: 0.500
+========================
+========================
+CLUSTER 169: 2 MEMBERS
+
+Representative articles:
+Mike_Lupica
+Skip_Bayless
+
+Most common terms:
+sport: 1.000
+best: 1.000
+known: 1.000
+born: 1.000
+DB_class: 1.000
+columnist: 1.000
+american: 1.000
+espn: 1.000
+appear: 0.500
+televis: 0.500
+========================
+========================
+CLUSTER 170: 2 MEMBERS
+
+Representative articles:
+2015_FIFA_U-20_World_Cup_squads
+2013_Toulon_Tournament_squads
+
+Most common terms:
+intern: 1.000
+level: 1.000
+cap: 1.000
+full: 1.000
+squad: 1.000
+DB_class: 1.000
+player: 1.000
+maximum: 0.500
+career: 0.500
+submit: 0.500
+========================
+========================
+CLUSTER 171: 2 MEMBERS
+
+Representative articles:
+New_Cult_Awareness_Network
+Cult_Awareness_Network
+
+Most common terms:
+organ: 1.000
+name: 1.000
+known: 1.000
+group: 1.000
+network: 1.000
+consid: 1.000
+support: 1.000
+DB_class: 1.000
+new: 1.000
+cult: 1.000
+========================
+========================
+CLUSTER 172: 2 MEMBERS
+
+Representative articles:
+Childhood_obesity
+Obesity
+
+Most common terms:
+neg: 1.000
+children: 1.000
+due: 1.000
+fat: 1.000
+use: 1.000
+DB_class: 1.000
+seriou: 1.000
+effect: 1.000
+bodi: 1.000
+public: 1.000
+========================
+========================
+CLUSTER 173: 2 MEMBERS
+
+Representative articles:
+I_Have_a_Dream
+Martin_Luther_King,_Jr.
+
+Most common terms:
+speech: 1.000
+activist: 1.000
+deliv: 1.000
+jr: 1.000
+luther: 1.000
+hundr: 1.000
+begin: 1.000
+DB_class: 1.000
+dream: 1.000
+king: 1.000
+========================
+========================
+CLUSTER 174: 4 MEMBERS
+
+Representative articles:
+Flag_of_Yugoslavia
+Flag_of_India
+Flag_of_Mongolia
+Gallery_of_sovereign_state_flags
+
+Most common terms:
+flag: 1.000
+DB_class: 1.000
+blue: 0.750
+except: 0.750
+state: 0.750
+offici: 0.500
+symbol: 0.500
+nation: 0.500
+three: 0.500
+movement: 0.500
+========================
+========================
+CLUSTER 175: 2 MEMBERS
+
+Representative articles:
+Business_card
+Hallmark_Business_Expressions
+
+Most common terms:
+busi: 1.000
+card: 1.000
+DB_class: 1.000
+compani: 1.000
+special: 0.500
+electron: 0.500
+sometim: 0.500
+target: 0.500
+citi: 0.500
+today: 0.500
+========================
+========================
+CLUSTER 176: 3 MEMBERS
+
+Representative articles:
+Spider_monkey
+Spider
+Monkey
+
+Most common terms:
+speci: 1.000
+two: 1.000
+human: 1.000
+live: 1.000
+DB_class: 1.000
+new: 1.000
+also: 1.000
+intellig: 1.000
+central: 1.000
+habitat: 0.667
+========================
+========================
+CLUSTER 177: 2 MEMBERS
+
+Representative articles:
+List_of_Islamist_terrorist_attacks
+November_2015_Paris_attacks
+
+Most common terms:
+suicid: 1.000
+islam: 1.000
+terrorist: 1.000
+terror: 1.000
+attack: 1.000
+shoot: 1.000
+bomb: 1.000
+sinc: 1.000
+DB_class: 1.000
+follow: 1.000
+========================
+========================
+CLUSTER 178: 2 MEMBERS
+
+Representative articles:
+Giganotosaurus
+Carcharodontosaurus
+
+Most common terms:
+lizard: 1.000
+million: 1.000
+carnivor: 1.000
+genu: 1.000
+mean: 1.000
+period: 1.000
+year: 1.000
+DB_class: 1.000
+larg: 1.000
+dinosaur: 1.000
+========================
+========================
+CLUSTER 179: 2 MEMBERS
+
+Representative articles:
+Anil_K._Rajvanshi
+C._N._R._Rao
+
+Most common terms:
+univers: 1.000
+DB_class: 1.000
+serv: 1.000
+born: 1.000
+work: 1.000
+research: 1.000
+hall: 1.000
+receiv: 1.000
+award: 1.000
+current: 1.000
+========================
+========================
+CLUSTER 180: 2 MEMBERS
+
+Representative articles:
+Ahmad_Shah_Massoud
+Taliban
+
+Most common terms:
+alqaeda: 1.000
+alli: 1.000
+unit: 1.000
+death: 1.000
+insurg: 1.000
+also: 1.000
+DB_class: 1.000
+interpret: 1.000
+power: 1.000
+war: 1.000
+========================
+========================
+CLUSTER 181: 2 MEMBERS
+
+Representative articles:
+Indian_elephant
+Elephant
+
+Most common terms:
+popul: 1.000
+list: 1.000
+one: 1.000
+three: 1.000
+habitat: 1.000
+year: 1.000
+asian: 1.000
+DB_class: 1.000
+asia: 1.000
+endang: 1.000
+========================
+========================
+CLUSTER 182: 5 MEMBERS
+
+Representative articles:
+Socrates
+Philosophy
+Michael_Marder
+Plato
+Science
+
+Most common terms:
+philosophi: 1.000
+also: 1.000
+DB_class: 1.000
+greek: 0.800
+philosoph: 0.800
+classic: 0.800
+ethic: 0.800
+western: 0.800
+field: 0.600
+tradit: 0.600
+========================
+========================
+CLUSTER 183: 4 MEMBERS
+
+Representative articles:
+Barstow_Harvey_House
+House_of_Merode
+House
+Currier_House_(Harvard_College)
+
+Most common terms:
+DB_class: 1.000
+hous: 1.000
+one: 0.750
+known: 0.750
+also: 0.750
+famili: 0.500
+serv: 0.500
+area: 0.500
+name: 0.500
+build: 0.500
+========================
+========================
+CLUSTER 184: 2 MEMBERS
+
+Representative articles:
+Peter_Nguyen
+Peter_Nguyen_Van_Hung
+
+Most common terms:
+human: 1.000
+van: 1.000
+priest: 1.000
+activist: 1.000
+peter: 1.000
+vietnames: 1.000
+right: 1.000
+hung: 1.000
+DB_class: 1.000
+australian: 1.000
+========================
+========================
+CLUSTER 185: 2 MEMBERS
+
+Representative articles:
+Speculations_about_Mona_Lisa
+Mona_Lisa
+
+Most common terms:
+leonardo: 1.000
+panel: 1.000
+paint: 1.000
+oil: 1.000
+subject: 1.000
+la: 1.000
+lisa: 1.000
+da: 1.000
+DB_class: 1.000
+woman: 0.500
+========================
+========================
+CLUSTER 186: 2 MEMBERS
+
+Representative articles:
+Zoroastrianism
+Religion
+
+Most common terms:
+christian: 1.000
+estim: 1.000
+sometim: 1.000
+scriptur: 1.000
+system: 1.000
+islam: 1.000
+DB_class: 1.000
+faith: 1.000
+work: 1.000
+place: 1.000
+========================
+========================
+CLUSTER 187: 2 MEMBERS
+
+Representative articles:
+Isaac_Newton
+Newton's_laws_of_motion
+
+Most common terms:
+foundat: 1.000
+bodi: 1.000
+law: 1.000
+newton: 1.000
+philosophi: 1.000
+gravit: 1.000
+mani: 1.000
+DB_class: 1.000
+three: 1.000
+mathemat: 1.000
+========================
+========================
+CLUSTER 188: 2 MEMBERS
+
+Representative articles:
+List_of_German_inventions_and_discoveries
+List_of_Croatian_inventions_and_discoveries
+
+Most common terms:
+compos: 1.000
+discov: 1.000
+peopl: 1.000
+invent: 1.000
+process: 1.000
+techniqu: 1.000
+follow: 1.000
+DB_class: 1.000
+list: 1.000
+item: 1.000
+========================
+========================
+CLUSTER 189: 2 MEMBERS
+
+Representative articles:
+Hurricane_Sandy
+Hurricane_Katrina
+
+Most common terms:
+becam: 1.000
+second: 1.000
+sever: 1.000
+toward: 1.000
+season: 1.000
+estim: 1.000
+mile: 1.000
+DB_class: 1.000
+weaken: 1.000
+total: 1.000
+========================
+========================
+CLUSTER 190: 2 MEMBERS
+
+Representative articles:
+Fleur_Revell
+Ronn_Torossian
+
+Most common terms:
+public: 1.000
+relat: 1.000
+DB_class: 1.000
+new: 1.000
+media: 1.000
+million: 0.500
+marri: 0.500
+includ: 0.500
+award: 0.500
+author: 0.500
+========================
+========================
+CLUSTER 191: 2 MEMBERS
+
+Representative articles:
+Cowra_Shire
+Cowra
+
+Most common terms:
+highway: 1.000
+way: 1.000
+town: 1.000
+largest: 1.000
+west: 1.000
+river: 1.000
+DB_class: 1.000
+new: 1.000
+australia: 1.000
+central: 1.000
+========================
+========================
+CLUSTER 192: 2 MEMBERS
+
+Representative articles:
+Tajine
+Hummus
+
+Most common terms:
+arab: 1.000
+africa: 1.000
+east: 1.000
+middl: 1.000
+DB_class: 1.000
+cook: 1.000
+north: 1.000
+eastern: 0.500
+found: 0.500
+popular: 0.500
+========================
+========================
+CLUSTER 193: 2 MEMBERS
+
+Representative articles:
+Fat
+Lard
+
+Most common terms:
+part: 1.000
+food: 1.000
+increas: 1.000
+fat: 1.000
+satur: 1.000
+high: 1.000
+DB_class: 1.000
+content: 1.000
+veget: 1.000
+acid: 1.000
+========================
+========================
+CLUSTER 194: 3 MEMBERS
+
+Representative articles:
+Temple_Mount
+Dome_of_the_Rock
+Rachel's_Tomb
+
+Most common terms:
+part: 1.000
+religi: 1.000
+one: 1.000
+christian: 1.000
+site: 1.000
+accord: 1.000
+arab: 1.000
+structur: 1.000
+DB_class: 1.000
+ce: 1.000
+========================
+========================
+CLUSTER 195: 2 MEMBERS
+
+Representative articles:
+Andrew_Johnston_(singer)
+Simon_Cowell
+
+Most common terms:
+number: 1.000
+show: 1.000
+DB_class: 1.000
+simon: 1.000
+own: 1.000
+british: 1.000
+britain: 1.000
+judg: 1.000
+seri: 1.000
+talent: 1.000
+========================
+========================
+CLUSTER 196: 2 MEMBERS
+
+Representative articles:
+Chris_Hadfield
+NASA
+
+Most common terms:
+station: 1.000
+earth: 1.000
+program: 1.000
+mission: 1.000
+respons: 1.000
+also: 1.000
+DB_class: 1.000
+variou: 1.000
+apollo: 1.000
+crew: 1.000
+========================
+========================
+CLUSTER 197: 2 MEMBERS
+
+Representative articles:
+Pancake
+Doughnut
+
+Most common terms:
+fill: 1.000
+chocol: 1.000
+food: 1.000
+fruit: 1.000
+fast: 1.000
+fri: 1.000
+often: 1.000
+DB_class: 1.000
+shape: 1.000
+cook: 1.000
+========================
+========================
+CLUSTER 198: 3 MEMBERS
+
+Representative articles:
+Mobile_phone
+Telephone
+Mobile,_Alabama
+
+Most common terms:
+within: 1.000
+first: 1.000
+DB_class: 1.000
+mobil: 1.000
+one: 0.667
+phone: 0.667
+resid: 0.667
+system: 0.667
+text: 0.667
+servic: 0.667
+========================
+========================
+CLUSTER 199: 3 MEMBERS
+
+Representative articles:
+Guru_Nanak
+Govind
+Sikhism
+
+Most common terms:
+one: 1.000
+sikhism: 1.000
+word: 1.000
+god: 1.000
+DB_class: 1.000
+sikh: 1.000
+guru: 1.000
+name: 0.667
+religi: 0.667
+etern: 0.667
+========================
+========================
+CLUSTER 200: 2 MEMBERS
+
+Representative articles:
+MonaVie
+BioPerformance
+
+Most common terms:
+million: 1.000
+DB_class: 1.000
+compani: 1.000
+product: 1.000
+fals: 1.000
+market: 1.000
+scheme: 1.000
+made: 1.000
+claim: 1.000
+pyramid: 1.000
+========================
+========================
+CLUSTER 201: 2 MEMBERS
+
+Representative articles:
+Rajput
+Lodhi
+
+Most common terms:
+india: 1.000
+uttar: 1.000
+mani: 1.000
+DB_class: 1.000
+pradesh: 1.000
+rajput: 1.000
+found: 1.000
+gujarat: 0.500
+bihar: 0.500
+west: 0.500
+========================
+========================
+CLUSTER 202: 3 MEMBERS
+
+Representative articles:
+M._C._Escher
+Mathematician
+Mathematics
+
+Most common terms:
+DB_class: 1.000
+mathemat: 1.000
+use: 1.000
+work: 1.000
+structur: 1.000
+mathematician: 1.000
+knowledg: 0.667
+space: 0.667
+studi: 0.667
+chang: 0.667
+========================
+========================
+CLUSTER 203: 3 MEMBERS
+
+Representative articles:
+Suicide
+Suicide_of_Rehtaeh_Parsons
+Suicide_methods
+
+Most common terms:
+suicid: 1.000
+life: 1.000
+DB_class: 1.000
+person: 0.667
+failur: 0.667
+relat: 0.667
+lead: 0.667
+death: 0.667
+four: 0.667
+complet: 0.667
+========================
+========================
+CLUSTER 204: 2 MEMBERS
+
+Representative articles:
+Noel_Cringle
+Anne_Craine
+
+Most common terms:
+board: 1.000
+man: 1.000
+order: 1.000
+presid: 1.000
+former: 1.000
+isl: 1.000
+member: 1.000
+year: 1.000
+DB_class: 1.000
+born: 1.000
+========================
+========================
+CLUSTER 205: 2 MEMBERS
+
+Representative articles:
+Aegean_Airlines
+British_Airways
+
+Most common terms:
+intern: 1.000
+airport: 1.000
+hub: 1.000
+year: 1.000
+airway: 1.000
+allianc: 1.000
+DB_class: 1.000
+creat: 1.000
+main: 1.000
+airlin: 1.000
+========================
+========================
+CLUSTER 206: 2 MEMBERS
+
+Representative articles:
+Magnet
+Barnett_effect
+
+Most common terms:
+tend: 1.000
+DB_class: 1.000
+object: 1.000
+occur: 1.000
+materi: 1.000
+magnet: 1.000
+establish: 0.500
+measur: 0.500
+satur: 0.500
+made: 0.500
+========================
+========================
+CLUSTER 207: 2 MEMBERS
+
+Representative articles:
+Paul_Reubens
+Pee-wee_Herman
+
+Most common terms:
+best: 1.000
+big: 1.000
+film: 1.000
+movi: 1.000
+top: 1.000
+DB_class: 1.000
+paul: 1.000
+write: 1.000
+children: 1.000
+special: 1.000
+========================
+========================
+CLUSTER 208: 2 MEMBERS
+
+Representative articles:
+Shaun_King_(activist)
+Max_Blumenthal
+
+Most common terms:
+senior: 1.000
+york: 1.000
+matter: 1.000
+media: 1.000
+born: 1.000
+writer: 1.000
+DB_class: 1.000
+new: 1.000
+includ: 1.000
+daili: 1.000
+========================
+========================
+CLUSTER 209: 3 MEMBERS
+
+Representative articles:
+Henry_VIII_of_England
+Henry_VII_of_England
+Anne_Boleyn
+
+Most common terms:
+januari: 1.000
+english: 1.000
+england: 1.000
+henri: 1.000
+son: 1.000
+first: 1.000
+DB_class: 1.000
+vii: 1.000
+power: 1.000
+king: 1.000
+========================
+========================
+CLUSTER 210: 2 MEMBERS
+
+Representative articles:
+Sea_turtle
+Merica
+
+Most common terms:
+DB_class: 1.000
+marin: 1.000
+sea: 1.000
+famili: 0.500
+speci: 0.500
+sometim: 0.500
+call: 0.500
+seven: 0.500
+order: 0.500
+extant: 0.500
+========================
+========================
+CLUSTER 211: 3 MEMBERS
+
+Representative articles:
+Lithosphere
+Crust_(geology)
+Mantle_(geology)
+
+Most common terms:
+rocki: 1.000
+earth: 1.000
+crust: 1.000
+mantl: 1.000
+DB_class: 1.000
+planet: 1.000
+bodi: 0.667
+mar: 0.667
+moon: 0.667
+io: 0.667
+========================
+========================
+CLUSTER 212: 4 MEMBERS
+
+Representative articles:
+Wiki
+Wiki_(disambiguation)
+The_Hidden_Wiki
+WikiWikiWeb
+
+Most common terms:
+wiki: 1.000
+DB_class: 1.000
+websit: 0.750
+site: 0.750
+also: 0.750
+name: 0.500
+languag: 0.500
+first: 0.500
+ward: 0.500
+collabor: 0.500
+========================
+========================
+CLUSTER 213: 2 MEMBERS
+
+Representative articles:
+Tyrannosaurus
+Spinosaurus
+
+Most common terms:
+lizard: 1.000
+speci: 1.000
+among: 1.000
+year: 1.000
+weight: 1.000
+estim: 1.000
+length: 1.000
+research: 1.000
+DB_class: 1.000
+possibl: 1.000
+========================
+========================
+CLUSTER 214: 2 MEMBERS
+
+Representative articles:
+Starbucks
+Coffee
+
+Most common terms:
+america: 1.000
+popular: 1.000
+one: 1.000
+DB_class: 1.000
+two: 1.000
+th: 1.000
+also: 1.000
+coffe: 1.000
+use: 1.000
+hot: 1.000
+========================
+========================
+CLUSTER 215: 2 MEMBERS
+
+Representative articles:
+Web_browser
+Uniform_Resource_Locator
+
+Most common terms:
+resourc: 1.000
+although: 1.000
+retriev: 1.000
+web: 1.000
+applic: 1.000
+also: 1.000
+DB_class: 1.000
+commonli: 1.000
+use: 1.000
+inform: 1.000
+========================
+========================
+CLUSTER 216: 3 MEMBERS
+
+Representative articles:
+Chocolate_chip_cookie
+Chocolate_chip
+Chocolate
+
+Most common terms:
+chocol: 1.000
+chip: 1.000
+DB_class: 1.000
+addit: 0.667
+includ: 0.667
+butter: 0.667
+often: 0.667
+shape: 0.667
+ingredi: 0.667
+origin: 0.667
+========================
+========================
+CLUSTER 217: 2 MEMBERS
+
+Representative articles:
+Chris_Mortensen
+Ed_Werder
+
+Most common terms:
+nfl: 1.000
+monday: 1.000
+sunday: 1.000
+espn: 1.000
+report: 1.000
+DB_class: 1.000
+night: 1.000
+born: 1.000
+novemb: 0.500
+bureau: 0.500
+========================
+========================
+CLUSTER 218: 2 MEMBERS
+
+Representative articles:
+Andy_Dick
+Andy_Milonakis
+
+Most common terms:
+best: 1.000
+born: 1.000
+comedian: 1.000
+andi: 1.000
+role: 1.000
+star: 1.000
+DB_class: 1.000
+mtv: 1.000
+andrew: 1.000
+central: 1.000
+========================
+========================
+CLUSTER 219: 2 MEMBERS
+
+Representative articles:
+Indigenous_Aryans
+Indo-Aryan_migration_theory
+
+Most common terms:
+peopl: 1.000
+DB_class: 1.000
+subcontin: 1.000
+theori: 1.000
+indoaryan: 1.000
+languag: 1.000
+migrat: 1.000
+europ: 1.000
+argument: 1.000
+origin: 1.000
+========================
+========================
+CLUSTER 220: 2 MEMBERS
+
+Representative articles:
+The_Voice_UK
+The_X_Factor_(UK_series_12)
+
+Most common terms:
+winner: 1.000
+bbc: 1.000
+british: 1.000
+fifth: 1.000
+began: 1.000
+televis: 1.000
+DB_class: 1.000
+seri: 1.000
+spinoff: 1.000
+talent: 1.000
+========================
+========================
+CLUSTER 221: 2 MEMBERS
+
+Representative articles:
+Operation_Strike_of_the_Sword
+List_of_marine_biologists
+
+Most common terms:
+one: 1.000
+marin: 1.000
+DB_class: 1.000
+move: 0.500
+vietnam: 0.500
+ed: 0.500
+ronald: 0.500
+bodi: 0.500
+american: 0.500
+sever: 0.500
+========================
+========================
+CLUSTER 222: 2 MEMBERS
+
+Representative articles:
+Eurovision_Song_Contest_2016
+Eurovision_Song_Contest_2017
+
+Most common terms:
+host: 1.000
+ukrain: 1.000
+particip: 1.000
+second: 1.000
+perform: 1.000
+nation: 1.000
+may: 1.000
+DB_class: 1.000
+semifin: 1.000
+place: 1.000
+========================
+========================
+CLUSTER 223: 3 MEMBERS
+
+Representative articles:
+Tin_Pei_Ling
+Teo_Ser_Luck
+Denise_Phua
+
+Most common terms:
+peopl: 1.000
+chines: 1.000
+born: 1.000
+action: 1.000
+pinyin: 1.000
+parliament: 1.000
+singapor: 1.000
+DB_class: 1.000
+current: 1.000
+parti: 1.000
+========================
+========================
+CLUSTER 224: 2 MEMBERS
+
+Representative articles:
+Sildenafil
+Erectile_dysfunction
+
+Most common terms:
+result: 1.000
+blood: 1.000
+cardiovascular: 1.000
+common: 1.000
+erect: 1.000
+peni: 1.000
+effect: 1.000
+DB_class: 1.000
+diseas: 1.000
+side: 1.000
+========================
+========================
+CLUSTER 225: 2 MEMBERS
+
+Representative articles:
+Greenhouse_effect
+Atmosphere_of_Earth
+
+Most common terms:
+amount: 1.000
+life: 1.000
+contain: 1.000
+process: 1.000
+warm: 1.000
+radiat: 1.000
+air: 1.000
+earth: 1.000
+effect: 1.000
+DB_class: 1.000
+========================
+========================
+CLUSTER 226: 2 MEMBERS
+
+Representative articles:
+HTTP_cookie
+Cookie
+
+Most common terms:
+name: 1.000
+contain: 1.000
+us: 1.000
+includ: 1.000
+store: 1.000
+may: 1.000
+also: 1.000
+DB_class: 1.000
+small: 1.000
+call: 1.000
+========================
+========================
+CLUSTER 227: 2 MEMBERS
+
+Representative articles:
+List_of_ethnic_slurs
+List_of_ethnic_slurs_by_ethnicity
+
+Most common terms:
+purpos: 1.000
+nation: 1.000
+use: 1.000
+DB_class: 1.000
+list: 1.000
+race: 1.000
+ethnic: 1.000
+littl: 0.500
+issu: 0.500
+may: 0.500
+========================
+========================
+CLUSTER 228: 2 MEMBERS
+
+Representative articles:
+Yadav
+Savji
+
+Most common terms:
+claim: 1.000
+indian: 1.000
+king: 1.000
+mytholog: 1.000
+DB_class: 1.000
+cast: 1.000
+descent: 1.000
+late: 0.500
+class: 0.500
+th: 0.500
+========================
+========================
+CLUSTER 229: 2 MEMBERS
+
+Representative articles:
+Respiratory_system
+Lung
+
+Most common terms:
+vertebr: 1.000
+dioxid: 1.000
+system: 1.000
+fish: 1.000
+process: 1.000
+lung: 1.000
+DB_class: 1.000
+anim: 1.000
+take: 1.000
+oxygen: 1.000
+========================
+========================
+CLUSTER 230: 2 MEMBERS
+
+Representative articles:
+Galileo_affair
+Galileo_Galilei
+
+Most common terms:
+italian: 1.000
+arrest: 1.000
+controversi: 1.000
+defend: 1.000
+roman: 1.000
+discoveri: 1.000
+DB_class: 1.000
+venu: 1.000
+hous: 1.000
+two: 1.000
+========================
+========================
+CLUSTER 231: 2 MEMBERS
+
+Representative articles:
+School_for_Vampires
+Vampire
+
+Most common terms:
+vampir: 1.000
+televis: 1.000
+DB_class: 1.000
+book: 1.000
+italian: 0.500
+modern: 0.500
+aliv: 0.500
+dark: 0.500
+held: 0.500
+date: 0.500
+========================
+========================
+CLUSTER 232: 2 MEMBERS
+
+Representative articles:
+Glass
+Yard_of_ale
+
+Most common terms:
+make: 1.000
+like: 1.000
+toward: 1.000
+tradit: 1.000
+shape: 1.000
+drink: 1.000
+DB_class: 1.000
+glass: 1.000
+use: 1.000
+approxim: 1.000
+========================
+========================
+CLUSTER 233: 2 MEMBERS
+
+Representative articles:
+Joe_Beevers
+Beth_Shak
+
+Most common terms:
+poker: 1.000
+one: 1.000
+profession: 1.000
+born: 1.000
+televis: 1.000
+player: 1.000
+DB_class: 1.000
+seri: 1.000
+also: 1.000
+appear: 1.000
+========================
+========================
+CLUSTER 234: 2 MEMBERS
+
+Representative articles:
+Mineral
+Quartz
+
+Most common terms:
+chemic: 1.000
+give: 1.000
+formula: 1.000
+differ: 1.000
+oxygen: 1.000
+especi: 1.000
+miner: 1.000
+structur: 1.000
+DB_class: 1.000
+earth: 1.000
+========================
+========================
+CLUSTER 235: 2 MEMBERS
+
+Representative articles:
+Ca_de_Bou
+Terceira_Mastiff
+
+Most common terms:
+differ: 1.000
+de: 1.000
+DB_class: 1.000
+dog: 1.000
+breed: 1.000
+retain: 0.500
+perhap: 0.500
+strong: 0.500
+recognit: 0.500
+world: 0.500
+========================
+========================
+CLUSTER 236: 2 MEMBERS
+
+Representative articles:
+Theoretical_physics
+Physics
+
+Most common terms:
+mathemat: 1.000
+theoret: 1.000
+natur: 1.000
+explain: 1.000
+exampl: 1.000
+DB_class: 1.000
+transform: 1.000
+develop: 1.000
+branch: 1.000
+physic: 1.000
+========================
+========================
+CLUSTER 237: 2 MEMBERS
+
+Representative articles:
+Disney's_Hollywood_Studios
+Disneyland
+
+Most common terms:
+park: 1.000
+design: 1.000
+world: 1.000
+theme: 1.000
+third: 1.000
+origin: 1.000
+DB_class: 1.000
+guest: 1.000
+disney: 1.000
+acr: 1.000
+========================
+========================
+CLUSTER 238: 2 MEMBERS
+
+Representative articles:
+Jimmy_Bain
+Landon_Hedges
+
+Most common terms:
+guitar: 1.000
+play: 1.000
+musician: 1.000
+band: 1.000
+DB_class: 1.000
+also: 1.000
+bass: 1.000
+januari: 0.500
+rainbow: 0.500
+scottish: 0.500
+========================
+========================
+CLUSTER 239: 2 MEMBERS
+
+Representative articles:
+Indian_religions
+Vedic_period
+
+Most common terms:
+composit: 1.000
+hinduism: 1.000
+movement: 1.000
+tradit: 1.000
+bce: 1.000
+vedic: 1.000
+period: 1.000
+DB_class: 1.000
+hindu: 1.000
+begin: 1.000
+========================
+========================
+CLUSTER 240: 2 MEMBERS
+
+Representative articles:
+South_Carolina_Gamecocks_women's_basketball
+South_Carolina_Gamecocks_men's_basketball
+
+Most common terms:
+univers: 1.000
+ncaa: 1.000
+program: 1.000
+southeastern: 1.000
+compet: 1.000
+championship: 1.000
+south: 1.000
+DB_class: 1.000
+coach: 1.000
+confer: 1.000
+========================
+========================
+CLUSTER 241: 2 MEMBERS
+
+Representative articles:
+Henry_Ford
+Ford_Motor_Company
+
+Most common terms:
+famili: 1.000
+industri: 1.000
+although: 1.000
+compani: 1.000
+line: 1.000
+manufactur: 1.000
+world: 1.000
+also: 1.000
+DB_class: 1.000
+henri: 1.000
+========================
+========================
+CLUSTER 242: 2 MEMBERS
+
+Representative articles:
+Khloé_Kardashian
+Kim_Kardashian
+
+Most common terms:
+famili: 1.000
+us: 1.000
+spinoff: 1.000
+marri: 1.000
+cloth: 1.000
+first: 1.000
+DB_class: 1.000
+seri: 1.000
+televis: 1.000
+miami: 1.000
+========================
+========================
+CLUSTER 243: 2 MEMBERS
+
+Representative articles:
+Japanese_battleship_Musashi
+Japanese_battleship_Yamato
+
+Most common terms:
+time: 1.000
+forc: 1.000
+nine: 1.000
+inch: 1.000
+present: 1.000
+largest: 1.000
+DB_class: 1.000
+class: 1.000
+main: 1.000
+gun: 1.000
+========================

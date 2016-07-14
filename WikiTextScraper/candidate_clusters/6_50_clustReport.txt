@@ -1,0 +1,135 @@
+========================
+CLUSTER 0: 54 MEMBERS
+
+Representative articles:
+Stuff
+Hot
+Fuck_You
+World_Trade_Center
+JB
+KKK_(disambiguation)
+Creeper
+Terrible
+George_Bush
+Swag
+
+Most common terms:
+refer: 1.000
+may: 1.000
+also: 0.111
+anim: 0.037
+unit: 0.019
+donkey: 0.019
+white: 0.019
+physic: 0.019
+cathol: 0.019
+form: 0.019
+========================
+========================
+CLUSTER 1: 184 MEMBERS
+
+Representative articles:
+Drake_(musician)
+Meghan_Trainor
+Soulja_Boy
+México_en_la_Piel_(album)
+List_of_Billboard_Hot_100_number-one_singles_of_2015
+You're_Not_Alone_(Olive_song)
+Prince_(musician)
+Carly_Rae_Jepsen
+Killing_Me_Softly_(Roberta_Flack_album)
+Rihanna_discography
+
+Most common terms:
+DB_class: 1.000
+album: 0.902
+releas: 0.870
+singl: 0.837
+record: 0.793
+first: 0.783
+one: 0.772
+number: 0.728
+debut: 0.701
+billboard: 0.679
+========================
+========================
+CLUSTER 2: 151 MEMBERS
+
+Representative articles:
+Hugh_Jackman
+Sean_Penn
+The_Hunchback_of_Notre_Dame_(1996_film)
+The_Profit_(film)
+Heart_of_Dragon
+The_Contractor_(2007_film)
+A_Better_Tomorrow_II
+Coming_to_America
+Fantasia_(1940_film)
+Arrambam
+
+Most common terms:
+film: 1.000
+DB_class: 1.000
+star: 0.649
+direct: 0.649
+releas: 0.589
+produc: 0.530
+role: 0.477
+american: 0.470
+award: 0.430
+best: 0.411
+========================
+========================
+CLUSTER 3: 80 MEMBERS
+
+Representative articles:
+Montague_Regional_High_School
+Wellington_Point_State_High_School
+Scotch_College,_Adelaide
+Hogwarts
+Sponne_School
+Kirkcaldy_High_School
+Laurel_Springs_School
+Ottawa-Glandorf_High_School
+Model_Farms_High_School
+Thornton_High_School_(Colorado)
+
+Most common terms:
+DB_class: 1.000
+school: 1.000
+high: 0.613
+student: 0.588
+locat: 0.487
+year: 0.350
+secondari: 0.312
+public: 0.312
+state: 0.287
+educ: 0.263
+========================
+========================
+CLUSTER 4: 52 MEMBERS
+
+Representative articles:
+Joakim_Noah
+Jordan_Clarkson
+Ray_Allen
+Kareem_Abdul-Jabbar
+Paul_George
+Serge_Ibaka
+Kawhi_Leonard
+Lamar_Odom
+Yao_Ming
+James_Harden
+
+Most common terms:
+player: 1.000
+DB_class: 1.000
+nba: 1.000
+basketbal: 0.981
+play: 0.981
+profession: 0.962
+nation: 0.962
+associ: 0.962
+born: 0.942
+team: 0.846
+========================

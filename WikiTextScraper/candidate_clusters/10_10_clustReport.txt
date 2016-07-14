@@ -1,0 +1,214 @@
+========================
+CLUSTER 0: 4116 MEMBERS
+
+Representative articles:
+Pornography
+Saints_Cyril_and_Methodius
+List_of_Indian_film_actors
+East_Coast_hip_hop
+Marbury_v._Madison
+Canterbury_University_(Seychelles)
+Hamas
+Jerusalem_Film_Festival
+Jejomar_Binay
+Faggot
+
+Most common terms:
+also: 0.383
+first: 0.345
+american: 0.344
+born: 0.317
+one: 0.310
+includ: 0.303
+state: 0.274
+known: 0.259
+year: 0.257
+unit: 0.254
+========================
+========================
+CLUSTER 1: 11 MEMBERS
+
+Representative articles:
+Water-fuelled_car
+Water_boatman
+Flood
+Ocean
+Rain
+Water_pollution
+Ice
+Evaporation
+Water_fluoridation
+Water_fluoridation_controversy
+
+Most common terms:
+DB_class: 1.000
+water: 1.000
+form: 0.636
+may: 0.636
+use: 0.636
+also: 0.636
+natur: 0.545
+state: 0.545
+cycl: 0.455
+includ: 0.455
+========================
+========================
+CLUSTER 2: 14 MEMBERS
+
+Representative articles:
+DWRX
+WTOP-FM
+List_of_TV5_Network,_Inc._TV_and_radio_stations
+Southsound_Radio
+WZBH
+Delta_FM
+WGUL
+KVIE
+WICL
+WQUN
+
+Most common terms:
+DB_class: 1.000
+station: 1.000
+radio: 0.929
+broadcast: 0.786
+own: 0.714
+licens: 0.571
+format: 0.571
+studio: 0.571
+serv: 0.500
+music: 0.500
+========================
+========================
+CLUSTER 3: 10 MEMBERS
+
+Representative articles:
+Muscular_system
+Nervous_system
+Excretory_system
+Windows_7
+Microsoft_Windows
+Rooting_(Android_OS)
+Operating_system
+Microsoft
+Windows_8
+Comparison_of_Google_Nexus_tablets
+
+Most common terms:
+system: 1.000
+DB_class: 1.000
+oper: 0.700
+includ: 0.700
+mobil: 0.600
+comput: 0.600
+also: 0.600
+devic: 0.600
+use: 0.600
+android: 0.600
+========================
+========================
+CLUSTER 4: 9 MEMBERS
+
+Representative articles:
+Blond
+Ruby
+Red_hair
+Blueshift
+Shades_of_red
+Eye_color
+Red
+Green
+Color
+
+Most common terms:
+color: 1.000
+DB_class: 1.000
+light: 0.889
+red: 0.778
+blue: 0.667
+visibl: 0.556
+associ: 0.556
+call: 0.556
+also: 0.556
+human: 0.444
+========================
+========================
+CLUSTER 5: 23 MEMBERS
+
+Representative articles:
+Jennings_Dog
+Tibetan_Mastiff
+Alpine_Mastiff
+Australian_Cattle_Dog
+The_Hundred_and_One_Dalmatians
+Spanish_Mastiff
+Pug
+Greater_Swiss_Mountain_Dog
+Dalmatian_(dog)
+Dog
+
+Most common terms:
+DB_class: 1.000
+dog: 1.000
+breed: 0.783
+origin: 0.565
+mastiff: 0.348
+bred: 0.348
+larg: 0.348
+famili: 0.304
+also: 0.304
+use: 0.304
+========================
+========================
+CLUSTER 6: 9 MEMBERS
+
+Representative articles:
+Black_panther
+Black_pride
+Steve_Biko
+Red-tailed_black_cockatoo
+Black_rhinoceros
+Black_and_Tan_Coonhound
+Malcolm_X
+Booker_T._Washington
+Black_Lives_Matter
+
+Most common terms:
+DB_class: 1.000
+black: 1.000
+african: 0.667
+movement: 0.556
+nation: 0.556
+includ: 0.556
+africa: 0.444
+live: 0.444
+white: 0.444
+unit: 0.444
+========================
+========================
+CLUSTER 7: 13 MEMBERS
+
+Representative articles:
+Ahmadiyya
+Black_Stone
+Jesus_in_Islam
+Quran
+Aisha
+Five_Pillars_of_Islam
+Muhammad_in_the_Bible
+Battle_of_Badr
+Mujaddid
+Jihad
+
+Most common terms:
+islam: 1.000
+DB_class: 1.000
+muslim: 1.000
+arab: 0.846
+muhammad: 0.846
+one: 0.769
+quran: 0.769
+also: 0.769
+tradit: 0.692
+religion: 0.615
+========================

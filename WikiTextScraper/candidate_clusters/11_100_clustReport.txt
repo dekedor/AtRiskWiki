@@ -1,0 +1,81 @@
+========================
+CLUSTER 0: 1438 MEMBERS
+
+Representative articles:
+Kriti_(film)
+Nargis_Fakhri
+Squidward_Tentacles
+Jimi_Hendrix
+Aamir_Khan
+Nadine_Coyle
+Kabali_(film)
+Super_Mario_64
+Dr._Dre
+Jennifer_Lawrence
+
+Most common terms:
+film: 0.530
+releas: 0.529
+american: 0.494
+first: 0.410
+also: 0.396
+one: 0.370
+includ: 0.357
+produc: 0.342
+born: 0.330
+seri: 0.329
+========================
+========================
+CLUSTER 1: 116 MEMBERS
+
+Representative articles:
+Superior_High_School_(Montana)
+Winchester_School_of_Art
+Maris_Stella_High_School
+Bell,_Florida
+Merewether_High_School
+Ringwood_Secondary_College
+Scotch_College,_Adelaide
+Lytchett_Minster_School
+Gippsland_Grammar_School
+Compra_National_High_School
+
+Most common terms:
+DB_class: 1.000
+school: 1.000
+high: 0.534
+student: 0.491
+locat: 0.474
+secondari: 0.319
+year: 0.302
+public: 0.293
+educ: 0.293
+state: 0.284
+========================
+========================
+CLUSTER 2: 227 MEMBERS
+
+Representative articles:
+Alberto_Moreno_(footballer)
+Theo_Walcott
+Henrikh_Mkhitaryan
+Divock_Origi
+Arsenal_F.C.
+Argentina_national_football_team
+National_Basketball_Association
+Rio_Ferdinand
+Arizona_Diamondbacks
+Conor_Sammon
+
+Most common terms:
+DB_class: 1.000
+play: 0.846
+team: 0.846
+footbal: 0.806
+leagu: 0.771
+club: 0.722
+profession: 0.687
+born: 0.634
+nation: 0.634
+cup: 0.608
+========================

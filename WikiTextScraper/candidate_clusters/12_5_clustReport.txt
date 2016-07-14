@@ -1,0 +1,414 @@
+========================
+CLUSTER 0: 5815 MEMBERS
+
+Representative articles:
+Fee_(band)
+Dmitri_Mendeleev
+Screams_of_Silence:_The_Story_of_Brenda_Q
+Online_book_rental_in_India
+Comics_Guaranty
+Cowtown
+Angelina_Jolie
+2016_Summer_Olympics
+Dean_Ambrose
+Mutasarrifate_of_Jerusalem
+
+Most common terms:
+also: 0.389
+first: 0.309
+one: 0.304
+american: 0.301
+includ: 0.300
+born: 0.288
+known: 0.274
+state: 0.268
+year: 0.237
+unit: 0.235
+========================
+========================
+CLUSTER 1: 4 MEMBERS
+
+Representative articles:
+Fruit
+Strawberry
+Apple
+Grape
+
+Most common terms:
+fruit: 1.000
+seed: 1.000
+DB_class: 1.000
+genu: 0.750
+mean: 0.750
+mani: 0.750
+known: 0.750
+use: 0.750
+sweet: 0.750
+bred: 0.500
+========================
+========================
+CLUSTER 2: 6 MEMBERS
+
+Representative articles:
+Whale
+Blue_whale
+Dolphin
+Narwhal
+Killer_whale
+Sperm_whale
+
+Most common terms:
+mammal: 1.000
+DB_class: 1.000
+whale: 1.000
+ocean: 1.000
+famili: 0.833
+anim: 0.833
+group: 0.833
+two: 0.833
+hunt: 0.833
+rang: 0.833
+========================
+========================
+CLUSTER 3: 9 MEMBERS
+
+Representative articles:
+Zultanite
+Greenhouse_effect
+Light
+Sunlight
+Speed_of_light
+Laser
+Incandescent_light_bulb
+Electromagnetic_spectrum
+Radiation
+
+Most common terms:
+DB_class: 1.000
+light: 0.889
+radiat: 0.778
+electromagnet: 0.667
+visibl: 0.667
+sourc: 0.667
+use: 0.667
+earth: 0.556
+effect: 0.556
+direct: 0.556
+========================
+========================
+CLUSTER 4: 11 MEMBERS
+
+Representative articles:
+William_Connolley
+Physical_change
+List_of_scientists_opposing_the_mainstream_scientific_assessment_of_global_warming
+Hockey_stick_controversy
+Politics_of_global_warming
+Global_warming
+Climate_change_denial
+Chemical_change
+Effects_of_global_warming
+Climate_change
+
+Most common terms:
+DB_class: 1.000
+chang: 0.909
+global: 0.727
+warm: 0.727
+also: 0.727
+climat: 0.727
+scientif: 0.636
+activ: 0.636
+scienc: 0.636
+ga: 0.636
+========================
+========================
+CLUSTER 5: 9 MEMBERS
+
+Representative articles:
+Big_Mac
+McDonald's
+Fried_chicken
+Chicken_fingers
+Chicken_nugget
+Chicken_as_food
+Colonel_Sanders
+KFC
+Five_Guys
+
+Most common terms:
+DB_class: 1.000
+food: 0.889
+fast: 0.889
+restaur: 0.778
+fri: 0.778
+chicken: 0.778
+unit: 0.778
+state: 0.778
+chain: 0.667
+serv: 0.556
+========================
+========================
+CLUSTER 6: 5 MEMBERS
+
+Representative articles:
+Bahoz_Erdal
+Kurdish_languages
+Kurdistan
+Masoud_Barzani
+Kurds
+
+Most common terms:
+kurdistan: 1.000
+kurdish: 1.000
+DB_class: 1.000
+region: 0.800
+also: 0.800
+kurd: 0.600
+nationalist: 0.600
+form: 0.600
+northern: 0.600
+northwestern: 0.600
+========================
+========================
+CLUSTER 7: 4 MEMBERS
+
+Representative articles:
+Gracia_Martore
+Robert_Kotick
+James_L._Dolan
+Suhas_Gopinath
+
+Most common terms:
+ceo: 1.000
+compani: 1.000
+DB_class: 1.000
+serv: 0.750
+born: 0.750
+chairman: 0.500
+leader: 0.500
+corpor: 0.500
+global: 0.500
+founder: 0.500
+========================
+========================
+CLUSTER 8: 5 MEMBERS
+
+Representative articles:
+Genetically_modified_food_controversies
+Vani_Hari
+Food
+Iceland_(supermarket)
+Sandwich
+
+Most common terms:
+food: 1.000
+DB_class: 1.000
+safeti: 0.600
+compani: 0.600
+world: 0.600
+also: 0.600
+market: 0.600
+includ: 0.600
+well: 0.600
+item: 0.400
+========================
+========================
+CLUSTER 9: 3 MEMBERS
+
+Representative articles:
+Sophie_Hunter
+Robert_Shaw_(theatre_director)
+Globe_Theatre
+
+Most common terms:
+DB_class: 1.000
+compani: 1.000
+theatr: 1.000
+play: 1.000
+london: 0.667
+director: 0.667
+english: 0.667
+born: 0.667
+music: 0.667
+new: 0.667
+========================
+========================
+CLUSTER 10: 10 MEMBERS
+
+Representative articles:
+Chrysler_B_engine
+Bing
+List_of_search_engines
+Regulation_and_licensure_in_engineering
+Airplane
+Jet_engine
+Coandă-1910
+James_Watt
+Gottlieb_Daimler
+Search_engine_optimization
+
+Most common terms:
+DB_class: 1.000
+engin: 1.000
+use: 0.700
+design: 0.600
+work: 0.600
+includ: 0.500
+power: 0.500
+develop: 0.500
+combust: 0.400
+invent: 0.400
+========================
+========================
+CLUSTER 11: 6 MEMBERS
+
+Representative articles:
+Erection
+Micropenis
+Penis_enlargement
+Erectile_dysfunction
+Human_penis_size
+Human_penis
+
+Most common terms:
+erect: 1.000
+human: 1.000
+peni: 1.000
+DB_class: 1.000
+sexual: 0.833
+male: 0.667
+size: 0.667
+result: 0.667
+length: 0.667
+also: 0.667
+========================
+========================
+CLUSTER 12: 4 MEMBERS
+
+Representative articles:
+Race_(human_categorization)
+Ancient_Egyptian_race_controversy
+Aryan_race
+Irano-Afghan_race
+
+Most common terms:
+DB_class: 1.000
+race: 1.000
+popul: 0.750
+scientif: 0.750
+distinct: 0.750
+group: 0.750
+th: 0.750
+racial: 0.750
+term: 0.750
+centuri: 0.750
+========================
+========================
+CLUSTER 13: 6 MEMBERS
+
+Representative articles:
+Tree
+Tundra
+Tree_shaping
+Yggdrasil
+Avocado
+Savanna
+
+Most common terms:
+tree: 1.000
+DB_class: 1.000
+also: 0.667
+name: 0.500
+one: 0.500
+tropic: 0.500
+support: 0.500
+known: 0.500
+branch: 0.500
+sever: 0.500
+========================
+========================
+CLUSTER 14: 6 MEMBERS
+
+Representative articles:
+Toilet_paper
+Toilet
+Thesis_statement
+Paper_plane
+Paper
+Origami
+
+Most common terms:
+DB_class: 1.000
+paper: 0.833
+modern: 0.667
+also: 0.667
+use: 0.667
+develop: 0.667
+design: 0.500
+mean: 0.500
+sheet: 0.500
+usual: 0.500
+========================
+========================
+CLUSTER 15: 4 MEMBERS
+
+Representative articles:
+Tied-arch_bridge
+Adam's_Bridge
+Through_arch_bridge
+Truss_bridge
+
+Most common terms:
+bridg: 1.000
+DB_class: 1.000
+tension: 0.750
+construct: 0.500
+materi: 0.500
+known: 0.500
+compress: 0.500
+type: 0.500
+deck: 0.500
+top: 0.500
+========================
+========================
+CLUSTER 16: 4 MEMBERS
+
+Representative articles:
+Elizabeth_II
+Queen_Elizabeth_The_Queen_Mother
+Queen_Victoria
+Charles,_Prince_of_Wales
+
+Most common terms:
+georg: 1.000
+age: 1.000
+royal: 1.000
+british: 1.000
+marri: 1.000
+son: 1.000
+queen: 1.000
+father: 1.000
+DB_class: 1.000
+king: 1.000
+========================
+========================
+CLUSTER 17: 3 MEMBERS
+
+Representative articles:
+Saab_Automobile
+Cadillac
+Audi
+
+Most common terms:
+automobil: 1.000
+name: 1.000
+vehicl: 1.000
+car: 1.000
+product: 1.000
+technolog: 1.000
+DB_class: 1.000
+compani: 1.000
+found: 1.000
+distribut: 0.667
+========================

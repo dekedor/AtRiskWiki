@@ -1,0 +1,81 @@
+========================
+CLUSTER 0: 4475 MEMBERS
+
+Representative articles:
+Draco_Malfoy
+Alaska
+Prestwick_Academy
+Genghis_Tron
+Justin_Trudeau
+Max_Bennett_(actor)
+Michael_Jordan
+Megan_Fox
+Al_Jefferson
+Gautam_Gambhir
+
+Most common terms:
+also: 0.381
+american: 0.348
+first: 0.335
+born: 0.324
+one: 0.306
+includ: 0.301
+state: 0.276
+known: 0.269
+year: 0.253
+unit: 0.251
+========================
+========================
+CLUSTER 1: 21 MEMBERS
+
+Representative articles:
+Metal
+Calcium
+Gold
+Ununtrium
+Carbon
+Neon
+Chemical_element
+Iron
+Ununoctium
+Chlorine
+
+Most common terms:
+element: 1.000
+DB_class: 1.000
+chemic: 0.952
+number: 0.857
+atom: 0.857
+use: 0.810
+symbol: 0.762
+group: 0.714
+tabl: 0.667
+earth: 0.667
+========================
+========================
+CLUSTER 2: 18 MEMBERS
+
+Representative articles:
+Nguyễn_Văn_Đài
+List_of_countries_by_Human_Development_Index
+Human_rights_in_Ukraine
+Bianca_Jagger
+Humanism
+Children's_rights
+People’s_Solidarity_for_Participatory_Democracy
+Marilou_McPhedran
+Terry_Bean
+LGBT_rights_by_country_or_territory
+
+Most common terms:
+DB_class: 1.000
+human: 0.944
+right: 0.833
+includ: 0.500
+intern: 0.444
+movement: 0.444
+organ: 0.389
+law: 0.389
+polit: 0.389
+equal: 0.333
+========================

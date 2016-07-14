@@ -1,0 +1,216 @@
+========================
+CLUSTER 0: 354 MEMBERS
+
+Representative articles:
+Born_to_Raise_Hell_(film)
+Alex_Jones
+Diamond_Dogs_(film)
+Plague
+Wilbur
+Bollywood
+Minecraft:_Story_Mode
+Call_of_Duty_4:_Modern_Warfare
+Twenty:20_(film)
+Prasad_Devineni
+
+Most common terms:
+film: 0.701
+releas: 0.500
+direct: 0.407
+produc: 0.384
+star: 0.381
+also: 0.367
+first: 0.347
+seri: 0.347
+american: 0.347
+role: 0.319
+========================
+========================
+CLUSTER 1: 82 MEMBERS
+
+Representative articles:
+Kevin_Durant
+Jimmy_Butler_(basketball)
+Brandon_Ingram
+Kobe_Bryant
+Doug_McDermott
+Kareem_Abdul-Jabbar
+John_Wall_(basketball)
+Dwyane_Wade
+Yao_Ming
+Muggsy_Bogues
+
+Most common terms:
+DB_class: 1.000
+basketbal: 0.988
+player: 0.988
+nba: 0.988
+profession: 0.951
+nation: 0.951
+play: 0.927
+associ: 0.927
+born: 0.927
+american: 0.744
+========================
+========================
+CLUSTER 2: 237 MEMBERS
+
+Representative articles:
+List_of_Billboard_Hot_100_number-one_singles_of_2002
+List_of_Billboard_Hot_100_number-one_singles_of_2016
+About_a_Girl_(Sugababes_song)
+Nelly
+List_of_Billboard_Hot_100_number-one_singles_of_2004
+List_of_Billboard_Hot_100_number-one_singles_of_1999
+Ancora
+Fetty_Wap
+Britney_Spears
+Billboard_200
+
+Most common terms:
+DB_class: 1.000
+album: 0.873
+releas: 0.844
+singl: 0.819
+record: 0.772
+first: 0.734
+one: 0.717
+number: 0.671
+billboard: 0.671
+debut: 0.662
+========================
+========================
+CLUSTER 3: 81 MEMBERS
+
+Representative articles:
+Eltham_College_(Victoria)
+Middlewich_High_School
+Sponne_School
+The_Cottage_School
+Upper_Darby_School_District
+The_Fallibroome_Academy
+Thorp_Academy
+Carey_Baptist_Grammar_School
+Vermont_Secondary_College
+Yishun_Town_Secondary_School
+
+Most common terms:
+DB_class: 1.000
+school: 1.000
+high: 0.617
+student: 0.580
+locat: 0.494
+year: 0.358
+secondari: 0.321
+public: 0.321
+state: 0.296
+educ: 0.272
+========================
+========================
+CLUSTER 4: 21 MEMBERS
+
+Representative articles:
+List_of_gay,_lesbian_or_bisexual_people:_I–J
+List_of_gay,_lesbian_or_bisexual_people:_C
+List_of_gay,_lesbian_or_bisexual_people:_Sd–Si
+List_of_gay,_lesbian_or_bisexual_people:_Bi–Bz
+List_of_gay,_lesbian_or_bisexual_people:_M
+List_of_gay,_lesbian_or_bisexual_people:_Sj–Sz
+List_of_gay,_lesbian_or_bisexual_people:_R
+List_of_gay,_lesbian_or_bisexual_people:_L
+List_of_gay,_lesbian_or_bisexual_people:_T–V
+List_of_gay,_lesbian_or_bisexual_people:_K
+
+Most common terms:
+number: 1.000
+sexual: 1.000
+peopl: 1.000
+global: 1.000
+due: 1.000
+sex: 1.000
+research: 1.000
+DB_class: 1.000
+orient: 1.000
+psycholog: 1.000
+========================
+========================
+CLUSTER 5: 85 MEMBERS
+
+Representative articles:
+Old_Trafford
+Neville_Southall
+A.C._Milan
+Kaká
+FC_Barcelona
+Esteghlal_F.C.
+Sunderland_A.F.C.
+APOEL_FC
+Fernando_Torres
+James_McClean
+
+Most common terms:
+DB_class: 1.000
+footbal: 0.988
+club: 0.976
+leagu: 0.941
+team: 0.894
+play: 0.871
+cup: 0.847
+first: 0.800
+profession: 0.788
+season: 0.729
+========================
+========================
+CLUSTER 6: 28 MEMBERS
+
+Representative articles:
+The_Voice_(U.S._TV_series)
+Biggest_Loser_Jeetega
+The_Biggest_Loser_Asia
+The_Biggest_Loser_Pinoy_Edition_(season_1)
+The_Biggest_Loser_Australia:_Challenge_Australia
+The_Biggest_Loser_Australia:_The_Next_Generation
+The_Biggest_Loser_UK_(series_3)
+The_Biggest_Loser_(season_4)
+The_Biggest_Loser_Germany
+The_Biggest_Loser_UK_(series_4)
+
+Most common terms:
+DB_class: 1.000
+loser: 0.929
+biggest: 0.929
+season: 0.929
+realiti: 0.857
+seri: 0.786
+televis: 0.786
+premier: 0.571
+contest: 0.571
+air: 0.536
+========================
+========================
+CLUSTER 7: 22 MEMBERS
+
+Representative articles:
+CM_Punk
+WWE_Championship
+Sheamus
+Hulk_Hogan
+Triple_H
+Chris_Benoit
+A.J._Styles
+Paige_(wrestler)
+Seth_Rollins
+The_Ultimate_Warrior
+
+Most common terms:
+profession: 1.000
+wwe: 1.000
+wrestl: 1.000
+championship: 1.000
+world: 1.000
+DB_class: 1.000
+heavyweight: 0.909
+wrestler: 0.909
+name: 0.864
+born: 0.864
+========================

@@ -1,0 +1,135 @@
+========================
+CLUSTER 0: 3179 MEMBERS
+
+Representative articles:
+Oral_sex
+Cell_(biology)
+List_of_hospitals_in_India
+Albert_Pujols
+Homosexual_behavior_in_animals
+Frédéric_Chopin
+Avatar_(disambiguation)
+List_of_Billboard_Hot_100_number-one_singles_of_2004
+Dale_Winton
+Constitution
+
+Most common terms:
+american: 0.374
+also: 0.370
+first: 0.364
+born: 0.327
+one: 0.320
+includ: 0.299
+state: 0.271
+unit: 0.267
+film: 0.265
+year: 0.263
+========================
+========================
+CLUSTER 1: 37 MEMBERS
+
+Representative articles:
+Constipation
+PANDAS
+Cholera
+Finnish_heritage_disease
+Posttraumatic_stress_disorder
+Gastroenteritis
+Common_cold
+Dengue_fever
+Alzheimer's_disease
+Genital_wart
+
+Most common terms:
+DB_class: 1.000
+caus: 0.946
+includ: 0.946
+diseas: 0.919
+peopl: 0.892
+symptom: 0.838
+may: 0.811
+infect: 0.784
+also: 0.784
+treatment: 0.757
+========================
+========================
+CLUSTER 2: 52 MEMBERS
+
+Representative articles:
+Dave_Bautista
+Alberto_Del_Rio
+WrestleMania_33
+Dean_Ambrose
+Seth_Rollins
+Jon_Jones
+Paige_(wrestler)
+The_Undertaker
+Royal_Rumble
+Shawn_Michaels
+
+Most common terms:
+DB_class: 1.000
+profession: 0.885
+championship: 0.827
+wrestl: 0.808
+wwe: 0.788
+world: 0.788
+born: 0.750
+champion: 0.712
+wrestler: 0.692
+american: 0.673
+========================
+========================
+CLUSTER 3: 22 MEMBERS
+
+Representative articles:
+Mawra_Hocane
+Miranda_Kerr
+Whitney_Thompson
+Chantal_Jones
+America's_Next_Top_Model_(cycle_13)
+Kendall_Jenner
+Denise_Vasi
+Teyona_Anderson
+Celia_Ammerman
+Jade_Cole
+
+Most common terms:
+DB_class: 1.000
+model: 1.000
+top: 0.773
+next: 0.773
+america: 0.682
+cycl: 0.682
+born: 0.636
+fashion: 0.636
+american: 0.545
+septemb: 0.364
+========================
+========================
+CLUSTER 4: 35 MEMBERS
+
+Representative articles:
+Beit_HaArava
+Arab_citizens_of_Israel
+Arab–Israeli_conflict
+Israeli_settlement
+Egypt
+Arab_Jews
+2009_Arab_Capital_of_Culture
+Ilan_Pappé
+Rosh_Tzurim
+Kfar_Etzion
+
+Most common terms:
+DB_class: 1.000
+govern: 0.743
+west: 0.714
+isra: 0.714
+bank: 0.657
+hebrew: 0.629
+popul: 0.600
+intern: 0.600
+israel: 0.600
+palestinian: 0.571
+========================

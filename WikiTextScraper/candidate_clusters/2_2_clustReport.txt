@@ -1,0 +1,288 @@
+========================
+CLUSTER 0: 24 MEMBERS
+
+Representative articles:
+Faget
+Wilbur
+JB
+Crap
+Booty
+Savage
+Baller
+Bum
+XXX
+Loge
+
+Most common terms:
+refer: 1.000
+may: 1.000
+fastest: 0.000
+fast: 0.000
+farm: 0.000
+far: 0.000
+farmer: 0.000
+fascist: 0.000
+fat: 0.000
+fashion: 0.000
+========================
+========================
+CLUSTER 1: 2 MEMBERS
+
+Representative articles:
+The_Biggest_Winner_Arab_(season_2)
+The_Biggest_Winner_Arab_(season_1)
+
+Most common terms:
+loser: 1.000
+premier: 1.000
+biggest: 1.000
+version: 1.000
+second: 1.000
+season: 1.000
+televis: 1.000
+DB_class: 1.000
+nbc: 1.000
+american: 1.000
+========================
+========================
+CLUSTER 2: 20 MEMBERS
+
+Representative articles:
+List_of_gay,_lesbian_or_bisexual_people:_D–E
+List_of_gay,_lesbian_or_bisexual_people:_Ba–Bh
+List_of_gay,_lesbian_or_bisexual_people:_P–Q
+List_of_gay,_lesbian_or_bisexual_people:_Sa–Sc
+List_of_gay,_lesbian_or_bisexual_people:_K
+List_of_gay,_lesbian_or_bisexual_people:_R
+List_of_gay,_lesbian_or_bisexual_people:_Sj–Sz
+List_of_gay,_lesbian_or_bisexual_people:_C
+List_of_gay,_lesbian_or_bisexual_people:_I–J
+List_of_gay,_lesbian_or_bisexual_people:_A
+
+Most common terms:
+major: 1.000
+percent: 1.000
+famou: 1.000
+focus: 1.000
+follow: 1.000
+DB_class: 1.000
+classif: 1.000
+rumor: 1.000
+american: 1.000
+selfdefinit: 1.000
+========================
+========================
+CLUSTER 3: 4 MEMBERS
+
+Representative articles:
+2001–02_United_States_network_television_schedule_(Saturday_morning)
+2005–06_United_States_network_television_schedule_(Saturday_morning)
+2007–08_United_States_network_television_schedule_(Saturday_morning)
+2002–03_United_States_network_television_schedule_(Saturday_morning)
+
+Most common terms:
+time: 1.000
+broadcast: 1.000
+schedul: 1.000
+air: 1.000
+entertain: 1.000
+DB_class: 1.000
+new: 1.000
+unit: 1.000
+state: 1.000
+morn: 1.000
+========================
+========================
+CLUSTER 4: 4 MEMBERS
+
+Representative articles:
+List_of_bisexual_people_(A–F)
+List_of_bisexual_people_(T–Z)
+List_of_bisexual_people_(G–M)
+List_of_bisexual_people_(N–S)
+
+Most common terms:
+peopl: 1.000
+includ: 1.000
+bisexu: 1.000
+DB_class: 1.000
+list: 1.000
+identifi: 1.000
+famou: 0.750
+notabl: 0.250
+fatal: 0.000
+fashion: 0.000
+========================
+========================
+CLUSTER 5: 3 MEMBERS
+
+Representative articles:
+39th_Annie_Awards
+40th_Annie_Awards
+37th_Annie_Awards
+
+Most common terms:
+anim: 1.000
+februari: 1.000
+hall: 1.000
+held: 1.000
+california: 1.000
+lo: 1.000
+angel: 1.000
+DB_class: 1.000
+award: 1.000
+annual: 1.000
+========================
+========================
+CLUSTER 6: 3 MEMBERS
+
+Representative articles:
+Kamen_Rider_1
+Kamen_Rider_2
+Kamen_Rider_V3_(character)
+
+Most common terms:
+kamen: 1.000
+tokusatsu: 1.000
+hero: 1.000
+decad: 1.000
+movi: 1.000
+DB_class: 1.000
+seri: 1.000
+famou: 1.000
+charact: 1.000
+model: 1.000
+========================
+========================
+CLUSTER 7: 2 MEMBERS
+
+Representative articles:
+March_7
+July_30
+
+Most common terms:
+saturday: 1.000
+leap: 1.000
+date: 1.000
+day: 1.000
+fall: 1.000
+slightli: 1.000
+end: 1.000
+DB_class: 1.000
+gregorian: 1.000
+monday: 1.000
+========================
+========================
+CLUSTER 8: 2 MEMBERS
+
+Representative articles:
+List_of_ambient_music_artists
+List_of_dubstep_musicians
+
+Most common terms:
+consider: 1.000
+name: 1.000
+label: 1.000
+exposur: 1.000
+either: 1.000
+genr: 1.000
+import: 1.000
+artist: 1.000
+DB_class: 1.000
+major: 1.000
+========================
+========================
+CLUSTER 9: 2 MEMBERS
+
+Representative articles:
+List_of_Gibson_players
+List_of_Epiphone_players
+
+Most common terms:
+instrument: 1.000
+contribut: 1.000
+guitar: 1.000
+made: 1.000
+perform: 1.000
+uniqu: 1.000
+import: 1.000
+notabl: 1.000
+DB_class: 1.000
+list: 1.000
+========================
+========================
+CLUSTER 10: 2 MEMBERS
+
+Representative articles:
+List_of_Palestinian_rocket_attacks_on_Israel,_2015
+List_of_Palestinian_rocket_attacks_on_Israel,_2016
+
+Most common terms:
+within: 1.000
+forc: 1.000
+protect: 1.000
+israel: 1.000
+unless: 1.000
+strip: 1.000
+DB_class: 1.000
+list: 1.000
+conflict: 1.000
+origin: 1.000
+========================
+========================
+CLUSTER 11: 2 MEMBERS
+
+Representative articles:
+Girl_Meets_World
+List_of_Girl_Meets_World_characters
+
+Most common terms:
+recur: 1.000
+daniel: 1.000
+debut: 1.000
+sequel: 1.000
+cori: 1.000
+role: 1.000
+daughter: 1.000
+DB_class: 1.000
+school: 1.000
+coupl: 1.000
+========================
+========================
+CLUSTER 12: 2 MEMBERS
+
+Representative articles:
+977
+911
+
+Most common terms:
+calendar: 1.000
+year: 1.000
+full: 1.000
+common: 1.000
+link: 1.000
+display: 1.000
+DB_class: 1.000
+start: 1.000
+julian: 1.000
+monday: 0.500
+========================
+========================
+CLUSTER 13: 2 MEMBERS
+
+Representative articles:
+Utigurs
+Kutrigurs
+
+Most common terms:
+stepp: 1.000
+ad: 1.000
+th: 1.000
+DB_class: 1.000
+nomad: 1.000
+flourish: 1.000
+centuri: 1.000
+fashion: 0.000
+fat: 0.000
+fascist: 0.000
+========================

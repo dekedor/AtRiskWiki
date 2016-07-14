@@ -1,0 +1,81 @@
+========================
+CLUSTER 0: 1814 MEMBERS
+
+Representative articles:
+List_of_Billboard_Hot_100_number-one_singles_of_2013
+Taylor_Swift_discography
+The_Rescuers
+Star
+List_of_Billboard_Hot_100_number-one_singles_of_2006
+Jay_Craven
+Sarah_Jessica_Parker
+Mac_Miller
+Brunei
+Pathetic
+
+Most common terms:
+american: 0.481
+film: 0.465
+releas: 0.441
+also: 0.394
+first: 0.385
+one: 0.358
+includ: 0.348
+seri: 0.327
+born: 0.325
+produc: 0.307
+========================
+========================
+CLUSTER 1: 344 MEMBERS
+
+Representative articles:
+Tim_Tebow
+Samir_Nasri
+Kevin_Love
+2015_FIFA_U-20_World_Cup
+S.S._Lazio
+Álvaro_Morata
+Arsenal_F.C.
+Ashley_Cole
+Javier_Pastore
+Danielson_Gomes_Monteiro
+
+Most common terms:
+DB_class: 1.000
+play: 0.846
+team: 0.779
+profession: 0.715
+nation: 0.701
+born: 0.692
+leagu: 0.613
+footbal: 0.605
+player: 0.581
+first: 0.541
+========================
+========================
+CLUSTER 2: 121 MEMBERS
+
+Representative articles:
+Winchester_School_of_Art
+Ittō-ryū
+Lytchett_Minster_School
+Puerto_National_High_School
+Monkwearmouth_Academy
+Anderson_Secondary_School
+Laurel_Springs_School
+Kirkcaldy_High_School
+Saint_Thomas_More_High_School_(Milwaukee)
+Hogwarts
+
+Most common terms:
+DB_class: 1.000
+school: 1.000
+high: 0.537
+student: 0.488
+locat: 0.471
+secondari: 0.314
+year: 0.306
+educ: 0.298
+public: 0.289
+state: 0.273
+========================

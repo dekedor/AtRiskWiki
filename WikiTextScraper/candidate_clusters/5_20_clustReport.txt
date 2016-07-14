@@ -1,0 +1,243 @@
+========================
+CLUSTER 0: 46 MEMBERS
+
+Representative articles:
+Hack
+Agata
+Hooker
+Alison
+Baller
+Bum
+Cowtown
+Thug
+Period
+Poo
+
+Most common terms:
+refer: 1.000
+may: 1.000
+also: 0.130
+fuck: 0.043
+gener: 0.043
+varieti: 0.022
+hacker: 0.022
+mean: 0.022
+period: 0.022
+form: 0.022
+========================
+========================
+CLUSTER 1: 121 MEMBERS
+
+Representative articles:
+List_of_Billboard_200_number-one_albums_of_2013
+Lana_Del_Rey_discography
+List_of_Billboard_Hot_100_number-one_singles_of_2015
+Pitbull_(rapper)
+Quadrophenia
+Linkin_Park
+Green_Day_discography
+List_of_Billboard_Hot_100_number-one_singles_of_2000
+Sam_Smith_(singer)
+Britney_Spears_discography
+
+Most common terms:
+DB_class: 1.000
+singl: 0.909
+album: 0.802
+chart: 0.793
+first: 0.785
+one: 0.785
+releas: 0.777
+number: 0.760
+record: 0.760
+billboard: 0.752
+========================
+========================
+CLUSTER 2: 20 MEMBERS
+
+Representative articles:
+List_of_gay,_lesbian_or_bisexual_people:_Ba–Bh
+List_of_gay,_lesbian_or_bisexual_people:_Bi–Bz
+List_of_gay,_lesbian_or_bisexual_people:_D–E
+List_of_gay,_lesbian_or_bisexual_people:_T–V
+List_of_gay,_lesbian_or_bisexual_people:_K
+List_of_gay,_lesbian_or_bisexual_people:_A
+List_of_gay,_lesbian_or_bisexual_people
+List_of_gay,_lesbian_or_bisexual_people:_R
+List_of_gay,_lesbian_or_bisexual_people:_I–J
+List_of_gay,_lesbian_or_bisexual_people:_P–Q
+
+Most common terms:
+major: 1.000
+percent: 1.000
+famou: 1.000
+focus: 1.000
+follow: 1.000
+DB_class: 1.000
+classif: 1.000
+rumor: 1.000
+american: 1.000
+selfdefinit: 1.000
+========================
+========================
+CLUSTER 3: 51 MEMBERS
+
+Representative articles:
+Burlington_High_School_(Kansas)
+Latymer_Upper_School
+Laurel_Springs_School
+Ottawa-Glandorf_High_School
+Archbishop's_School
+Hogwarts
+Eastside_High_School_(Gainesville,_Florida)
+St._Mark's_Anglican_Community_School
+Superior_High_School_(Montana)
+Jimtown_High_School_(Elkhart,_Indiana)
+
+Most common terms:
+DB_class: 1.000
+school: 1.000
+high: 0.725
+locat: 0.588
+student: 0.569
+public: 0.373
+district: 0.333
+state: 0.333
+year: 0.333
+secondari: 0.294
+========================
+========================
+CLUSTER 4: 39 MEMBERS
+
+Representative articles:
+A_Perfect_Getaway
+Puli_(2015_film)
+Kaththi
+Pulimurugan
+The_Art_of_War_II:_Betrayal
+Arrambam
+Dhoom_3
+The_Last_Stand_(2013_film)
+The_Man_with_the_Iron_Fists
+Maximum_Risk
+
+Most common terms:
+film: 1.000
+DB_class: 1.000
+direct: 0.949
+releas: 0.872
+star: 0.821
+action: 0.538
+state: 0.513
+american: 0.513
+unit: 0.487
+written: 0.436
+========================
+========================
+CLUSTER 5: 28 MEMBERS
+
+Representative articles:
+The_Fox_and_the_Hound_2
+Planes_(film)
+Treasure_Planet
+The_Aristocats
+Shrek
+Oliver_&_Company
+The_Great_Mouse_Detective
+Happy_Feet
+One_Hundred_and_One_Dalmatians
+Snow_White_and_the_Seven_Dwarfs_(1937_film)
+
+Most common terms:
+anim: 1.000
+film: 1.000
+DB_class: 1.000
+produc: 0.964
+releas: 0.964
+featur: 0.893
+disney: 0.893
+american: 0.857
+walt: 0.821
+pictur: 0.786
+========================
+========================
+CLUSTER 6: 56 MEMBERS
+
+Representative articles:
+Gerald_Henderson,_Jr.
+Russell_Westbrook
+DeMarcus_Cousins
+James_Harden
+Andre_Iguodala
+Kyrie_Irving
+Boris_Diaw
+Los_Angeles_Lakers
+Metta_World_Peace
+Kevin_Garnett
+
+Most common terms:
+basketbal: 1.000
+player: 1.000
+DB_class: 1.000
+nba: 1.000
+profession: 0.982
+nation: 0.982
+associ: 0.982
+born: 0.946
+play: 0.929
+american: 0.786
+========================
+========================
+CLUSTER 7: 19 MEMBERS
+
+Representative articles:
+Amitabh_Bachchan
+Charlie_(2015_Malayalam_film)
+Aamir_Khan
+Hrithik_Roshan
+Shah_Rukh_Khan
+Prasad_Devineni
+Zarine_Khan
+Ram_Gopal_Varma
+Hugh_Jackman
+Anil_Kapoor
+
+Most common terms:
+film: 1.000
+DB_class: 1.000
+award: 1.000
+indian: 0.842
+one: 0.842
+best: 0.842
+role: 0.789
+born: 0.737
+includ: 0.737
+produc: 0.684
+========================
+========================
+CLUSTER 8: 20 MEMBERS
+
+Representative articles:
+Halo_2
+The_Game
+Minecraft:_Story_Mode
+Call_of_Duty:_Advanced_Warfare
+Call_of_Duty_4:_Modern_Warfare
+History_of_video_games
+Call_of_Duty:_Ghosts
+Super_Smash_Bros._Brawl
+Undertale
+Halo_3
+
+Most common terms:
+DB_class: 1.000
+game: 1.000
+video: 0.900
+develop: 0.900
+releas: 0.800
+seri: 0.750
+microsoft: 0.650
+publish: 0.600
+one: 0.550
+copi: 0.550
+========================

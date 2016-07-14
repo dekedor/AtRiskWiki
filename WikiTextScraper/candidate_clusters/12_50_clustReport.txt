@@ -1,0 +1,54 @@
+========================
+CLUSTER 0: 3104 MEMBERS
+
+Representative articles:
+Troy_Ave
+Kwame_Brown
+Brendan_Emmett_Quigley
+Demi_World_Tour
+Mac_Miller
+List_of_Harry_Potter_cast_members
+Sia_Furler
+Sky's_the_Limit
+Hopsin
+Boris_Diaw
+
+Most common terms:
+american: 0.404
+also: 0.380
+first: 0.365
+born: 0.357
+one: 0.330
+includ: 0.298
+film: 0.292
+releas: 0.277
+state: 0.273
+year: 0.267
+========================
+========================
+CLUSTER 1: 44 MEMBERS
+
+Representative articles:
+New_Brunswick_general_election,_1982
+Boris_Johnson
+Justin_Trudeau
+John_A._Macdonald
+Ken_Livingstone
+David_Cameron
+New_Brunswick_general_election,_1987
+Joseph_Muscat
+Julia_Gillard
+Indian_National_Congress
+
+Most common terms:
+parti: 1.000
+DB_class: 1.000
+elect: 0.909
+member: 0.795
+leader: 0.750
+politician: 0.727
+born: 0.659
+first: 0.614
+parliament: 0.614
+polit: 0.614
+========================

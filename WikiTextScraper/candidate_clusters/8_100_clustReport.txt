@@ -1,0 +1,54 @@
+========================
+CLUSTER 0: 330 MEMBERS
+
+Representative articles:
+Shakira
+List_of_Billboard_Hot_100_number-one_singles_of_2011
+Madonna_singles_discography
+So_Fresh:_The_Hits_of_Summer_2016
+Bars_and_Melody
+Britney_Spears_discography
+Il_Divo_(album)
+Lady_Gaga
+Living_for_Love
+My_World_(EP)
+
+Most common terms:
+album: 0.924
+releas: 0.891
+singl: 0.803
+record: 0.791
+first: 0.673
+one: 0.667
+debut: 0.664
+music: 0.664
+number: 0.633
+billboard: 0.612
+========================
+========================
+CLUSTER 1: 386 MEMBERS
+
+Representative articles:
+Kajal_Aggarwal
+Simon_Wells
+Heath_Ledger
+Great_Grand_Masti
+The_Conjuring_2
+Suicide_Squad_(film)
+Sean_Penn
+Maximum_Risk
+City_Without_Baseball
+Varun_Sandesh
+
+Most common terms:
+DB_class: 1.000
+film: 0.995
+direct: 0.567
+star: 0.544
+produc: 0.521
+american: 0.516
+releas: 0.513
+role: 0.396
+also: 0.394
+award: 0.386
+========================

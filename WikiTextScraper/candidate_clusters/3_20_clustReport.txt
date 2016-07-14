@@ -1,0 +1,54 @@
+========================
+CLUSTER 0: 34 MEMBERS
+
+Representative articles:
+Kyle
+Hooker
+Faget
+Snitch
+Loser
+Thug
+Yolo
+Wilbur
+Bitch
+Anal
+
+Most common terms:
+refer: 1.000
+may: 1.000
+fuck: 0.029
+loser: 0.029
+anal: 0.029
+hack: 0.029
+cell: 0.029
+period: 0.029
+insult: 0.029
+hacker: 0.029
+========================
+========================
+CLUSTER 1: 20 MEMBERS
+
+Representative articles:
+List_of_gay,_lesbian_or_bisexual_people:_A
+List_of_gay,_lesbian_or_bisexual_people:_F
+List_of_gay,_lesbian_or_bisexual_people:_H
+List_of_gay,_lesbian_or_bisexual_people:_D–E
+List_of_gay,_lesbian_or_bisexual_people:_Sd–Si
+List_of_gay,_lesbian_or_bisexual_people:_K
+List_of_gay,_lesbian_or_bisexual_people:_L
+List_of_gay,_lesbian_or_bisexual_people:_C
+List_of_gay,_lesbian_or_bisexual_people:_Sj–Sz
+List_of_gay,_lesbian_or_bisexual_people:_I–J
+
+Most common terms:
+major: 1.000
+percent: 1.000
+famou: 1.000
+focus: 1.000
+follow: 1.000
+DB_class: 1.000
+classif: 1.000
+rumor: 1.000
+american: 1.000
+selfdefinit: 1.000
+========================

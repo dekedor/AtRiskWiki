@@ -1,0 +1,135 @@
+========================
+CLUSTER 0: 841 MEMBERS
+
+Representative articles:
+Tangled
+Warsawpack
+Fifth_Harmony
+List_of_Billboard_200_number-one_albums_of_2014
+August_Alsina
+Nishant
+No_One_Ever_Tells_You
+Jaws_(film)
+Assassination_Games
+Tommy_(album)
+
+Most common terms:
+releas: 0.636
+film: 0.625
+american: 0.552
+first: 0.476
+one: 0.441
+also: 0.430
+produc: 0.419
+includ: 0.416
+album: 0.413
+award: 0.398
+========================
+========================
+CLUSTER 1: 167 MEMBERS
+
+Representative articles:
+Hooker
+Hack
+Cell
+List_of_Sonic_the_Hedgehog_characters
+FaZe_Clan
+Arjang
+Amazing
+Super_Mario_Bros.
+Call_of_Duty:_Black_Ops_III
+Call_of_Duty:_Advanced_Warfare
+
+Most common terms:
+DB_class: 1.000
+game: 0.593
+may: 0.515
+video: 0.473
+develop: 0.473
+refer: 0.437
+releas: 0.395
+seri: 0.335
+also: 0.323
+publish: 0.305
+========================
+========================
+CLUSTER 2: 148 MEMBERS
+
+Representative articles:
+Crook_Town_A.F.C.
+Pelé
+James_McClean
+2013_Afghan_Premier_League
+Rio_Ferdinand
+Chris_Malkin
+Sheffield_F.C._Ladies
+S.L._Benfica
+Jordan_Rhodes
+David_Villa
+
+Most common terms:
+DB_class: 1.000
+footbal: 0.953
+club: 0.865
+team: 0.865
+leagu: 0.851
+play: 0.845
+cup: 0.757
+profession: 0.723
+first: 0.682
+season: 0.669
+========================
+========================
+CLUSTER 3: 95 MEMBERS
+
+Representative articles:
+Joakim_Noah
+Zaza_Pachulia
+Highest-paid_NBA_players_by_season
+James_Harden
+National_Basketball_Association
+Perry_Ellis_(basketball)
+Kawhi_Leonard
+Basketball
+Pau_Gasol
+Cleveland_Cavaliers
+
+Most common terms:
+DB_class: 1.000
+basketbal: 0.979
+nba: 0.968
+profession: 0.947
+player: 0.937
+nation: 0.916
+play: 0.916
+associ: 0.895
+born: 0.884
+american: 0.758
+========================
+========================
+CLUSTER 4: 104 MEMBERS
+
+Representative articles:
+Ringwood_Secondary_College
+Falmouth_High_School_(Massachusetts)
+Bishop_Perowne_Church_of_England_College
+St_Christopher_School,_Letchworth
+Rochester_Lourdes_High_School
+Yucaipa_High_School
+Kent_School_District
+Chevalier_College
+Vermont_Secondary_College
+Aiglon_College
+
+Most common terms:
+DB_class: 1.000
+school: 1.000
+high: 0.577
+student: 0.529
+locat: 0.500
+year: 0.327
+secondari: 0.308
+public: 0.308
+educ: 0.279
+state: 0.260
+========================

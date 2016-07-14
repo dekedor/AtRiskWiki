@@ -1,0 +1,216 @@
+========================
+CLUSTER 0: 2219 MEMBERS
+
+Representative articles:
+Justin_Timberlake
+The_Challenge:_Rivals_III
+Chaudhary_Charan_Singh_Post_Graduate_College
+Clash_of_Clans
+PlayStation_4
+Taylor_Swift
+The_Protector_(1985_film)
+John_Elway
+Damage,_Inc._Tour
+Rochester_Lourdes_High_School
+
+Most common terms:
+american: 0.402
+first: 0.393
+also: 0.372
+film: 0.342
+releas: 0.342
+born: 0.339
+one: 0.337
+includ: 0.292
+seri: 0.289
+year: 0.282
+========================
+========================
+CLUSTER 1: 32 MEMBERS
+
+Representative articles:
+List_of_gay,_lesbian_or_bisexual_people:_Bi–Bz
+List_of_gay,_lesbian_or_bisexual_people:_I–J
+List_of_gay,_lesbian_or_bisexual_people:_Ba–Bh
+List_of_gay,_lesbian_or_bisexual_people:_M
+Sexy
+List_of_gay,_lesbian_or_bisexual_people:_A
+List_of_gay,_lesbian_or_bisexual_people:_C
+List_of_gay,_lesbian_or_bisexual_people:_D–E
+Gay
+List_of_gay,_lesbian_or_bisexual_people:_P–Q
+
+Most common terms:
+DB_class: 1.000
+sexual: 0.875
+peopl: 0.875
+includ: 0.875
+bisexu: 0.875
+sex: 0.844
+may: 0.844
+use: 0.844
+term: 0.812
+homosexu: 0.781
+========================
+========================
+CLUSTER 2: 45 MEMBERS
+
+Representative articles:
+The_Undertaker
+Shawn_Michaels
+Stephanie_McMahon
+Eva_Marie
+Vince_McMahon
+AJ_Lee
+WWE_Championship
+Evander_Holyfield
+Randy_Orton
+Seth_Rollins
+
+Most common terms:
+DB_class: 1.000
+profession: 0.911
+championship: 0.911
+wrestl: 0.844
+world: 0.844
+wwe: 0.822
+born: 0.800
+wrestler: 0.778
+champion: 0.756
+american: 0.756
+========================
+========================
+CLUSTER 3: 68 MEMBERS
+
+Representative articles:
+Derry
+Travers_Island,_New_York
+New_York_Mets
+David_Koch
+Crosspool
+Global_city
+Old_City_(Jerusalem)
+Mumbai
+New_York
+Las_Vegas
+
+Most common terms:
+DB_class: 1.000
+citi: 0.941
+new: 0.574
+popul: 0.559
+york: 0.441
+state: 0.412
+includ: 0.397
+area: 0.397
+one: 0.382
+locat: 0.368
+========================
+========================
+CLUSTER 4: 143 MEMBERS
+
+Representative articles:
+Argentina
+Kapu_(caste)
+Pakistan
+United_States_Senate_election_in_Oregon,_2016
+Incumbent
+Benedict_Arnold
+England
+Joaquín_Guzmán
+Andrew_Jackson
+Washington,_D.C.
+
+Most common terms:
+DB_class: 1.000
+state: 0.930
+unit: 0.867
+nation: 0.531
+also: 0.503
+first: 0.490
+th: 0.483
+american: 0.476
+war: 0.469
+elect: 0.469
+========================
+========================
+CLUSTER 5: 30 MEMBERS
+
+Representative articles:
+Parkinson's_disease
+Cardiovascular_disease
+Posttraumatic_stress_disorder
+Tinnitus
+Streptococcal_pharyngitis
+Gonorrhea
+Hemorrhoid
+HIV/AIDS
+Pneumonia
+Syphilis
+
+Most common terms:
+DB_class: 1.000
+caus: 0.967
+includ: 0.967
+peopl: 0.933
+may: 0.933
+diseas: 0.933
+symptom: 0.900
+treatment: 0.867
+use: 0.833
+also: 0.833
+========================
+========================
+CLUSTER 6: 43 MEMBERS
+
+Representative articles:
+David_Cameron
+Lord_Toby_Jug
+National_Front_(France)
+Alison_McGovern
+Sir_John_Mellor,_2nd_Baronet
+Singaporean_general_election,_2011
+Justin_Trudeau
+Alex_Salmond
+Gordon_Brown
+Liberal_National_Party_of_Queensland
+
+Most common terms:
+parti: 1.000
+DB_class: 1.000
+elect: 0.860
+member: 0.791
+politician: 0.651
+leader: 0.605
+first: 0.605
+born: 0.581
+parliament: 0.581
+govern: 0.558
+========================
+========================
+CLUSTER 7: 20 MEMBERS
+
+Representative articles:
+Ariel_(city)
+Beit_El
+Kfar_Etzion
+Israel
+Argaman
+Ro'i
+Israeli_settlement
+East_Jerusalem
+Israeli_West_Bank_barrier
+West_Bank
+
+Most common terms:
+west: 1.000
+DB_class: 1.000
+isra: 0.950
+intern: 0.900
+bank: 0.900
+govern: 0.850
+hebrew: 0.850
+law: 0.800
+commun: 0.800
+consid: 0.800
+========================

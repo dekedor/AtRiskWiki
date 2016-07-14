@@ -1,0 +1,54 @@
+========================
+CLUSTER 0: 222 MEMBERS
+
+Representative articles:
+God_Made_Me_Funky
+Breakout_(Miley_Cyrus_album)
+List_of_best-selling_albums_in_the_United_States
+My_Chemical_Romance
+Waka_Flocka_Flame
+List_of_Billboard_Hot_100_number-one_singles_of_1998
+List_of_Billboard_Hot_100_number-one_singles_of_2014
+21st_Century_Breakdown
+1989_(Taylor_Swift_album)
+Green_Day_discography
+
+Most common terms:
+album: 0.923
+releas: 0.892
+singl: 0.856
+record: 0.820
+one: 0.752
+first: 0.739
+debut: 0.721
+number: 0.712
+music: 0.685
+billboard: 0.662
+========================
+========================
+CLUSTER 1: 196 MEMBERS
+
+Representative articles:
+Kronk's_New_Groove
+Winners_and_Sinners
+Casper_the_Friendly_Ghost_in_film
+Game_of_Death_(2010_film)
+Twenty:20_(film)
+Shah_Rukh_Khan
+The_Expendables_(2010_film)
+Lethal_Weapon_3
+Red_Tails
+Nisha_Agarwal
+
+Most common terms:
+film: 1.000
+DB_class: 1.000
+direct: 0.719
+releas: 0.679
+star: 0.617
+american: 0.546
+produc: 0.520
+also: 0.393
+role: 0.372
+action: 0.347
+========================

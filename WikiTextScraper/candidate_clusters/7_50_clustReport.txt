@@ -1,0 +1,162 @@
+========================
+CLUSTER 0: 114 MEMBERS
+
+Representative articles:
+List_of_Sonic_the_Hedgehog_video_games
+Fuck_You
+Poo
+Blah
+Grand_Theft_Auto_V
+Pussy_(disambiguation)
+RuneScape
+Sky's_the_Limit
+Trash
+The_Elder_Scrolls_V:_Skyrim
+
+Most common terms:
+may: 0.623
+refer: 0.596
+game: 0.456
+develop: 0.395
+video: 0.368
+releas: 0.325
+also: 0.298
+seri: 0.272
+publish: 0.246
+one: 0.237
+========================
+========================
+CLUSTER 1: 89 MEMBERS
+
+Representative articles:
+Tyler_Ulis
+Jimmy_Butler_(basketball)
+JaVale_McGee
+Guerschon_Yabusele
+Kawhi_Leonard
+John_Wall_(basketball)
+Doug_McDermott
+James_Harden
+Michael_Jordan
+Seth_Curry
+
+Most common terms:
+DB_class: 1.000
+basketbal: 0.989
+nba: 0.989
+player: 0.966
+profession: 0.955
+nation: 0.933
+play: 0.933
+associ: 0.910
+born: 0.899
+american: 0.764
+========================
+========================
+CLUSTER 2: 288 MEMBERS
+
+Representative articles:
+Living_for_Love
+Big_Sean
+Tommy_(album)
+G-Dragon
+Selena_Gomez
+Republic_(album)
+Bon_Jovi
+Corbin_Bleu_discography
+You_Spin_Me_Round_(Like_a_Record)
+The_Inevitable_End
+
+Most common terms:
+DB_class: 1.000
+album: 0.920
+releas: 0.889
+singl: 0.819
+record: 0.799
+first: 0.719
+one: 0.701
+debut: 0.663
+music: 0.660
+number: 0.649
+========================
+========================
+CLUSTER 3: 331 MEMBERS
+
+Representative articles:
+Machete_(film)
+Homeward_Bound_II:_Lost_in_San_Francisco
+Jennifer_Lawrence
+American_Gangster_(film)
+Great_Grand_Masti
+Coming_to_America
+Eddie_Murphy
+Linewatch
+Charlotte's_Web_(1973_film)
+Flushed_Away
+
+Most common terms:
+DB_class: 1.000
+film: 0.994
+direct: 0.562
+star: 0.547
+releas: 0.535
+produc: 0.529
+american: 0.520
+role: 0.432
+award: 0.417
+first: 0.402
+========================
+========================
+CLUSTER 4: 94 MEMBERS
+
+Representative articles:
+ISF_International_School_Frankfurt_Rhein-Main
+Middlewich_High_School
+Iona_Preparatory_School
+Little_Rock_Nine
+Winchester_School_of_Art
+Laurel_Springs_School
+Wallington_County_Grammar_School
+Yishun_Town_Secondary_School
+Yucaipa_High_School
+Jimtown_High_School_(Elkhart,_Indiana)
+
+Most common terms:
+DB_class: 1.000
+school: 1.000
+high: 0.617
+student: 0.564
+locat: 0.479
+year: 0.351
+secondari: 0.319
+public: 0.309
+educ: 0.277
+state: 0.277
+========================
+========================
+CLUSTER 5: 78 MEMBERS
+
+Representative articles:
+Shamrock_Rovers_F.C.
+Panathinaikos_A.O.
+Robin_van_Persie
+Alex_Ferguson
+U.C._Sampdoria
+Ryan_Giggs
+Cristiano_Ronaldo
+Luis_Suárez
+Michel_Platini
+UEFA_Champions_League
+
+Most common terms:
+footbal: 1.000
+DB_class: 1.000
+club: 0.974
+leagu: 0.962
+cup: 0.910
+team: 0.897
+play: 0.846
+uefa: 0.795
+profession: 0.795
+first: 0.756
+========================
