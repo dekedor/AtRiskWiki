@@ -3,7 +3,7 @@ import pandas as pd
 import re
 import os
 
-def GetGoogleTrends(subject, deleteTempFile = False):
+def GetGoogleTrends(subject, page_id, deleteTempFile = False):
     """
     Grabs data from Google trends for a given topic.
     Creates a temporary csv file that can optionall be deleted after use.
@@ -28,11 +28,22 @@ def GetGoogleTrends(subject, deleteTempFile = False):
     data = re.sub('Interest.*', '', data)
     data = re.sub('\n\n\n\n', '', data)
     data = re.split('.*, \n', data)[0]
+    data = re.split('\n\n', data)[0]
     # write temporary file then open in pandas... this is just easier, but might be a better way
     f = open(path, 'w+')
     f.write(data)
     f.close()
     df = pd.read_csv(path)
+    df.columns = ['Week', 'Searches']
+    df['Week'] = [re.sub('-', '', re.split(' - ', week)[0]) for week in df['Week']]
+    df['page_id'] = [page_id for week in df['Week']]
+    df = df[['page_id', 'Week', 'Searches']]
     if deleteTempFile:
         os.remove(path)
     return df
+
+def DressTitle(title):
+    s = re.sub('\(', '', title)
+    s = re.sub('\)', '', s)
+    s = re.sub('_', ' ', s)
+    return s
