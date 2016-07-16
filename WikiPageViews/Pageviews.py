@@ -2,6 +2,8 @@ import requests
 from datetime import date
 from dateutil.rrule import rrule, DAILY, MONTHLY
 import re
+import numpy as np
+import pandas as pd
 
 def GetPageViewsTyped(title, start, end, user_type='all-agents'):
     """
@@ -102,6 +104,28 @@ def GetPageViewsPreOct2015(title, start, end, s=None):
         data = s.get(url).json()
         for code in data['daily_views']:
             field = re.sub('-', '', code)
-            pageviews[field] = {}
-            pageviews[field]['all'] = data['daily_views'][code]
+            pageviews[field] = data['daily_views'][code]
     return pageviews
+
+def DateString2Week(dateStr):
+    try:
+        return (date(int(dateStr[0:4]), int(dateStr[4:6]), int(dateStr[6:8])) - date(2001, 1, 14)).days//7
+    except ValueError:
+        return -1
+    
+def AggregateViewsByWeek(views, page_id):
+    df = pd.DataFrame().from_dict(views, orient='index')
+    df['Week'] = np.array([DateString2Week(item) for item in df.index])
+    viewsByWeek = df.groupby('Week', sort=True).count()
+    viewsByWeek.columns = ['Views']
+    viewsByWeek = viewsByWeek[viewsByWeek.index > 0]
+    viewsByWeek['Page ID'] = np.array([page_id for week in viewsByWeek.index])
+    viewsByWeek['Week'] = viewsByWeek.index
+    viewsByWeek = viewsByWeek[['Page ID', 'Week', 'Views']]
+    return viewsByWeek
+
+def GrabAndWritePageViews(title, page_id, start, end, path):
+    views = Pageviews.GetPageViewsPreOct2015('Autism', 200801, 201501)
+    pageViews = Pageviews.AggregateViewsByWeek(views, page_id)
+    header = not isfile(path)
+    pageViews.to_csv(path, mode='a', header=header, index=False)
