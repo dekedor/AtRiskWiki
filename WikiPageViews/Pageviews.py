@@ -4,6 +4,7 @@ from dateutil.rrule import rrule, DAILY, MONTHLY
 import re
 import numpy as np
 import pandas as pd
+from os.path import isfile
 
 def GetPageViewsTyped(title, start, end, user_type='all-agents'):
     """
@@ -125,7 +126,7 @@ def AggregateViewsByWeek(views, page_id):
     return viewsByWeek
 
 def GrabAndWritePageViews(title, page_id, start, end, path):
-    views = Pageviews.GetPageViewsPreOct2015('Autism', 200801, 201501)
-    pageViews = Pageviews.AggregateViewsByWeek(views, page_id)
+    views = GetPageViewsPreOct2015('Autism', 200801, 201501)
+    pageViews = AggregateViewsByWeek(views, page_id)
     header = not isfile(path)
     pageViews.to_csv(path, mode='a', header=header, index=False)
