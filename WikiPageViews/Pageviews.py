@@ -5,6 +5,7 @@ import re
 import numpy as np
 import pandas as pd
 from os.path import isfile
+from time import sleep
 
 def GetPageViewsTyped(title, start, end, user_type='all-agents'):
     """
@@ -33,6 +34,9 @@ def GetPageViewsTyped(title, start, end, user_type='all-agents'):
     url = 'http://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/%s/%s/daily/%d/%d' \
     % (user_type, title, start, end)
     data = requests.get(url).json()
+    if 'items' not in data.keys():
+        sleep(15)
+        data = requests.get(url).json()
     pageviews = {}
     for day in data['items']:
         pageviews[day['timestamp'][0:-2]] = day['views']
@@ -62,7 +66,7 @@ def GetPageViews(title, start, end):
     for dt in rrule(DAILY, dtstart=start_date, until=end_date):
         code = '%04d%02d%02d' % (dt.year, dt.month, dt.day)
         pageviews[code] = {}
-        if code in pageviews_spider:
+        if code in pageviews_user:
             pageviews[code]['user'] = pageviews_user[code]
         else:
             pageviews[code]['user'] = 0
@@ -117,7 +121,7 @@ def DateString2Week(dateStr):
 def AggregateViewsByWeek(views, page_id):
     df = pd.DataFrame().from_dict(views, orient='index')
     df['Week'] = np.array([DateString2Week(item) for item in df.index])
-    viewsByWeek = df.groupby('Week', sort=True).count()
+    viewsByWeek = df.groupby('Week', sort=True).sum()
     viewsByWeek.columns = ['Views']
     viewsByWeek = viewsByWeek[viewsByWeek.index > 0]
     viewsByWeek['Page ID'] = np.array([page_id for week in viewsByWeek.index])
@@ -126,17 +130,17 @@ def AggregateViewsByWeek(views, page_id):
     return viewsByWeek
 
 def GrabAndWritePageViews(title, page_id, start, end, path):
-    views = GetPageViewsPreOct2015('Autism', 200801, 201501)
+    views = GetPageViewsPreOct2015(title, start, end)
     pageViews = AggregateViewsByWeek(views, page_id)
     header = not isfile(path)
     pageViews.to_csv(path, mode='a', header=header, index=False)
-
+    
 def GrabAndWritePageViewsPost2015(title, page_id, start, end, path):
     views = GetPageViews(title, start, end)
     pageViews = AggregateViewsByWeekPost2015(views, page_id)
     header = not isfile(path)
     pageViews.to_csv(path, mode='a', header=header, index=False)
-
+    
 def AggregateViewsByWeekPost2015(views, page_id):
     df = pd.DataFrame().from_dict(views, orient='index')
     df['Week'] = np.array([DateString2Week(item) for item in df.index])
