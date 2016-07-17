@@ -130,3 +130,20 @@ def GrabAndWritePageViews(title, page_id, start, end, path):
     pageViews = AggregateViewsByWeek(views, page_id)
     header = not isfile(path)
     pageViews.to_csv(path, mode='a', header=header, index=False)
+
+def GrabAndWritePageViewsPost2015(title, page_id, start, end, path):
+    views = GetPageViews(title, start, end)
+    pageViews = AggregateViewsByWeekPost2015(views, page_id)
+    header = not isfile(path)
+    pageViews.to_csv(path, mode='a', header=header, index=False)
+
+def AggregateViewsByWeekPost2015(views, page_id):
+    df = pd.DataFrame().from_dict(views, orient='index')
+    df['Week'] = np.array([DateString2Week(item) for item in df.index])
+    viewsByWeek = df.groupby('Week', sort=True).sum()
+    viewsByWeek.columns = ['user_views', 'all_views', 'spider_views', 'bot_views']
+    viewsByWeek = viewsByWeek[viewsByWeek.index > 0]
+    viewsByWeek['page_id'] = np.array([page_id for week in viewsByWeek.index])
+    viewsByWeek['Week'] = viewsByWeek.index
+    viewsByWeek = viewsByWeek[['page_id', 'Week', 'all_views', 'user_views', 'spider_views', 'bot_views']]
+    return viewsByWeek
