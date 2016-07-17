@@ -7,7 +7,7 @@ import pandas as pd
 from os.path import isfile
 from time import sleep
 
-def GetPageViewsTyped(title, start, end, user_type='all-agents'):
+def GetPageViewsTyped(title, start, end, user_type='all-agents', s=None):
     """
     This function returns the page views by day for a given page going back to 
     October 1st, 2015 for a give user type. Please do not make more than 500 requests/s.
@@ -31,18 +31,23 @@ def GetPageViewsTyped(title, start, end, user_type='all-agents'):
         start = 2015100100
     if end < 2015100100:
         end = 2015100100
+    if not s:
+        s = requests.Session()
     url = 'http://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/%s/%s/daily/%d/%d' \
     % (user_type, title, start, end)
-    data = requests.get(url).json()
-    if 'items' not in data.keys():
-        sleep(15)
-        data = requests.get(url).json()
+    data = s.get(url).json()
     pageviews = {}
-    for day in data['items']:
-        pageviews[day['timestamp'][0:-2]] = day['views']
-    return pageviews
+    try:
+        for day in data['items']:
+            pageviews[day['timestamp'][0:-2]] = day['views']
+    except:
+        sleep(60)
+        data = s.get(url).json()
+        for day in data['items']:
+            pageviews[day['timestamp'][0:-2]] = day['views']
+    return pageviews, s
 
-def GetPageViews(title, start, end):
+def GetPageViews(title, start, end, s=None):
     """
     Calls GetPageViewsTyped and returns data for individual user types.
 
@@ -55,9 +60,23 @@ def GetPageViews(title, start, end):
         pageviews: dictionary with timestamps as keys and number of views on that day as entries
                    each user type has it's own entry for each day
     """
-    pageviews_user = GetPageViewsTyped(title, start, end, 'user')
-    pageviews_spider = GetPageViewsTyped(title, start, end, 'spider')
-    pageviews_bot = GetPageViewsTyped(title, start, end, 'bot')
+    if not s:
+        s = requests.Session()
+    try:
+        pageviews_user, s = GetPageViewsTyped(title, start, end, 'user', s)
+    except:
+        sleep(60)
+        pageviews_user, s = GetPageViewsTyped(title, start, end, 'user', s)
+    try:
+        pageviews_spider, s = GetPageViewsTyped(title, start, end, 'spider', s)
+    except:
+        sleep(60)
+        pageviews_spider, s = GetPageViewsTyped(title, start, end, 'spider', s)
+    try:
+        pageviews_bot, s = GetPageViewsTyped(title, start, end, 'bot', s)
+    except:
+        sleep(60)
+        pageviews_bot, s = GetPageViewsTyped(title, start, end, 'bot', s)
     pageviews = {}
     start_str = str(start)
     end_str = str(end)
@@ -79,7 +98,7 @@ def GetPageViews(title, start, end):
         else:
             pageviews[code]['bot'] = 0
         pageviews[code]['all'] = pageviews[code]['user'] + pageviews[code]['spider'] + pageviews[code]['bot']
-    return pageviews
+    return pageviews, s
 
 def GetPageViewsPreOct2015(title, start, end, s=None):
     """
@@ -135,11 +154,14 @@ def GrabAndWritePageViews(title, page_id, start, end, path):
     header = not isfile(path)
     pageViews.to_csv(path, mode='a', header=header, index=False)
     
-def GrabAndWritePageViewsPost2015(title, page_id, start, end, path):
-    views = GetPageViews(title, start, end)
+def GrabAndWritePageViewsPost2015(title, page_id, start, end, path, s=None):
+    if not s:
+        s = requests.Session()
+    views, s = GetPageViews(title, start, end, s)
     pageViews = AggregateViewsByWeekPost2015(views, page_id)
     header = not isfile(path)
     pageViews.to_csv(path, mode='a', header=header, index=False)
+    return s
     
 def AggregateViewsByWeekPost2015(views, page_id):
     df = pd.DataFrame().from_dict(views, orient='index')
