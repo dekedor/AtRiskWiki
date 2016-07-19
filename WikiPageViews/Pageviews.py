@@ -129,7 +129,7 @@ def GetPageViewsPreOct2015(title, start, end, s=None):
         for code in data['daily_views']:
             field = re.sub('-', '', code)
             pageviews[field] = data['daily_views'][code]
-    return pageviews
+    return pageviews, s
 
 def DateString2Week(dateStr):
     try:
