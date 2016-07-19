@@ -148,11 +148,12 @@ def AggregateViewsByWeek(views, page_id):
     viewsByWeek = viewsByWeek[['Page ID', 'Week', 'Views']]
     return viewsByWeek
 
-def GrabAndWritePageViews(title, page_id, start, end, path):
-    views = GetPageViewsPreOct2015(title, start, end)
+def GrabAndWritePageViews(title, page_id, start, end, path, s):
+    views, s = GetPageViewsPreOct2015(title, start, end, s)
     pageViews = AggregateViewsByWeek(views, page_id)
     header = not isfile(path)
     pageViews.to_csv(path, mode='a', header=header, index=False)
+    return s
     
 def GrabAndWritePageViewsPost2015(title, page_id, start, end, path, s=None):
     if not s:
