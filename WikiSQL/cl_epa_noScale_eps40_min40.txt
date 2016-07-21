@@ -1,0 +1,243 @@
+========================
+CLUSTER 0: 129 MEMBERS
+
+Representative articles:
+Mayberry_R.F.D.
+Pawn_Stars
+The_Biggest_Winner
+Disney's_House_of_Mouse
+Ben_10_(TV_series)
+Power_Rangers_Samurai
+Super_Why!
+Peg_+_Cat
+Cory_in_the_House
+One_Life_to_Live
+
+Most common terms:
+televis: 1.000
+seri: 0.992
+debut: 0.922
+program: 0.736
+show: 0.721
+american: 0.690
+englishlanguag: 0.581
+end: 0.527
+use: 0.419
+anim: 0.364
+========================
+========================
+CLUSTER 1: 116 MEMBERS
+
+Representative articles:
+Aras_Özbiliz
+Simone_Zaza
+Carlton_Cole
+Theo_Walcott
+Olivier_Giroud
+Javier_Pastore
+Ched_Evans
+Joey_Barton
+Neville_Southall
+Ola_Toivonen
+
+Most common terms:
+footbal: 1.000
+peopl: 1.000
+DB_class: 1.000
+live: 1.000
+player: 1.000
+birth: 1.000
+fc: 0.940
+associ: 0.914
+intern: 0.897
+expatri: 0.776
+========================
+========================
+CLUSTER 2: 339 MEMBERS
+
+Representative articles:
+Hulk_Hogan
+Jared_Padalecki
+Eddie_Murphy
+Kim_Kardashian
+Van_Epperson
+Fergie_(singer)
+Pink_(singer)
+Benjamin_King_(actor)
+Courtney_Love
+Lee_Thompson_Young
+
+Most common terms:
+DB_class: 1.000
+birth: 0.994
+peopl: 0.991
+american: 0.988
+live: 0.923
+stcenturi: 0.808
+televis: 0.764
+film: 0.758
+descent: 0.643
+male: 0.622
+========================
+========================
+CLUSTER 3: 282 MEMBERS
+
+Representative articles:
+Scooby-Doo!_WrestleMania_Mystery
+The_Book_of_Eli
+Born_to_Raise_Hell_(film)
+A_Good_Man_(2014_film)
+True_Crime_(1999_film)
+Charlotte's_Web_2:_Wilbur's_Great_Adventure
+Carrie_(2013_film)
+Wheels_on_Meals
+Chicken_Run
+Toy_Story_2
+
+Most common terms:
+film: 1.000
+DB_class: 1.000
+englishlanguag: 0.723
+american: 0.713
+set: 0.642
+direct: 0.631
+shot: 0.450
+use: 0.447
+action: 0.426
+pictur: 0.404
+========================
+========================
+CLUSTER 4: 88 MEMBERS
+
+Representative articles:
+Club_Penguin
+Grand_Theft_Auto_V
+Clash_of_Clans
+We_Cheer_2
+Metal_Gear_Solid
+EA_Sports_F1_series
+The_Elder_Scrolls_V:_Skyrim
+Barney's_Hide_&_Seek_Game
+WWE_'12
+Halo_3
+
+Most common terms:
+DB_class: 1.000
+game: 1.000
+video: 0.989
+use: 0.477
+develop: 0.455
+multiplay: 0.455
+window: 0.443
+mdi: 0.420
+date: 0.420
+fiction: 0.364
+========================
+========================
+CLUSTER 5: 56 MEMBERS
+
+Representative articles:
+Al_Horford
+Arron_Afflalo
+Dirk_Nowitzki
+Derrick_Rose
+Zaza_Pachulia
+Tim_Duncan
+Kevin_Love
+Chris_Paul
+Paul_George
+Jimmy_Butler_(basketball)
+
+Most common terms:
+basketbal: 1.000
+peopl: 1.000
+DB_class: 1.000
+player: 1.000
+birth: 1.000
+live: 0.982
+draft: 0.893
+pick: 0.893
+nation: 0.857
+men: 0.839
+========================
+========================
+CLUSTER 6: 67 MEMBERS
+
+Representative articles:
+Nickelback
+Cimorelli
+Migos
+Spice_Girls
+When_in_Rome_(band)
+Girls_Aloud
+Destiny's_Child
+Christopher_and_the_Souls
+Suicide_Silence
+The_Network
+
+Most common terms:
+music: 1.000
+group: 1.000
+DB_class: 1.000
+establish: 0.910
+artist: 0.701
+american: 0.687
+rock: 0.642
+record: 0.642
+use: 0.418
+award: 0.403
+========================
+========================
+CLUSTER 7: 53 MEMBERS
+
+Representative articles:
+Delirium_(Ellie_Goulding_album)
+21st_Century_Breakdown
+Vox_Humana_(Kenny_Loggins_album)
+The_Sweet_Escape
+Technique_(album)
+Believe_(Justin_Bieber_album)
+Il_Divo_(album)
+Unpredictable_(Jamie_Foxx_album)
+Rebel_Heart_(Madonna_album)
+Blurryface
+
+Most common terms:
+DB_class: 1.000
+album: 1.000
+record: 0.792
+produc: 0.679
+englishlanguag: 0.642
+use: 0.302
+date: 0.189
+mdi: 0.189
+john: 0.170
+rock: 0.170
+========================
+========================
+CLUSTER 8: 46 MEMBERS
+
+Representative articles:
+Roo
+Erica_Kane
+Rabbit_(Winnie-the-Pooh)
+Beast_(Disney)
+Albus_Dumbledore
+Joey_Tribbiani
+Joker_(comics)
+Percy_Jackson
+Flynn_Rider
+Todd_Manning
+
+Most common terms:
+DB_class: 1.000
+fiction: 1.000
+charact: 0.978
+introduc: 0.957
+peopl: 0.413
+use: 0.370
+film: 0.348
+date: 0.239
+mdi: 0.239
+child: 0.196
+========================
