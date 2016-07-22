@@ -35,6 +35,22 @@ def Timestamp2Datetime(timestamp):
     second = int(timestamp_str[12:14])
     return datetime.datetime(year, month, day, hour, minute, second)
 
+def Timestamp2Date(timestamp):
+    """
+    Converts timestamps from the Tools DB into datetime objects.
+
+    input:
+        timestamp: timestamp from Tools DB (format yyyymmddhhmmss)
+
+    output:
+        datetime object
+    """
+    timestamp_str = str(timestamp)
+    year = int(timestamp_str[0:4])
+    month = int(timestamp_str[4:6])
+    day = int(timestamp_str[6:8])
+    return datetime.date(year, month, day)
+
 def GetRevisionTimeStamps(title):
     """
     Querries Tools DB and returns the date and times of all revisions to a particular
@@ -237,8 +253,8 @@ def RevisionToWeeklyAgg(revs):
     revs_cut = revs[(revs['Protected'] == True) | (revs['Unprotected'] == True)]
     return df, revs_cut
 
-def WriteRevsToFile(df, start, end, path1, path2):
-    revs = [GetRevisions(df['page_id'].values[i]) for i in range(start, end)]
+def WriteRevsToFile(page_ids, start, end, path1, path2):
+    revs = [GetRevisions(page_ids[i]) for i in range(start, end)]
     end = end - start
     start = 0
     dfs = [RevisionToWeeklyAgg(revs[i]) if revs[i] is not None else None for i in range(start, end)]

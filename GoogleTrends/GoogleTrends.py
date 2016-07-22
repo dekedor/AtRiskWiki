@@ -13,8 +13,9 @@ def GetGoogleTrends(subject, page_id, deleteTempFile = False):
     output
         Dataframe of number of searches for each week
     """
-    google_username = "atriskwikipedia@gmail.com"
-    google_password = "cdipsworkshop"
+    subject = re.sub(',', '', subject)
+    google_username = "the.kevin.osullivan@gmail.com"
+    google_password = "d4rks1v3r"
     path = '%s_temp.csv' % subject
     connector = pyGTrends(google_username, google_password)
     connector.request_report(subject)
@@ -33,7 +34,10 @@ def GetGoogleTrends(subject, page_id, deleteTempFile = False):
     f = open(path, 'w+')
     f.write(data)
     f.close()
-    df = pd.read_csv(path)
+    try:
+        df = pd.read_csv(path)
+    except:
+        return None
     df.columns = ['Week', 'Searches']
     df['Week'] = [re.sub('-', '', re.split(' - ', week)[0]) for week in df['Week']]
     df['page_id'] = [page_id for week in df['Week']]
