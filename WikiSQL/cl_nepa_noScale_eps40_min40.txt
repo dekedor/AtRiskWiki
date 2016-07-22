@@ -1,0 +1,260 @@
+========================
+CLUSTER 0: 212 MEMBERS
+
+
+Most common terms:
+film: 1.000
+direct: 0.623
+englishlanguag: 0.547
+set: 0.476
+american: 0.467
+score: 0.292
+use: 0.283
+shot: 0.259
+base: 0.255
+drama: 0.231
+pictur: 0.222
+comedi: 0.217
+stub: 0.203
+fiction: 0.170
+english: 0.165
+blackandwhit: 0.160
+indian: 0.151
+screenplay: 0.151
+action: 0.132
+date: 0.118
+========================
+========================
+CLUSTER 1: 152 MEMBERS
+
+
+Most common terms:
+DB_class: 1.000
+geographi: 0.961
+stub: 0.961
+counti: 0.855
+popul: 0.684
+place: 0.684
+villag: 0.289
+provinc: 0.072
+municip: 0.046
+commun: 0.033
+neyriz: 0.026
+urmia: 0.020
+ahvaz: 0.013
+parish: 0.013
+goleniw: 0.013
+aligudarz: 0.013
+amol: 0.013
+qorveh: 0.013
+kuhbanan: 0.013
+qazvin: 0.013
+========================
+========================
+CLUSTER 2: 195 MEMBERS
+
+
+Most common terms:
+DB_class: 1.000
+album: 1.000
+record: 0.533
+produc: 0.462
+englishlanguag: 0.195
+use: 0.185
+stub: 0.164
+music: 0.133
+debut: 0.133
+live: 0.113
+cover: 0.113
+english: 0.113
+compil: 0.097
+mdi: 0.077
+date: 0.077
+british: 0.077
+lack: 0.072
+infobox: 0.072
+video: 0.062
+band: 0.056
+========================
+========================
+CLUSTER 3: 73 MEMBERS
+
+
+Most common terms:
+video: 1.000
+DB_class: 1.000
+game: 1.000
+playstat: 0.548
+develop: 0.507
+window: 0.425
+set: 0.274
+xbox: 0.274
+unit: 0.274
+multiplay: 0.260
+nintendo: 0.260
+fiction: 0.233
+singleplay: 0.219
+roleplay: 0.219
+state: 0.205
+use: 0.192
+interact: 0.164
+consol: 0.164
+os: 0.151
+date: 0.151
+========================
+========================
+CLUSTER 4: 65 MEMBERS
+
+
+Most common terms:
+music: 1.000
+DB_class: 1.000
+group: 1.000
+establish: 0.908
+rock: 0.646
+american: 0.492
+artist: 0.446
+record: 0.369
+disestablish: 0.231
+metal: 0.215
+california: 0.185
+use: 0.169
+pop: 0.169
+altern: 0.169
+heavi: 0.154
+quintet: 0.138
+indi: 0.138
+british: 0.138
+english: 0.123
+psychedel: 0.092
+========================
+========================
+CLUSTER 5: 84 MEMBERS
+
+
+Most common terms:
+DB_class: 1.000
+televis: 1.000
+seri: 0.988
+debut: 0.893
+show: 0.714
+program: 0.690
+end: 0.679
+american: 0.655
+englishlanguag: 0.536
+network: 0.476
+set: 0.405
+programm: 0.238
+comedi: 0.238
+british: 0.226
+use: 0.214
+sitcom: 0.214
+drama: 0.202
+fiction: 0.167
+anim: 0.155
+film: 0.155
+========================
+========================
+CLUSTER 6: 263 MEMBERS
+
+
+Most common terms:
+player: 1.000
+DB_class: 1.000
+birth: 0.996
+peopl: 0.958
+live: 0.897
+footbal: 0.844
+fc: 0.612
+leagu: 0.608
+associ: 0.468
+sportspeopl: 0.430
+expatri: 0.361
+intern: 0.346
+use: 0.262
+english: 0.251
+american: 0.247
+unit: 0.243
+stub: 0.198
+midfield: 0.190
+citi: 0.190
+premier: 0.186
+========================
+========================
+CLUSTER 7: 62 MEMBERS
+
+
+Most common terms:
+singlechart: 1.000
+DB_class: 1.000
+song: 1.000
+usag: 1.000
+singl: 0.952
+written: 0.839
+record: 0.823
+without: 0.806
+call: 0.806
+produc: 0.613
+dutch: 0.548
+numberon: 0.532
+zealand: 0.500
+artist: 0.500
+new: 0.500
+flander: 0.500
+music: 0.484
+uk: 0.452
+franc: 0.435
+germani: 0.435
+========================
+========================
+CLUSTER 8: 41 MEMBERS
+
+
+Most common terms:
+gene: 1.000
+DB_class: 1.000
+human: 1.000
+chromosom: 1.000
+stub: 0.415
+ec: 0.098
+protein: 0.098
+mutat: 0.073
+mice: 0.073
+enzym: 0.049
+factor: 0.024
+associ: 0.024
+differenti: 0.024
+famili: 0.024
+mammal: 0.024
+genet: 0.024
+kinas: 0.024
+age: 0.024
+cluster: 0.024
+chemic: 0.024
+========================
+========================
+CLUSTER 9: 42 MEMBERS
+
+
+Most common terms:
+actor: 1.000
+DB_class: 1.000
+male: 1.000
+american: 1.000
+peopl: 0.952
+birth: 0.952
+film: 0.929
+televis: 0.786
+live: 0.714
+thcenturi: 0.643
+stcenturi: 0.571
+alumni: 0.429
+california: 0.357
+descent: 0.310
+death: 0.286
+mdi: 0.262
+use: 0.262
+stage: 0.262
+date: 0.262
+voic: 0.262
+========================
